@@ -46,6 +46,7 @@ Tools for managing infrastructure through code, including Terraform, Pulumi, and
 - [severity1/terraform-cloud-mcp](https://github.com/severity1/terraform-cloud-mcp) 🐍 ☁️ - A Model Context Protocol server that integrates AI assistants with the Terraform Cloud API, allowing you to manage your infrastructure.
 - [thrash888/terraform-mcp-server](https://github.com/thrash888/terraform-mcp-server) 📇 ☁️ - Terraform Registry MCP Server for interacting with Terraform registries.
 - [westonplatter/mcp-terraform-python](https://github.com/westonplatter/mcp-terraform-python) 🐍 🏠 - MCP server to run terraform operations locally.
+- [stakpak/mcp](https://github.com/stakpak/mcp) 🦀 - MCP Server for interacting, editing and generating code for Terraform, Kubernetes, GithubActions and Dockerfile.
 
 ### 🐳 Container Orchestration
 Tools for managing containers, Kubernetes clusters, and related orchestration platforms.
