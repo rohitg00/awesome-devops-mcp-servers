@@ -64,6 +64,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 ### ☁️ Cloud Providers
 
 #### AWS
+- [awslabs/mcp](https://github.com/awslabs/mcp) 🎖️ 🐍 ☁️ - Official AWS MCP server for interacting with AWS services using the Model Context Protocol. Enables AI assistants to manage AWS resources through natural language and programmatic interfaces.
 - [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - A lightweight but powerful server that enables AI assistants to execute AWS CLI commands, use Unix pipes, and apply prompt templates for common AWS tasks in a safe Docker environment with multi-architecture support.
 
 #### Azure
