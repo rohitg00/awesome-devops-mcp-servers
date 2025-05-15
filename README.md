@@ -203,6 +203,7 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 - [etruong42/prometheus-mcp](https://github.com/etruong42/prometheus-mcp) 🐍 ☁️ - MCP server to connect LLMs with Prometheus HTTP API for metrics querying and analysis.
 - [loginmqv/mcp-server-prometheus](https://github.com/loginmqv/mcp-server-prometheus) 📇 ☁️ - MCP server for interacting with Prometheus, enabling AI assistants to query and analyze metrics data.
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - A Model Context Protocol server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.
+- [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏎️ ☁️ - The implementation of Model Context Protocol (MCP) server for VictoriaMetrics. This provides access to your VictoriaMetrics instance and seamless integration with VictoriaMetrics APIs and documentation.
 
 ### 🔔 Alerting & Notification
 Tools for managing alerts and notifications in monitoring systems.
