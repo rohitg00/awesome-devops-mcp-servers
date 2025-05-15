@@ -61,6 +61,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations, featuring a management interface, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - [weibaohui/kom](https://github.com/weibaohui/kom) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations. It can be integrated as an SDK into your own project and includes nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health.
+- [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad) 🏎️ ☁️/🏠 - MCP Server for nomad management, and analyze your cluster, application health, logs and ACL.
 
 ### ☁️ Cloud Providers
 
