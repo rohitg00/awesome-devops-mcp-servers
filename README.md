@@ -145,6 +145,7 @@ Tools for providing visibility across the entire DevOps lifecycle.
 
 - [SBDI/mcp-devps-hub](https://github.com/SBDI/mcp-devps-hub) 🐍 🏠 - MCP server for end-to-end development visibility (Jira, GitHub, CI/CD, etc.).
 - [Acid-base/FastMCP-Proper](https://github.com/Acid-base/FastMCP-Proper) 🐍 🏠 - Python MCP server with CI/CD tooling and testability built-in.
+- [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).
 
 ### 👨‍💻 Code Execution
 Code execution servers. Allow LLMs to execute code in a secure environment.
