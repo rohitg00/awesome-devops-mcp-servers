@@ -225,6 +225,7 @@ Tools for monitoring application performance and infrastructure health.
 Tools for managing customer support tickets and helpdesk operations.
 
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
+- [dbsanfte/topdesk-mcp](https://github.com/dbsanfte/topdesk-mcp) 🐍 ☁️ - MCP server for the Topdesk ticketing system, allowing AI models to interact with and add comments to incident tickets.
 
 ### 📋 Project Management
 Tools for managing projects, issues, and workflows.
