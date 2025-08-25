@@ -62,6 +62,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [weibaohui/kom](https://github.com/weibaohui/kom) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations. It can be integrated as an SDK into your own project and includes nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health.
 - [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad) 🏎️ ☁️/🏠 - MCP Server for nomad management, and analyze your cluster, application health, logs and ACL.
+- [aadarshjain/kubectl-mcp-server](https://github.com/aadarshjain/kubectl-mcp-server) 🐍 🏠 - A STDIO based MCP server for Kubernetes that interacts seamlessly with your local clusters (~/.kube/config) using `kubectl` CLI commands. It uses read-only tool for avoiding accidental modifications/deletion of K8s resources unless asked to modify.
 
 ### ☁️ Cloud Providers
 
@@ -180,6 +181,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.
 - [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎 🪟 - Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs.
 - [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) 📇 ☁️ 🏠 🍎 🪟 🐧 - Turn a web service into an MCP server in one click without making any code changes.
+- [aadarshjain/postgres-mcp-server](https://github.com/aadarshjain/postgres-mcp-server) 🐍 🏠 - An MCP server that uses STDIO for communication and interfaces with a PostgreSQL database via natural language input.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
