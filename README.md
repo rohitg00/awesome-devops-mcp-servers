@@ -251,3 +251,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+- [AgentsKB](https://agentskb.com) - Give your AI agent expert-level knowledge. Pre-researched answers your agent can trust. Free tier included.
