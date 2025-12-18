@@ -171,6 +171,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 ### 🔗 Aggregators
 Servers for accessing many apps and tools through a single MCP server.
 
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) 🐍 🏠 - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
 - [Composiohq/Rube](https://github.com/composiohq/rube) - Rube is an MCP server built on the Composio integration platform. It connects your AI tools to 500+ apps.
 - [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible database. Local-first and private by design.
 - [metatool-ai/metatool-app](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.
