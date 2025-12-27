@@ -202,6 +202,13 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/server-puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
 
+## Build Tools & Dependency Management
+
+### 🔧 Dependency Analysis
+Tools for analyzing and managing project dependencies across build systems.
+
+- [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) ☕ ☁️ 🏠 🍎 🪟 🐧 - Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Provides version lookups, dependency health checks, age analysis, release patterns, and upgrade guidance with Context7 integration.
+
 ## Monitoring & Observability
 
 ### 📊 Metrics & Monitoring
