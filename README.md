@@ -82,6 +82,9 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 
 #### Alibaba Cloud
 - [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - A MCP server that enables AI assistants to operation resources on Alibaba Cloud, supporting ECS, Cloud Monitor, OOS and widely used cloud products.
+- 
+#### GCP
+- [eniayomi/gcp-mcp](https://github.com/eniayomi/gcp-mcp) - An MCP for Google Cloud Platform
 
 #### Other Cloud Platforms
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) 🐍 ☁️ - A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
