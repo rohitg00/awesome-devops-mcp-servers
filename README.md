@@ -252,6 +252,8 @@ Tools for managing projects, issues, and workflows.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
 
 ## Frameworks
+
+- [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 🏠 ☁️ - AI Agents framework with 64+ built-in MCP tools for automation, including search, memory, workflows, code execution, and file operations.
 Frameworks for building your own MCP servers.
 
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
