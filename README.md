@@ -224,6 +224,7 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - A Model Context Protocol server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏎️ ☁️ - The implementation of Model Context Protocol (MCP) server for VictoriaMetrics. This provides access to your VictoriaMetrics instance and seamless integration with VictoriaMetrics APIs and documentation.
 
+- [shibley/apistatuscheck-mcp-server](https://github.com/shibley/apistatuscheck-mcp-server) 📇 ☁️ - MCP server for checking real-time API status of 114+ cloud services (AWS, GitHub, Stripe, Vercel, etc.) directly from AI assistants like Claude and Cursor. Published on npm.
 ### 🔔 Alerting & Notification
 Tools for managing alerts and notifications in monitoring systems.
 
