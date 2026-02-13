@@ -261,6 +261,7 @@ Tools for managing projects, issues, and workflows.
 
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
+- [taskade/mcp](https://github.com/taskade/mcp) 📇 ☁️ - Official Taskade MCP server with 62+ tools for managing workspaces, projects, tasks, AI agents, templates, and media. Enables AI assistants to interact with Taskade for project management, task tracking, and workflow automation.
 
 ## Frameworks
 
