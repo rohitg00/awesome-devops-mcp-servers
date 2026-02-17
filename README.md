@@ -133,6 +133,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - A Model Context Protocol (MCP) server for querying the CVE-Search API. This server provides comprehensive access to CVE-Search, browse vendor and product、get CVE per CVE-ID、get the last updated CVEs.
 - [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) 🏎️ 🏠 - Conversational recon interface and MCP server powered by httpx and asnmap. Supports various reconnaissance levels for domain analysis, security header inspection, certificate analysis, and ASN lookup.
 - [imran-siddique/agent-os](https://github.com/imran-siddique/agent-os) 🐍 🏠 - Kernel-level governance MCP server for AI agents. Provides deterministic policy enforcement, compliance checking (SOC2, GDPR, HIPAA), audit logging (SQLite-based), and human-in-the-loop approvals. Install via `pip install agent-os-kernel`.
+- [takleb3rry/zitadel-mcp](https://github.com/takleb3rry/zitadel-mcp) 📇 ☁️/🏠 - MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language. Supports user lifecycle, RBAC, and OIDC configuration.
 
 ## CI/CD & DevOps Pipelines
 
