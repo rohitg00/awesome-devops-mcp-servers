@@ -166,6 +166,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment.
 Tools for testing, fault injection, and resilience validation.
 
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
+- [testdino-mcp](https://github.com/testdino-hq/testdino-mcp)  🏠 -A Model Context Protocol (MCP) server that connects TestDino to AI agents. This server enables you to interact with your TestDino test data directly through natural language commands.
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
