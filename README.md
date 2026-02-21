@@ -273,6 +273,7 @@ Frameworks for building your own MCP servers.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [tersePrompts/fastMCP4J](https://github.com/tersePrompts/fastMCP4J) ☕ 🏠 - Lightweight Java library for building MCP servers using annotations. Annotation-driven development with only 12 dependencies, built-in tools (memory, todo, planner, file ops, bash, telemetry), multi-class modules support, and <500ms cold start.
+- [juspay/neurolink](https://github.com/juspay/neurolink) 📇 ☁️/🏠 - TypeScript-first AI SDK that provides MCP server capabilities, enabling seamless integration between LLM applications and external tools. Supports 200+ AI/ML models with built-in content filtering and observability.
 
 ## Contributing
 
