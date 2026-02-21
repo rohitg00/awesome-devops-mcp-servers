@@ -1,472 +1,284 @@
-# Awesome LLM Agent Frameworks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome DevOps MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome LLM frameworks and agent development tools. If you have a
-suggestion, feel free to open an issue or pull request. (Last updated: 2026-02-15)
+A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps tools and capabilities.
+
+## What is MCP?
+
+[MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on DevOps-related MCP servers that extend AI capabilities through cloud infrastructure management, CLI operations, version control, security scanning, and other DevOps-related services.
+
+## Related Resources
+
+- [awesome](https://github.com/sindresorhus/awesome#readme) - Awesome lists about all kinds of interesting topics.
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/) - A comprehensive list of all MCP servers.
+- [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) - A list of MCP clients.
+
+## Legend
+
+- 🎖️ – official implementation
+- programming language
+  - 🐍 – Python codebase
+  - 📇 – TypeScript (or JavaScript) codebase
+  - 🏎️ – Go codebase
+  - 🦀 – Rust codebase
+  - #️⃣ - C# Codebase
+  - ☕ - Java codebase
+- scope
+  - ☁️ - Cloud Service
+  - 🏠 - Local Service
+  - 📟 - Embedded Systems
+- operating system
+  - 🍎 – For macOS
+  - 🪟 – For Windows
+  - 🐧 - For Linux
+
+## Server Implementations
+
+## Cloud Infrastructure
+
+### 🏗️ Infrastructure as Code
+Tools for managing infrastructure through code, including Terraform, Pulumi, and other IaC platforms.
+
+- [dulltz/mcp-server-hcp-terraform](https://github.com/dulltz/mcp-server-hcp-terraform) 🐍 ☁️ - MCP server for working with HashiCorp Cloud Platform (HCP) Terraform, enabling AI assistants to interact with Terraform Cloud resources.
+- [guilhermeyoshida/mcp-terraform-assistant](https://github.com/guilhermeyoshida/mcp-terraform-assistant) 🐍 🏠 - An MCP server for managing infrastructure as code using Terraform.
+- [jashkahar/Terraform-MCP-Server](https://github.com/jashkahar/Terraform-MCP-Server) 🐍 ☁️ - This project provides an MCP server that exposes Terraform infrastructure-as-code operations through natural language.
+- [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) 🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
+- [pulumi/mcp-server](https://github.com/pulumi/mcp-server) 🎖️ 📇 🏠 - MCP server for interacting with Pulumi using the Pulumi Automation API and Pulumi Cloud API. Enables MCP clients to perform Pulumi operations like retrieving package information, previewing changes, deploying updates, and retrieving stack outputs programmatically.
+- [severity1/terraform-cloud-mcp](https://github.com/severity1/terraform-cloud-mcp) 🐍 ☁️ - A Model Context Protocol server that integrates AI assistants with the Terraform Cloud API, allowing you to manage your infrastructure.
+- [thrash888/terraform-mcp-server](https://github.com/thrash888/terraform-mcp-server) 📇 ☁️ - Terraform Registry MCP Server for interacting with Terraform registries.
+- [westonplatter/mcp-terraform-python](https://github.com/westonplatter/mcp-terraform-python) 🐍 🏠 - MCP server to run terraform operations locally.
+- [stakpak/mcp](https://github.com/stakpak/mcp) 🦀 - MCP Server for interacting, editing and generating code for Terraform, Kubernetes, GithubActions and Dockerfile.
+
+### 🐳 Container Orchestration
+Tools for managing containers, Kubernetes clusters, and related orchestration platforms.
+
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) 🐍 ☁️/🏠 - A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants like Claude, Cursor, and others to interact with Kubernetes clusters through natural language.
+- [alexei-led/k8s-mcp-server](https://github.com/alexei-led/k8s-mcp-server) 🐍 🏠 - A lightweight yet robust server that empowers AI assistants to securely execute Kubernetes CLI commands (`kubectl`, `helm`, `istioctl`, and `argocd`) using Unix pipes in a safe Docker environment with multi-architecture support.
+- [Flux159/mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) 📇 ☁️/🏠 - Typescript implementation of Kubernetes cluster operations for pods, deployments, services.
+- [manusa/kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) 🏎️ 🏠 - A powerful Kubernetes MCP server with additional support for OpenShift. Besides providing CRUD operations for any Kubernetes resource, this server provides specialized tools to interact with your cluster.
+- [portainer/portainer-mcp](https://github.com/portainer/portainer-mcp) 🏎️ ☁️/🏠 - A powerful MCP server that enables AI assistants to seamlessly interact with Portainer instances, providing natural language access to container management, deployment operations, and infrastructure monitoring capabilities.
+- [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) 🐍 ☁️/🏠 - A Model Context Protocol (MCP) server for Kubernetes that enables AI assistants like Claude, Cursor, and others to interact with Kubernetes clusters through natural language.
+- [rrmistry/tilt-mcp](https://github.com/rrmistry/tilt-mcp) 🐍 🏠 🍎 🪟 🐧 - Model Context Protocol server that integrates with Tilt to provide programmatic access to Tilt resources, logs, and management operations for Kubernetes development environments.
+- [strowk/mcp-k8s-go](https://github.com/strowk/mcp-k8s-go) 🏎️ ☁️/🏠 - Kubernetes cluster operations through MCP.
+- [weibaohui/k8m](https://github.com/weibaohui/k8m) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations, featuring a management interface, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
+- [weibaohui/kom](https://github.com/weibaohui/kom) 🏎️ ☁️/🏠 - Provides MCP multi-cluster Kubernetes management and operations. It can be integrated as an SDK into your own project and includes nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.
+- [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health.
+- [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad) 🏎️ ☁️/🏠 - MCP Server for nomad management, and analyze your cluster, application health, logs and ACL.
+- [aadarshjain/kubectl-mcp-server](https://github.com/aadarshjain/kubectl-mcp-server) 🐍 🏠 - A STDIO based MCP server for Kubernetes that interacts seamlessly with your local clusters (~/.kube/config) using `kubectl` CLI commands. Uses read-only operations by default to prevent accidental modifications/deletion of K8s resources.
+
+### ☁️ Cloud Providers
+
+#### AWS
+- [awslabs/mcp](https://github.com/awslabs/mcp) 🎖️ 🐍 ☁️ - Official AWS MCP server for interacting with AWS services using the Model Context Protocol. Enables AI assistants to manage AWS resources through natural language and programmatic interfaces.
+- [alexei-led/aws-mcp-server](https://github.com/alexei-led/aws-mcp-server) 🐍 ☁️ - A lightweight but powerful server that enables AI assistants to execute AWS CLI commands, use Unix pipes, and apply prompt templates for common AWS tasks in a safe Docker environment with multi-architecture support.
+
+#### Azure
+- [aaronsb/ado-mcp](https://github.com/aaronsb/ado-mcp) 📇 ☁️ - Azure DevOps MCP Server for integrating AI assistants with Azure DevOps services.
+- [erikhoward/adls-mcp-server](https://github.com/erikhoward/adls-mcp-server) 🐍 ☁️/🏠 - MCP Server for Azure Data Lake Storage. It can perform manage containers, read/write/upload/download operations on container files and manage file metadata.
+- [hardik-id/azure-resource-graph-mcp-server](https://github.com/hardik-id/azure-resource-graph-mcp-server) 📇 ☁️/🏠 - A Model Context Protocol server for querying and analyzing Azure resources at scale using Azure Resource Graph, enabling AI assistants to explore and monitor Azure infrastructure.
+- [jdubois/azure-cli-mcp](https://github.com/jdubois/azure-cli-mcp) 🐍 ☁️ - A wrapper around the Azure CLI command line that allows you to talk directly to Azure.
+- [stefanskiasan/azure-devops-mcp-server](https://github.com/stefanskiasan/azure-devops-mcp-server) 📇 ☁️ - MCP Server for Cline to Access Azure DevOps.
+- [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
+- [Vortiago/mcp-azure-devops](https://github.com/Vortiago/mcp-azure-devops) 📇 ☁️ - A Model Context Protocol server enabling AI assistants to interact with Azure DevOps services via Python SDK.
+
+#### Alibaba Cloud
+- [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - A MCP server that enables AI assistants to operation resources on Alibaba Cloud, supporting ECS, Cloud Monitor, OOS and widely used cloud products.
+
+#### GCP
+- [eniayomi/gcp-mcp](https://github.com/eniayomi/gcp-mcp) 📇 ☁️ - A Model Context Protocol server for Google Cloud Platform, enabling AI assistants to interact with GCP resources.
+
+#### Other Cloud Platforms
+- [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) 🐍 ☁️ - A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Integration with Cloudflare services including Workers, KV, R2, and D1.
+- [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) 🏎️ 🏠/☁️ - Go-based MCP Server for interfacing with Nutanix Prism Central resources.
+
+### 🖥️ Command Line
+Run commands, capture output and otherwise interact with shells and command line tools.
+
+- [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - A Model Context Protocol server that provides access to iTerm. You can run commands and ask questions about what you see in the iTerm terminal.
+- [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Run any command with `run_command` and `run_script` tools.
+- [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - Safe Python interpreter based on HF Smolagents `LocalPythonExecutor`
+- [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - Command line interface with secure execution and customizable security policies
+- [OthmaneBlial/term_mcp_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) 🐍 🏠 - A DeepSeek MCP-like Server for Terminal
+- [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
+- [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - Cisco pyATS server enabling structured, model-driven interaction with network devices.
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
+
+### 🔄 Version Control
+Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
+
+- [adhikasp/mcp-git-ingest](https://github.com/adhikasp/mcp-git-ingest) 🐍 🏠 - Read and analyze GitHub repositories with your LLM
+- [ddukbg/github-enterprise-mcp](https://github.com/ddukbg/github-enterprise-mcp) 📇 ☁️ 🏠 - MCP server for GitHub Enterprise API integration
+- [gitea/gitea-mcp](https://gitea.com/gitea/gitea-mcp) 🎖️ 🏎️ ☁️ 🏠 🍎 🪟 🐧 - Interactive with Gitea instances with MCP.
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) 📇 ☁️ - Official GitHub server for integration with repository management, PRs, issues, and more.
+- [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) 📇 ☁️ - Interact seamlessly with issues and merge requests of your GitLab projects.
+- [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/server-git) 🐍 🏠 - Direct Git repository operations including reading, searching, and analyzing local repositories
+- [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/server-gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations
+- [oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Gitee API integration, repository, issue, and pull request management, and more.
+- [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
+
+### 🔒 Security
+MCP servers for security operations, vulnerability scanning, and threat detection.
+
+- [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ☕ 🏠 - A Model Context Protocol server for Ghidra that enables LLMs to autonomously reverse engineer applications. Provides tools for decompiling binaries, renaming methods and data, and listing methods, classes, imports, and exports.
+- [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
+- [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) 📇 🪟 ☁️ - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.
+- [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) 📇 🪟 ☁️ - MCP server for querying the VirusTotal API. This server provides tools for scanning URLs, analyzing file hashes, and retrieving IP address reports.
+- [cordum-io/cordum](https://github.com/cordum-io/cordum) 🏎️ 🏠 ☁️ - Safety-first agent control plane with pre-dispatch policy evaluation (deny/escalate/allow), output scanning (PII, secrets, injection), job scheduling, and full audit trail. Native MCP server with stdio and HTTP/SSE transport.
+- [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security) 📇 ☁️ - MCP server for querying the ORKL API. This server provides tools for fetching threat reports, analyzing threat actors, and retrieving intelligence sources.
+- [girste/mcp-cybersec-watchdog](https://github.com/girste/mcp-cybersec-watchdog) 🐍 🏠 🐧 - Comprehensive security audit tool for Linux servers. Analyzes firewall, SSH hardening, threats, fail2ban, Docker, kernel hardening. Returns actionable recommendations with zero configuration.
+- [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit) 📇 ☁️ - A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
+- [semgrep/mcp](https://github.com/semgrep/mcp) 📇 ☁️ - Allow AI agents to scan code for security vulnerabilites using [Semgrep](https://semgrep.dev).
+- [slouchd/cyberchef-api-mcp-server](https://github.com/slouchd/cyberchef-api-mcp-server) 🐍 ☁️ - MCP server for interacting with the CyberChef server API which will allow an MCP client to utilise the CyberChef operations.
+- [rad-security/mcp-server](https://github.com/rad-security/mcp-server) 📇 ☁️ - MCP server for RAD Security, providing AI-powered security insights for Kubernetes and cloud environments. This server provides tools for querying the Rad Security API and retrieving security findings, reports, runtime data and many more.
+- [securityfortech/secops-mcp](https://github.com/securityfortech/secops-mcp) 🐍 🏠 - All-in-one security testing toolbox that brings together popular open source tools through a single MCP interface. Connected to an AI agent, it enables tasks like pentesting, bug bounty hunting, threat hunting, and more.
+- [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - A Model Context Protocol (MCP) server for querying the CVE-Search API. This server provides comprehensive access to CVE-Search, browse vendor and product、get CVE per CVE-ID、get the last updated CVEs.
+- [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) 🏎️ 🏠 - Conversational recon interface and MCP server powered by httpx and asnmap. Supports various reconnaissance levels for domain analysis, security header inspection, certificate analysis, and ASN lookup.
+- [imran-siddique/agent-os](https://github.com/imran-siddique/agent-os) 🐍 🏠 - Kernel-level governance MCP server for AI agents. Provides deterministic policy enforcement, compliance checking (SOC2, GDPR, HIPAA), audit logging (SQLite-based), and human-in-the-loop approvals. Install via `pip install agent-os-kernel`.
+- [takleb3rry/zitadel-mcp](https://github.com/takleb3rry/zitadel-mcp) 📇 ☁️/🏠 - MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language. Supports user lifecycle, RBAC, and OIDC configuration.
+
+## CI/CD & DevOps Pipelines
+
+### 🔄 Continuous Integration
+Tools for automating the integration of code changes and running tests.
+
+- [Tiberriver256/mcp-server-github-actions](https://github.com/Tiberriver256/mcp-server-github-actions) 📇 ☁️ - MCP server for interacting with GitHub Actions workflows, enabling AI assistants to manage CI/CD pipelines.
+- [lobehub/mcp-hello-world](https://github.com/lobehub/mcp-hello-world) 📇 ☁️ - A simple Hello World MCP server for CI/CD test.
+
+### 📱 Mobile CI/CD
+Tools specifically designed for mobile application CI/CD pipelines.
+
+- [stefanoamorelli/codemagic-mcp](https://github.com/stefanoamorelli/codemagic-mcp) 🐍 ☁️ - Codemagic CI/CD MCP Server for mobile app CI/CD pipeline management.
+
+### 🔄 DevOps Visibility
+Tools for providing visibility across the entire DevOps lifecycle.
+
+- [SBDI/mcp-devps-hub](https://github.com/SBDI/mcp-devps-hub) 🐍 🏠 - MCP server for end-to-end development visibility (Jira, GitHub, CI/CD, etc.).
+- [Acid-base/FastMCP-Proper](https://github.com/Acid-base/FastMCP-Proper) 🐍 🏠 - Python MCP server with CI/CD tooling and testability built-in.
+- [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).
+
+### 👨‍💻 Code Execution
+Code execution servers. Allow LLMs to execute code in a secure environment.
+
+- [pydantic/pydantic-ai/mcp-run-python](https://github.com/pydantic/pydantic-ai/tree/main/packages/mcp-run-python) 🐍 🏠- Run Python code in a secure sandbox via MCP tool calls
+- [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
+- [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) 🏎️ ☁️ - OpenAPI-MCP: Dockerized MCP Server to allow your AI agent to access any API with existing api docs.
+- [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 – A Node.js MCP server that spins up isolated Docker-based sandboxes for executing JavaScript snippets with on-the-fly npm dependency installation and clean teardown
+
+### 🧪 Testing & Chaos Engineering
+Tools for testing, fault injection, and resilience validation.
+
+- [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
+- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
+
+### 🤖 Coding Agents
+Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
+
+- [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) ☁️ 📇 🍎 🪟 🐧 - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub ecosystem
+- [oraios/serena](https://github.com/oraios/serena) 🐍🏠 - A fully-featured coding agent that relies on symbolic code operations by using language servers.
+- [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - Coding agent with basic read, write and command line tools.
+-   - [Wolfe-Jam/claude-faf-mcp](https://github.com/Wolfe-Jam/claude-faf-mcp)
+  📇 🏠 - First & only persistent project context MCP. Provides .faf (Foundational AI-context Format) Project DNA with 33+ tools, Podium scoring (0-100%), and format-driven architecture. Official Anthropic Registry. 10k+ npm downloads.
+- [Wolfe-Jam/faf-mcp](https://github.com/Wolfe-Jam/faf-mcp) 📇 🏠 - Universal persistent project context for Cursor, Windsurf, Cline, VS Code, and all MCP-compatible platforms (including Claude Desktop). IANA-registered format (application/vnd.faf+yaml). 17 native tools, AI-readiness scoring.
+- [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) 📇 ☁️ - An MCP server that enables AI models to search, retrieve, and solve LeetCode problems. Supports metadata filtering, user profiles, submissions, and contest data access.
+- [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) 📇 ☁️ - MCP server enabling automated access to LeetCode's programming problems, solutions, submissions and public data with optional authentication for user-specific features (e.g., notes), supporting both `leetcode.com` (global) and `leetcode.cn` (China) sites.
+- [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) 📇 🏠 - A MCP Server that allows AI such as Claude to read from the directory structure in a VS Code workspace, see problems picked up by linter(s) and the language server, read code files, and make edits.
+- [scrapeless/mcp-server-scrapeless](https://github.com/scrapeless-ai/scrapeless-mcp-server) 📇☁️🍎🪟🐧 - Seamlessly integrate real-time Google SERP(Google Search, Google Flight, Google Map, Google Jobs....) results into your LLM applications using the Scrapeless MCP server.
+
+### 🔗 Aggregators
+Servers for accessing many apps and tools through a single MCP server.
+
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) 🐍 🏠 - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
+- [Composiohq/Rube](https://github.com/composiohq/rube) - Rube is an MCP server built on the Composio integration platform. It connects your AI tools to 500+ apps.
+- [julien040/anyquery](https://github.com/julien040/anyquery) 🏎️ 🏠 ☁️ - Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible database. Local-first and private by design.
+- [metatool-ai/metatool-app](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Connect and unify data across various platforms and databases with [MindsDB as a single MCP server](https://docs.mindsdb.com/mcp/overview).
+- [glenngillen/mcpmcp-server](https://github.com/glenngillen/mcpmcp-server) ☁️ 📇 🍎 🪟 🐧 - A list of MCP servers so you can ask your client which servers you can use to improve your daily workflow.
+- [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) 🏎️ 🏠 - Local MCP proxy that aggregates multiple servers behind a single endpoint. Features BM25 tool discovery, quarantine security, activity logging, Docker isolation, and web UI.
+- [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) 📇 🏠 🍎 🪟 🐧 - Turn a web API into an MCP server in 10 seconds and add it to the open source registry: [https://open-mcp.org](https://open-mcp.org)
+- [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/packages/mcp-server) ☁️ 🏠 - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+- [VeriTeknik/pluggedin-mcp-proxy](https://github.com/VeriTeknik/pluggedin-mcp-proxy) 📇 🏠 - A comprehensive proxy server that combines multiple MCP servers into a single interface with extensive visibility features. It provides discovery and management of tools, prompts, resources, and templates across servers, plus a playground for debugging when building MCP servers.
+- [tigranbs/mcgravity](https://github.com/tigranbs/mcgravity) 📇 🏠 - A proxy tool for composing multiple MCP servers into one unified endpoint. Scale your AI tools by load balancing requests across multiple MCP servers, similar to how Nginx works for web servers.
+- [MetaMCP](https://github.com/metatool-ai/metatool-app) 📇 ☁️ 🏠 🍎 🪟 🐧 - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.
+- [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎 🪟 - Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs.
+- [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) 📇 ☁️ 🏠 🍎 🪟 🐧 - Turn a web service into an MCP server in one click without making any code changes.
+Consider moving this entry to a 'Databases' section if one exists, or creating one. Database-specific tools don't fit the 'Aggregators' category which is described as 'Servers for accessing many apps and tools through a single MCP server.'
+
+### 📂 Browser Automation
+Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
+
+- [aircodelabs/grasp](https://github.com/aircodelabs/grasp) 📇 🏠 - Self-hosted browser using agent with built-in MCP and A2A support.
+- [Automata-Labs-team/MCP-Server-Playwright](https://github.com/Automata-Labs-team/MCP-Server-Playwright) 🐍 - An MCP server for browser automation using Playwright
+- [blackwhite084/playwright-plus-python-mcp](https://github.com/blackwhite084/playwright-plus-python-mcp) 🐍 - An MCP python server using Playwright for browser automation, more suitable for llm
+- [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) 🎖️ 📇 - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
+- [browsermcp/mcp](https://github.com/browsermcp/mcp) 📇 🏠 - Automate your local Chrome browser
+- [co-browser/browser-use-mcp-server](https://github.com/co-browser/browser-use-mcp-server) 🐍 - browser-use packaged as an MCP server with SSE transport. includes a dockerfile to run chromium in docker + a vnc server.
+- [executeautomation/mcp-playwright-server](https://github.com/executeautomation/playwright-mcp-server) 📇 - An MCP server using Playwright for browser automation and webscrapping
+- [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - An MCP server paired with a browser extension that enables LLM clients to control the user's browser (Firefox).
+- [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - Extract structured data from any website. Just prompt and get JSON.
+- [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility snapshots
+- [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/server-puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
+- [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
+
+## Build Tools & Dependency Management
+
+### 🔧 Dependency Analysis
+Tools for analyzing and managing project dependencies across build systems.
+
+- [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) ☕ ☁️ 🏠 🍎 🪟 🐧 - Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Provides version lookups, dependency health checks, age analysis, release patterns, and upgrade guidance with Context7 integration.
+- [tersePrompts/jarp-mcp](https://github.com/tersePrompts/jarp-mcp) 📇 ☕ 🏠 - Java Archive Reader Protocol - MCP server that gives AI agents X-ray vision into compiled Java code. Enables decompiling and analyzing Java classes directly from Maven/Gradle dependencies using bundled CFR decompiler with zero-setup installation.
+
+## Monitoring & Observability
+
+### 📊 Metrics & Monitoring
+Tools for collecting, querying, and analyzing metrics in DevOps environments.
+
+- [CaesarYangs/prometheus_mcp_server](https://github.com/CaesarYangs/prometheus_mcp_server) 🐍 ☁️ - A Model Context Protocol server enabling LLMs to query, analyze, and interact with Prometheus databases through predefined routes.
+- [etruong42/prometheus-mcp](https://github.com/etruong42/prometheus-mcp) 🐍 ☁️ - MCP server to connect LLMs with Prometheus HTTP API for metrics querying and analysis.
+- [loginmqv/mcp-server-prometheus](https://github.com/loginmqv/mcp-server-prometheus) 📇 ☁️ - MCP server for interacting with Prometheus, enabling AI assistants to query and analyze metrics data.
+- [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - A Model Context Protocol server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.
+- [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏎️ ☁️ - The implementation of Model Context Protocol (MCP) server for VictoriaMetrics. This provides access to your VictoriaMetrics instance and seamless integration with VictoriaMetrics APIs and documentation.
+
+### 🔔 Alerting & Notification
+Tools for managing alerts and notifications in monitoring systems.
+
+- [kaznak/alertmanager-mcp](https://github.com/kaznak/alertmanager-mcp) 📇 ☁️ - A Model Context Protocol server that integrates with Prometheus Alertmanager for alert management and notification.
+
+### 🔍 Application Performance Monitoring
+Tools for monitoring application performance and infrastructure health.
+
+- [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) 📇 ☁️ - MCP server for Dynatrace Observability monitoring, providing AI-powered insights into application performance and infrastructure health.
+- [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) 🏎️ ☁️ - Last9 MCP Server for observability and monitoring, providing AI assistants with access to metrics, logs, and traces.
+- [willibrandon/CursorMCPMonitor](https://github.com/willibrandon/CursorMCPMonitor) #️⃣ 🏠 - Real-time monitoring tool for Model Context Protocol interactions in Cursor AI editor. Track, analyze, and debug AI context exchanges.
+- [Polar Signals Remote MCP](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) 🐍 ☁️ - MCP server for Polar Signals Cloud continuous profiling platform, enabling AI assistants to analyze CPU performance, memory usage, and identify optimization opportunities in production systems.
+
+## Project & Service Management
+
+### 🎫 Ticketing Systems
+Tools for managing customer support tickets and helpdesk operations.
+
+- [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
+- [dbsanfte/topdesk-mcp](https://github.com/dbsanfte/topdesk-mcp) 🐍 ☁️ - MCP server for the Topdesk ticketing system, allowing AI models to interact with and add comments to incident tickets.
+
+### 📋 Project Management
+Tools for managing projects, issues, and workflows.
+
+- [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
+- [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
 
 ## Frameworks
 
-- [CrewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating
-  role-playing AI agents
+- [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 🏠 ☁️ - AI Agents framework with 64+ built-in MCP tools for automation, including search, memory, workflows, code execution, and file operations.
+Frameworks for building your own MCP servers.
 
-  44,127 stars · 5,911 forks · 277 contributors · 278 issues · Python · MIT
+- [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
+- [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
+- [tersePrompts/fastMCP4J](https://github.com/tersePrompts/fastMCP4J) ☕ 🏠 - Lightweight Java library for building MCP servers using annotations. Annotation-driven development with only 12 dependencies, built-in tools (memory, todo, planner, file ops, bash, telemetry), multi-class modules support, and <500ms cold start.
 
-  - Role-based agent design
-  - Multi-agent collaboration
-  - Flexible memory system
-  - Built-in error handling
+## Contributing
 
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-- [Langchain](https://github.com/hwchase17/langchain) - Building applications with LLMs
-  through composability
+## License
 
-  126,667 stars · 20,838 forks · 470 contributors · 402 issues · Python · MIT
-
-  - Modular and extensible architecture
-  - Unified interface for LLMs
-  - Pre-built agent toolkits
-  - CSV, JSON, and SQL agents
-  - Python and Pandas integration
-  - Vector store capabilities
-
-
-- [Microsoft AutoGen](https://github.com/microsoft/autogen) - Framework for building
-  multi-agent conversational systems
-
-  54,548 stars · 8,218 forks · 445 contributors · 588 issues · Python · CC-BY-4.0
-
-  - Multi-agent architecture
-  - Customizable agents
-  - Code execution support
-  - Flexible human involvement
-  - Advanced conversation management
-
-
-- [OpenManus](https://github.com/FoundationAgents/OpenManus) - Open-source AI agent
-  platform for building general-purpose agents
-
-  54,469 stars · 9,532 forks · 53 contributors · 533 issues · Python · MIT
-
-  - Modular architecture for customization
-  - Data analysis and visualization agents
-  - Reinforcement learning integration (OpenManus-RL)
-  - No invitation code required
-  - Built by MetaGPT contributors
-
-
-- [Llama Index](https://github.com/run-llama/llama_index) - Data framework for LLM
-  applications
-
-  46,995 stars · 6,820 forks · 474 contributors · 295 issues · Python · MIT
-
-  - Advanced indexing and retrieval
-  - Support for 160+ data sources
-  - Customizable RAG workflows
-  - Structured data handling
-  - Query optimization
-
-
-- [Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel) -
-  Integration framework for AI models
-
-  27,218 stars · 4,456 forks · 389 contributors · 526 issues · C# · MIT
-
-  - Enterprise-grade security
-  - Multi-language support
-  - Plugin architecture
-  - Responsible AI features
-  - Memory management
-
-
-- [Dify](https://github.com/langgenius/dify) - Open-source framework for LLM
-  applications
-
-  129,617 stars · 20,159 forks · 463 contributors · 721 issues · TypeScript · NOASSERTION
-
-  - Visual prompt orchestration
-  - Long context integration
-  - API-based development
-  - Multi-model support
-  - RAG pipeline
-
-
-- [Haystack](https://github.com/deepset-ai/haystack) - End-to-end NLP framework
-
-  24,192 stars · 2,600 forks · 313 contributors · 114 issues · MDX · Apache-2.0
-
-  - Document processing
-  - Neural search
-  - Question answering
-  - Semantic search
-  - Agent capabilities
-
-
-- [Embedchain](https://github.com/embedchain/embedchain) - Framework for ChatGPT-like
-  bots
-
-  47,362 stars · 5,246 forks · 246 contributors · 732 issues · Python · Apache-2.0
-
-  - Multi-source data ingestion
-  - Automated embedding
-  - Context window management
-  - Multiple LLM support
-  - RAG optimization
-
-
-- [Google ADK](https://github.com/google/adk-python) - Agent Development Kit for
-  building, evaluating, and deploying AI agents
-
-  17,620 stars · 2,890 forks · 234 contributors · 570 issues · Python · Apache-2.0
-
-  - Code-first development approach
-  - Modular multi-agent systems
-  - Model-agnostic and deployment-agnostic
-  - Built-in developer UI (adk-web)
-  - Deploy on Cloud Run or Vertex AI
-
-
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Open-source autonomous AI
-  agent framework
-
-  17,171 stars · 2,156 forks · 63 contributors · 211 issues · Python · MIT
-
-  - Customizable agent workflows
-  - Tool creation framework
-  - Performance monitoring
-  - Resource management
-  - Multi-vector memory storage
-
-
-- [Kiln AI](https://github.com/Kiln-AI/Kiln) - Tools for building AI products including
-  agents, evals, RAG systems, and fine-tuning
-
-  4,654 stars · 342 forks · 12 contributors · 38 issues · Python · NOASSERTION
-
-  - Free desktop application for no-code development
-  - Evaluation frameworks
-  - RAG system building
-  - Synthetic data generation
-  - Agent development tools
-
-
-- [AGiXT](https://github.com/Josh-XT/AGiXT) - Scalable framework for AI agents
-
-  3,152 stars · 441 forks · 41 contributors · 7 issues · Python · MIT
-
-  - Multi-provider support
-  - Chain of thought processing
-  - Extensible plugin system
-  - Command chaining
-  - Web UI included
-
-
-- [XAgent](https://github.com/OpenBMB/XAgent) - Autonomous LLM-based agent framework
-
-  8,495 stars · 888 forks · 33 contributors · 56 issues · Python · Apache-2.0
-
-  - Human-like planning
-  - Autonomous task decomposition
-  - Tool learning capabilities
-  - Advanced error recovery
-  - Built-in action validation
-
-
-- [Neurolink](https://github.com/juspay/neurolink) - Multi-provider AI agent framework
-  with workflow orchestration capabilities, unifying 12+ providers (OpenAI, Google,
-  Anthropic, AWS, Azure, Groq, Together AI, Mistral, Cohere, Fireworks, Cloudflare,
-  Ollama)
-
-  105 stars · 91 forks · 52 contributors · 417 issues · TypeScript · MIT
-
-  - Multi-agent framework with workflow orchestration
-  - Unified interface for 12+ AI providers
-  - Edge-first architecture with local/cloud deployment
-  - Production-grade streaming and tool calling
-  - Battle-tested at Juspay (15M+ requests/month)
-
-
-- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open platform for language
-  agents
-
-  4,702 stars · 519 forks · 16 contributors · 13 issues · Python · Apache-2.0
-
-  - Data analysis capabilities
-  - Web browsing integration
-  - Coding assistance
-  - Plugin ecosystem
-  - Interactive visualization
-
-
-- [AI Legion](https://github.com/eumemic/ai-legion) - Swarm framework for autonomous
-  agents
-
-  1,427 stars · 172 forks · 6 contributors · 9 issues · TypeScript · MIT
-
-  - Multi-agent coordination
-  - Dynamic task allocation
-  - Emergent behavior support
-  - Flexible agent roles
-  - Real-time collaboration
-
-
-- [Agent Protocol](https://github.com/e2b-dev/agent-protocol) - Unified interface for AI
-  agents
-
-  1,438 stars · 172 forks · 14 contributors · 43 issues · Python · MIT
-
-  - Standardized communication
-  - Language-agnostic design
-  - Tool integration specs
-  - Interoperability focus
-  - Protocol versioning
-
-
-- [Agents.js](https://github.com/Webgburnet/Agents.js) - JavaScript framework for
-  building AI agents
-
-  - Browser-native implementation
-  - Event-driven architecture
-  - Tool abstraction layer
-  - Memory management
-  - Real-time processing- [Cache-to-Cache](https://github.com/thu-nics/C2C) - Novel paradigm for direct 
-  semantic communication between LLMs via KV-Cache
-
-  87 stars · 6 forks · 2 contributors · 2 issues · Python · Apache-2.0
-
-  - Direct semantic communication via KV-Cache
-  - Multi-agent system integration
-  - Neural cache projection and fusion- [CAMEL](https://github.com/camel-ai/camel) - Communicative Agents for "Mind"
-  Exploration
-
-  14,875 stars · 1,638 forks · 171 contributors · 599 issues · Python · Apache-2.0
-
-  - Role-playing framework
-  - Task-oriented dialogue
-  - Multi-agent conversations
-  - Behavioral analysis
-  - Cognitive architecture- [BabyAGI](https://github.com/yoheinakajima/babyagi) - Lightweight framework for AI
-  task management
-
-  - Task prioritization
-  - Autonomous execution
-  - Memory persistence
-  - Goal-oriented planning
-  - Resource optimization- [Autonomous-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Framework for
-  autonomous GPT-4 agents
-
-  179,412 stars · 46,089 forks · 433 contributors · 273 issues · Python · NOASSERTION
-
-  - Internet access capabilities
-  - Long-term memory
-  - Goal-oriented behavior
-  - File operations
-  - Command execution- [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework for software
-  development
-
-  59,615 stars · 7,299 forks · 115 contributors · 57 issues · Python · MIT
-
-  - Role-based development
-  - Code generation
-  - Project management
-  - Documentation writing
-  - Testing automation- [GenoMAS](https://github.com/Liu-Hy/GenoMAS) - Multi-agent framework for scientific
-  discovery and automated data analysis
-
-  123 stars · 19 forks · 1 contributors · 0 issues · Python · MIT
-
-  - Guided planning framework
-  - Typed message-passing protocol
-  - Heterogeneous LLM architecture
-  - Domain-agnostic design
-  - Scientific workflow automation- [minions](https://github.com/getminions/minions) - Extensible framework for AI
-  assistants
-
-  - Custom behavior definition
-  - Tool integration
-  - State management
-  - Event handling
-  - Parallel execution- [ix](https://github.com/kreneskyp/ix) - Autonomous agent framework
-
-  1,037 stars · 129 forks · 5 contributors · 14 issues · Python · MIT
-
-  - Visual workflow builder
-  - Sandbox environments
-  - Tool integration
-  - Process monitoring
-  - Agent collaboration- [saplings](https://github.com/shobrook/saplings) - Build smarter agents using tree
-  search
-
-  269 stars · 17 forks · 4 contributors · 0 issues · Python · Apache-2.0
-
-  - Boost reasoning abilities
-  - Supports popular search algorithms
-  - Minimal setup, 2 lines of code- [Smolagents](https://github.com/huggingface/smolagents) - Minimalist framework for
-  building powerful agents
-
-  24,406 stars · 2,180 forks · 189 contributors · 327 issues · Python · Apache-2.0
-
-  - Code-first approach
-  - Multi-agent orchestration
-  - LLM provider flexibility
-  - Tool integration
-  - Hub integration for sharing- [Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI framework for
-  building LLM flows
-
-  47,784 stars · 23,485 forks · 268 contributors · 747 issues · TypeScript · NOASSERTION
-
-  - Visual flow builder
-  - Custom LLM integrations
-  - API generation
-  - Authentication support
-  - Docker deployment- [Pydantic AI](https://github.com/pydantic/pydantic-ai) - Production-grade agent
-  framework built on Pydantic
-
-  14,433 stars · 1,568 forks · 348 contributors · 478 issues · Python · MIT
-
-  - Type-safe development
-  - Multi-model support
-  - Structured responses
-  - Dependency injection
-  - Logfire integration- [Upsonic](https://github.com/upsonic/upsonic) - Reliable agent framework that
-  support MCP.
-
-  7,778 stars · 717 forks · 35 contributors · 8 issues · Python · MIT
-
-  - Easy-to-activate reliability layers
-  - Model Context Protocol (MCP)
-  - Integrated Browser Use and Computer Use
-  - Isolated environment to run agents
-  - Task-Centric Design
-
-
-- [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - Building a Self-Evolving
-  Ecosystem of AI Agents
-
-  2,539 stars · 201 forks · 24 contributors · 11 issues · Python · NOASSERTION
-
-  - Easy Agent and Workflow Customization
-  - Workflow Optimization & Self-Evolving
-  - Agent/workflow evolution algorithms integrated
-  - Execution Toolkit
-
-
-- [Portia AI](https://github.com/portiaAI/portia-sdk-python) - Open source framework for predictable,
-  controllable and authenticated agents.
-
-  1,141 stars · 101 forks · 26 contributors · 44 issues · Python · NOASSERTION
-
-  - Structured planning
-  - Stateful execution
-  - Human in the loop controls
-  - Tool catalogue with built-in auth
-  - MCP support- [Agentic Radar](https://github.com/splx-ai/agentic-radar) - A security scanner for
-  agentic workflows
-
-  848 stars · 106 forks · 8 contributors · 10 issues · Python · Apache-2.0
-
-  - Scans agentic workflow source code
-  - Finds vulnerabilities (CVE & OWASP)
-  - Generates interactive reports
-  - Suggests remediation steps
-  - Supports popular agentic workflows- [AgentFlow](https://github.com/lupantech/AgentFlow) - Trainable multi-agent framework
-  with in-the-flow optimization
-
-  1,477 stars · 190 forks · 4 contributors · 7 issues · Python · MIT
-
-  - Four specialized modules (planner, executor, verifier, generator)
-  - Flow-GRPO reinforcement learning
-  - Tool integration (math, coding, scientific, search)
-  - Stanford research project
-  - Performance gains over monolithic approaches- [Mastra](https://github.com/mastra-ai/mastra) - TypeScript AI agent framework with
-  assistants, RAG, and observability
-
-  20,636 stars · 1,483 forks · 297 contributors · 366 issues · TypeScript · NOASSERTION
-
-  - Type-safe development
-  - Multi-model support (GPT-4, Claude, Gemini, Llama)
-  - Structured responses
-  - API generation
-  - Tool integration
-- [Flappy](https://github.com/pleisto/flappy) - Production-ready LLM agent SDK
-
-  307 stars · 23 forks · 7 contributors · 10 issues · Rust · Apache-2.0
-
-  - Production-grade reliability
-  - Type-safe agent development
-  - Multi-language support
-  - Performance optimized
-  - Developer-friendly SDK
-
-
-- [CleverBee](https://github.com/SureScaleAI/cleverbee) - Deep research assistant agent
-  with web browsing capabilities
-
-  310 stars · 16 forks · 2 contributors · 1 issues · Python · AGPL-3.0
-
-  - Interactive web UI via Chainlit
-  - MCP tool support for external integrations
-  - Multi-LLM research (configurable LLMs)
-  - Automated web browsing with Playwright
-  - Token tracking and cost estimation
-
-
-- [RAI](https://github.com/RobotecAI/rai) - Agentic framework for robotics using ROS 2
-
-  453 stars · 55 forks · 22 contributors · 59 issues · Python · Apache-2.0
-
-  - ROS 2 integration
-  - Complex action execution
-  - Scenario-based testing
-  - Voice interaction support
-  - Vendor-agnostic architecture
-
-
-- [Floom](https://github.com/FloomAI/Floom) - AI gateway and agent/pipeline marketplace
-
-  46 stars · 4 forks · 2 contributors · 0 issues · C# · MIT
-
-  - AI pipeline orchestration
-  - Agent marketplace integration
-  - Kubernetes-style architecture
-  - Streamlined AI integration
-  - DevOps-friendly deployment
-
-
-- [Cordum](https://github.com/cordum-io/cordum) - Safety-first agent orchestration
-  platform with pre-dispatch policy evaluation, output scanning, job scheduling,
-  workflow engine, and MCP server for running LLM agents with safety guardrails.
-
-  - Pre-dispatch safety policy evaluation
-  - Output scanning and quarantine
-  - Job scheduling and workflow engine
-  - MCP server integration
-  - gRPC safety kernel
-
-
-- [CoreAgent](https://github.com/CoreAgent-Project/CoreAgent) - Minimalist agent framework
-  with stateful tools
-
-  25 stars · 3 forks · 2 issues · Python
-
-  - Simplicity-first design
-  - Stateful tool support
-  - Multi-agent coordination
-  - Shared state management
-  - Built-in tools library- [Project Alice](https://github.com/MarianoMolina/project_alice) - Framework and
-  platform for building and deploying agentic workflows
-
-  253 stars · 34 forks · 1 contributors · 1 issues · Python · BSD-3-Clause
-
-  - No-code and coding interface
-  - Visual workflow builder
-  - Live demo available
-  - Workflow deployment platform
-  - Alpha stage development- [AgentSquare](https://github.com/tsinghua-fib-lab/AgentSquare) - Automatic LLM agent
-  search in modular design space
-
-  199 stars · 14 forks · 10 issues · HTML
-
-  - Module evolution and recombination
-  - Planning, Reasoning, Tool Use, Memory modules
-  - Adaptive agent search framework
-  - Unified framework for six agent tasks
-  - Tsinghua University research project
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
