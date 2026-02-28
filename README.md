@@ -232,6 +232,7 @@ Tools for managing alerts and notifications in monitoring systems.
 ### 🔍 Application Performance Monitoring
 Tools for monitoring application performance and infrastructure health.
 
+- [apistatuscheck/mcp-server](https://github.com/shibley/apistatuscheck) 📇 ☁️ - MCP server for API Status Check, enabling AI assistants to monitor API and service status pages, check real-time uptime data, and track outage history across 1,100+ services.
 - [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) 📇 ☁️ - MCP server for Dynatrace Observability monitoring, providing AI-powered insights into application performance and infrastructure health.
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) 🏎️ ☁️ - Last9 MCP Server for observability and monitoring, providing AI assistants with access to metrics, logs, and traces.
 - [willibrandon/CursorMCPMonitor](https://github.com/willibrandon/CursorMCPMonitor) #️⃣ 🏠 - Real-time monitoring tool for Model Context Protocol interactions in Cursor AI editor. Track, analyze, and debug AI context exchanges.
