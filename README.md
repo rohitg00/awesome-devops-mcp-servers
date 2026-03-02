@@ -123,6 +123,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
 - [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) 📇 🪟 ☁️ - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.
 - [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) 📇 🪟 ☁️ - MCP server for querying the VirusTotal API. This server provides tools for scanning URLs, analyzing file hashes, and retrieving IP address reports.
+- [cordum-io/cordum](https://github.com/cordum-io/cordum) 🏎️ 🏠 ☁️ - Safety-first agent control plane with pre-dispatch policy evaluation (deny/escalate/allow), output scanning (PII, secrets, injection), job scheduling, and full audit trail. Native MCP server with stdio and HTTP/SSE transport.
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security) 📇 ☁️ - MCP server for querying the ORKL API. This server provides tools for fetching threat reports, analyzing threat actors, and retrieving intelligence sources.
 - [girste/mcp-cybersec-watchdog](https://github.com/girste/mcp-cybersec-watchdog) 🐍 🏠 🐧 - Comprehensive security audit tool for Linux servers. Analyzes firewall, SSH hardening, threats, fail2ban, Docker, kernel hardening. Returns actionable recommendations with zero configuration.
 - [qianniuspace/mcp-security-audit](https://github.com/qianniuspace/mcp-security-audit) 📇 ☁️ - A powerful MCP (Model Context Protocol) Server that audits npm package dependencies for security vulnerabilities. Built with remote npm registry integration for real-time security checks.
@@ -133,6 +134,8 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [roadwy/cve-search_mcp](https://github.com/roadwy/cve-search_mcp) 🐍 🏠 - A Model Context Protocol (MCP) server for querying the CVE-Search API. This server provides comprehensive access to CVE-Search, browse vendor and product、get CVE per CVE-ID、get the last updated CVEs.
 - [nickpending/mcp-recon](https://github.com/nickpending/mcp-recon) 🏎️ 🏠 - Conversational recon interface and MCP server powered by httpx and asnmap. Supports various reconnaissance levels for domain analysis, security header inspection, certificate analysis, and ASN lookup.
 - [imran-siddique/agent-os](https://github.com/imran-siddique/agent-os) 🐍 🏠 - Kernel-level governance MCP server for AI agents. Provides deterministic policy enforcement, compliance checking (SOC2, GDPR, HIPAA), audit logging (SQLite-based), and human-in-the-loop approvals. Install via `pip install agent-os-kernel`.
+- [takleb3rry/zitadel-mcp](https://github.com/takleb3rry/zitadel-mcp) 📇 ☁️/🏠 - MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language. Supports user lifecycle, RBAC, and OIDC configuration.
+- [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) 🏎️ 🏠 - Firewall for AI agents that wraps MCP servers with bidirectional scanning for credential leaks, prompt injection, and tool poisoning detection. Also provides an HTTP fetch proxy with a 9-layer scanner pipeline.
 
 ## CI/CD & DevOps Pipelines
 
@@ -166,7 +169,11 @@ Code execution servers. Allow LLMs to execute code in a secure environment.
 Tools for testing, fault injection, and resilience validation.
 
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
-- [testdino-mcp](https://github.com/testdino-hq/testdino-mcp)  🏠 -A Model Context Protocol (MCP) server that connects TestDino to AI agents. This server enables you to interact with your TestDino test data directly through natural language commands.
+
+- [testdino-mcp](https://github.com/testdino-hq/testdino-mcp) 📇 🏠 - A Model Context Protocol (MCP) server that connects TestDino to AI agents. This server enables you to interact with your TestDino test data directly through natural language commands.
+
+- [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
+
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
@@ -176,6 +183,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - Coding agent with basic read, write and command line tools.
 -   - [Wolfe-Jam/claude-faf-mcp](https://github.com/Wolfe-Jam/claude-faf-mcp)
   📇 🏠 - First & only persistent project context MCP. Provides .faf (Foundational AI-context Format) Project DNA with 33+ tools, Podium scoring (0-100%), and format-driven architecture. Official Anthropic Registry. 10k+ npm downloads.
+- [Wolfe-Jam/faf-mcp](https://github.com/Wolfe-Jam/faf-mcp) 📇 🏠 - Universal persistent project context for Cursor, Windsurf, Cline, VS Code, and all MCP-compatible platforms (including Claude Desktop). IANA-registered format (application/vnd.faf+yaml). 17 native tools, AI-readiness scoring.
 - [doggybee/mcp-server-leetcode](https://github.com/doggybee/mcp-server-leetcode) 📇 ☁️ - An MCP server that enables AI models to search, retrieve, and solve LeetCode problems. Supports metadata filtering, user profiles, submissions, and contest data access.
 - [jinzcdev/leetcode-mcp-server](https://github.com/jinzcdev/leetcode-mcp-server) 📇 ☁️ - MCP server enabling automated access to LeetCode's programming problems, solutions, submissions and public data with optional authentication for user-specific features (e.g., notes), supporting both `leetcode.com` (global) and `leetcode.cn` (China) sites.
 - [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) 📇 🏠 - A MCP Server that allows AI such as Claude to read from the directory structure in a VS Code workspace, see problems picked up by linter(s) and the language server, read code files, and make edits.
@@ -199,6 +207,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [WayStation-ai/mcp](https://github.com/waystation-ai/mcp) ☁️ 🍎 🪟 - Seamlessly and securely connect Claude Desktop and other MCP hosts to your favorite apps (Notion, Slack, Monday, Airtable, etc.). Takes less than 90 secs.
 - [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) 📇 ☁️ 🏠 🍎 🪟 🐧 - Turn a web service into an MCP server in one click without making any code changes.
 Consider moving this entry to a 'Databases' section if one exists, or creating one. Database-specific tools don't fit the 'Aggregators' category which is described as 'Servers for accessing many apps and tools through a single MCP server.'
+- [juspay/neurolink](https://github.com/juspay/neurolink) 📇 ☁️ 🏠 - TypeScript-first AI SDK that unifies 13 major AI providers and 100+ models under a single consistent API. Connects to remote MCP servers via addExternalMCPServer/addMCPServer APIs with built-in HTTP-based MCP connection, auth, retries, and rate limiting.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
