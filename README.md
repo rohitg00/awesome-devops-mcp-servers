@@ -115,6 +115,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/server-gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations
 - [oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Gitee API integration, repository, issue, and pull request management, and more.
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
+- [zach-snell/bbkt](https://github.com/zach-snell/bbkt) 🏎️ ☁️ 🍎 🪟 🐧 - Bitbucket Cloud CLI and MCP server. Manages workspaces, repos, PRs, pipelines, issues, and source code. Token introspection hides tools the API key can't use.
 
 ### 🔒 Security
 MCP servers for security operations, vulnerability scanning, and threat detection.
