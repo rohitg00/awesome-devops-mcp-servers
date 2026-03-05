@@ -222,6 +222,13 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/server-puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
 
+## SEO & Web Optimization
+
+### 🌐 AI Search Optimization
+Tools for optimizing websites for AI search engines, structured data, and web discoverability.
+
+- [henu-wang/geoscore-mcp](https://github.com/henu-wang/geoscore-mcp) 📇 ☁️ - AI search optimization (GEO). Scan websites for AI search readiness, generate llms.txt, Schema.org fixes, and meta tag optimizations.
+
 ## Build Tools & Dependency Management
 
 ### 🔧 Dependency Analysis
