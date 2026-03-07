@@ -168,6 +168,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment.
 ### 🧪 Testing & Chaos Engineering
 Tools for testing, fault injection, and resilience validation.
 
+- [TerminalGravity/preflight](https://github.com/TerminalGravity/preflight) 📇 🏠 - 24-tool MCP server for Claude Code that scores prompts before execution, catches ambiguity and missing context, tracks correction patterns with LanceDB vectors, and estimates token costs to reduce wasted API spend.
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 
