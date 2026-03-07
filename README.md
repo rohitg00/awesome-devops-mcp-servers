@@ -267,6 +267,7 @@ Tools for managing projects, issues, and workflows.
 
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
+- [entire-vc/evc-team-relay-mcp](https://github.com/entire-vc/evc-team-relay-mcp) 🐍 ☁️ - MCP server for Obsidian vault access, enabling AI agents to read and write team documentation, runbooks, and knowledge base notes through the Model Context Protocol.
 
 ## Frameworks
 
