@@ -136,6 +136,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [imran-siddique/agent-os](https://github.com/imran-siddique/agent-os) 🐍 🏠 - Kernel-level governance MCP server for AI agents. Provides deterministic policy enforcement, compliance checking (SOC2, GDPR, HIPAA), audit logging (SQLite-based), and human-in-the-loop approvals. Install via `pip install agent-os-kernel`.
 - [takleb3rry/zitadel-mcp](https://github.com/takleb3rry/zitadel-mcp) 📇 ☁️/🏠 - MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language. Supports user lifecycle, RBAC, and OIDC configuration.
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) 🏎️ 🏠 - Firewall for AI agents that wraps MCP servers with bidirectional scanning for credential leaks, prompt injection, and tool poisoning detection. Also provides an HTTP fetch proxy with a 9-layer scanner pipeline.
+- [PolicyLayer/Intercept](https://github.com/PolicyLayer/Intercept) 📇 🏠 🍎 🪟 🐧 - Open-source MCP proxy that enforces YAML policies on every tool call. Rate limiting, spending caps, argument validation, and full audit logging at the transport layer. Works with any MCP server.
 
 ## CI/CD & DevOps Pipelines
 
