@@ -253,6 +253,7 @@ Tools for monitoring application performance and infrastructure health.
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) 🏎️ ☁️ - Last9 MCP Server for observability and monitoring, providing AI assistants with access to metrics, logs, and traces.
 - [willibrandon/CursorMCPMonitor](https://github.com/willibrandon/CursorMCPMonitor) #️⃣ 🏠 - Real-time monitoring tool for Model Context Protocol interactions in Cursor AI editor. Track, analyze, and debug AI context exchanges.
 - [Polar Signals Remote MCP](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) 🐍 ☁️ - MCP server for Polar Signals Cloud continuous profiling platform, enabling AI assistants to analyze CPU performance, memory usage, and identify optimization opportunities in production systems.
+- [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp) 🐍 ☁️ - Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services (OpenAI, Anthropic, Stripe, AWS, Postgres, Redis, Twilio, etc.). Complements monitoring tools by telling agents how to recover from errors, not just detect them.
 
 ## Project & Service Management
 
