@@ -244,6 +244,11 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - A Model Context Protocol server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏎️ ☁️ - The implementation of Model Context Protocol (MCP) server for VictoriaMetrics. This provides access to your VictoriaMetrics instance and seamless integration with VictoriaMetrics APIs and documentation.
 
+### 📱 Social Media Monitoring
+Tools for monitoring social media platforms and extracting data.
+
+- [Xquik](https://xquik.com) 📇 ☁️ - X/Twitter account monitoring and data extraction — MCP server, REST API, HMAC webhooks, 40+ extraction tools.
+
 ### 🔔 Alerting & Notification
 Tools for managing alerts and notifications in monitoring systems.
 
