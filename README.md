@@ -118,6 +118,11 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
 - [zach-snell/bbkt](https://github.com/zach-snell/bbkt) 🏎️ ☁️ 🍎 🪟 🐧 - Bitbucket Cloud CLI and MCP server. Manages workspaces, repos, PRs, pipelines, issues, and source code. Token introspection hides tools the API key can't use.
 
+### 🌐 Web Services
+MCP servers for integrating with various web services and APIs.
+
+- **[Free Web Search Ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)** - Zero-cost, privacy-first universal web search MCP server. Enforces a Search-First paradigm — instructs LLMs to retrieve real-time web information before answering factual questions, eliminating hallucinations. Supports text, news, images, books, and videos via DuckDuckGo. No API key required. Install: `pip install free-web-search-ultimate`
+
 ### 🔒 Security
 MCP servers for security operations, vulnerability scanning, and threat detection.
 
@@ -296,6 +301,10 @@ Frameworks for building your own MCP servers.
 - [FastMCP](https://github.com/jlowin/fastmcp) 🐍 - A high-level framework for building MCP servers in Python
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [tersePrompts/fastMCP4J](https://github.com/tersePrompts/fastMCP4J) ☕ 🏠 - Lightweight Java library for building MCP servers using annotations. Annotation-driven development with only 12 dependencies, built-in tools (memory, todo, planner, file ops, bash, telemetry), multi-class modules support, and <500ms cold start.
+### 💡 Utilities
+Miscellaneous utilities and tools that enhance DevOps workflows.
+
+- **[Free Web Search Ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)** - Zero-cost, privacy-first universal web search MCP server. Enforces a Search-First paradigm — instructs LLMs to retrieve real-time web information before answering factual questions, eliminating hallucinations. Supports text, news, images, books, and videos via DuckDuckGo. No API key required. Install: `pip install free-web-search-ultimate`
 
 ## Contributing
 
