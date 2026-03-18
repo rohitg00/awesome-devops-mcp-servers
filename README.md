@@ -304,8 +304,6 @@ Frameworks for building your own MCP servers.
 ### 💡 Utilities
 Miscellaneous utilities and tools that enhance DevOps workflows.
 
-- **[Free Web Search Ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)** - Zero-cost, privacy-first universal web search MCP server. Enforces a Search-First paradigm — instructs LLMs to retrieve real-time web information before answering factual questions, eliminating hallucinations. Supports text, news, images, books, and videos via DuckDuckGo. No API key required. Install: `pip install free-web-search-ultimate`
-
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
