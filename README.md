@@ -153,6 +153,7 @@ Tools for automating the integration of code changes and running tests.
 Tools specifically designed for mobile application CI/CD pipelines.
 
 - [stefanoamorelli/codemagic-mcp](https://github.com/stefanoamorelli/codemagic-mcp) 🐍 ☁️ - Codemagic CI/CD MCP Server for mobile app CI/CD pipeline management.
+- [mikusnuz/app-publish-mcp](https://github.com/mikusnuz/app-publish-mcp) 📇 ☁️ - MCP server for App Store Connect and Google Play Console management with 91 tools. Manages app metadata, releases, builds, reviews, certificates, and screenshots for mobile CI/CD workflows.
 
 ### 🔄 DevOps Visibility
 Tools for providing visibility across the entire DevOps lifecycle.
@@ -234,6 +235,7 @@ Tools for analyzing and managing project dependencies across build systems.
 
 - [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) ☕ ☁️ 🏠 🍎 🪟 🐧 - Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Provides version lookups, dependency health checks, age analysis, release patterns, and upgrade guidance with Context7 integration.
 - [tersePrompts/jarp-mcp](https://github.com/tersePrompts/jarp-mcp) 📇 ☕ 🏠 - Java Archive Reader Protocol - MCP server that gives AI agents X-ray vision into compiled Java code. Enables decompiling and analyzing Java classes directly from Maven/Gradle dependencies using bundled CFR decompiler with zero-setup installation.
+- [mikusnuz/npm-mcp](https://github.com/mikusnuz/npm-mcp) 📇 ☁️ - MCP server for npm package management with 36 tools including publish, version, audit, deprecate, dist-tag, and ownership management. Streamlines package lifecycle in CI/CD pipelines.
 
 ## Monitoring & Observability
 
