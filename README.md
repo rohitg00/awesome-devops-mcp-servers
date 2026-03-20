@@ -297,6 +297,13 @@ Frameworks for building your own MCP servers.
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [tersePrompts/fastMCP4J](https://github.com/tersePrompts/fastMCP4J) ☕ 🏠 - Lightweight Java library for building MCP servers using annotations. Annotation-driven development with only 12 dependencies, built-in tools (memory, todo, planner, file ops, bash, telemetry), multi-class modules support, and <500ms cold start.
 
+## Communication & Customer Service
+
+### 💬 Customer Engagement
+Tools for AI-powered customer communication, voice agents, and service automation.
+
+- [AnveVoice](https://anvevoice.app) 📇 ☁️ - AI voice agent for websites that trains on site content, navigates pages, fills forms, and books appointments in 50+ languages with <700ms latency.
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
