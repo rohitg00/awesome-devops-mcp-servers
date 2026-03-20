@@ -65,6 +65,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health.
 - [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad) 🏎️ ☁️/🏠 - MCP Server for nomad management, and analyze your cluster, application health, logs and ACL.
 - [aadarshjain/kubectl-mcp-server](https://github.com/aadarshjain/kubectl-mcp-server) 🐍 🏠 - A STDIO based MCP server for Kubernetes that interacts seamlessly with your local clusters (~/.kube/config) using `kubectl` CLI commands. Uses read-only operations by default to prevent accidental modifications/deletion of K8s resources.
+- [rog0x/mcp-docker-tools](https://github.com/rog0x/mcp-docker-tools) 📇 🏠 - Container management, image analysis, Dockerfile generation, compose validation, and resource monitoring.
 
 ### ☁️ Cloud Providers
 
@@ -117,6 +118,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Gitee API integration, repository, issue, and pull request management, and more.
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
 - [zach-snell/bbkt](https://github.com/zach-snell/bbkt) 🏎️ ☁️ 🍎 🪟 🐧 - Bitbucket Cloud CLI and MCP server. Manages workspaces, repos, PRs, pipelines, issues, and source code. Token introspection hides tools the API key can't use.
+- [rog0x/mcp-git-tools](https://github.com/rog0x/mcp-git-tools) 📇 🏠 - Git log analysis, blame, diff viewer, branch management, and repository statistics.
 
 ### 🔒 Security
 MCP servers for security operations, vulnerability scanning, and threat detection.
@@ -174,6 +176,9 @@ Tools for testing, fault injection, and resilience validation.
 
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
+- [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) 📇 🏠 - Unit test generation, coverage analysis, test planning, fixture generation, and mutation testing suggestions.
+- [rog0x/mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) 📇 🏠 - Benchmarking, profiling, memory analysis, CPU analysis, and load testing.
+- [rog0x/mcp-log-tools](https://github.com/rog0x/mcp-log-tools) 📇 🏠 - Log parsing, pattern detection, error extraction, log statistics, and anomaly detection.
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
