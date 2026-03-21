@@ -209,6 +209,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) 📇 ☁️ 🏠 🍎 🪟 🐧 - Turn a web service into an MCP server in one click without making any code changes.
 Consider moving this entry to a 'Databases' section if one exists, or creating one. Database-specific tools don't fit the 'Aggregators' category which is described as 'Servers for accessing many apps and tools through a single MCP server.'
 - [juspay/neurolink](https://github.com/juspay/neurolink) 📇 ☁️ 🏠 - TypeScript-first AI SDK that unifies 13 major AI providers and 100+ models under a single consistent API. Connects to remote MCP servers via addExternalMCPServer/addMCPServer APIs with built-in HTTP-based MCP connection, auth, retries, and rate limiting.
+- [pumanitro/global-chat](https://github.com/pumanitro/global-chat) 📇 ☁️ - Cross-protocol AI agent discovery MCP server. Searchable directory of 18K+ MCP servers across 6+ registries (mcp.so, Glama, Smithery, PulseMCP, and more), with agents.txt validation and protocol-agnostic agent search.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
