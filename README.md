@@ -259,6 +259,7 @@ Tools for managing alerts and notifications in monitoring systems.
 ### 🔍 Application Performance Monitoring
 Tools for monitoring application performance and infrastructure health.
 
+- [alilxxey/openobserve-community-mcp](https://github.com/alilxxey/openobserve-community-mcp) 🐍 🏠 - MCP server for OpenObserve Community Edition via REST API. Read-only tools for searching logs, traces, stream schemas, and dashboards without requiring the Enterprise license.
 - [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) 📇 ☁️ - MCP server for Dynatrace Observability monitoring, providing AI-powered insights into application performance and infrastructure health.
 - [ingero-io/ingero](https://github.com/ingero-io/ingero) 🏎️ 🏠 - eBPF-based GPU causal observability agent with MCP server, providing AI assistants with causal chains explaining GPU latency from CUDA Runtime/Driver API tracing and host kernel event tracing.
 - [last9/last9-mcp-server](https://github.com/last9/last9-mcp-server) 🏎️ ☁️ - Last9 MCP Server for observability and monitoring, providing AI assistants with access to metrics, logs, and traces.
