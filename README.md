@@ -209,6 +209,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) 📇 ☁️ 🏠 🍎 🪟 🐧 - Turn a web service into an MCP server in one click without making any code changes.
 Consider moving this entry to a 'Databases' section if one exists, or creating one. Database-specific tools don't fit the 'Aggregators' category which is described as 'Servers for accessing many apps and tools through a single MCP server.'
 - [juspay/neurolink](https://github.com/juspay/neurolink) 📇 ☁️ 🏠 - TypeScript-first AI SDK that unifies 13 major AI providers and 100+ models under a single consistent API. Connects to remote MCP servers via addExternalMCPServer/addMCPServer APIs with built-in HTTP-based MCP connection, auth, retries, and rate limiting.
+- [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp) 📇 ☁️ - A fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data -- agents always have access to the most relevant tools without config changes. Dispatch tasks in plain English, get structured output. No auth required. `https://api.usefulai.fun/mcp`
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
