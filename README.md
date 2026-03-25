@@ -44,6 +44,7 @@ Tools for managing infrastructure through code, including Terraform, Pulumi, and
 - [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp) 🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
 - [pulumi/mcp-server](https://github.com/pulumi/mcp-server) 🎖️ 📇 🏠 - MCP server for interacting with Pulumi using the Pulumi Automation API and Pulumi Cloud API. Enables MCP clients to perform Pulumi operations like retrieving package information, previewing changes, deploying updates, and retrieving stack outputs programmatically.
 - [severity1/terraform-cloud-mcp](https://github.com/severity1/terraform-cloud-mcp) 🐍 ☁️ - A Model Context Protocol server that integrates AI assistants with the Terraform Cloud API, allowing you to manage your infrastructure.
+- [SkillFlow](https://github.com/rafsilva85/skillflow-mcp-server) - Open marketplace for AI agent skills. Search and discover 500+ MCP servers and automation tools.
 - [thrash888/terraform-mcp-server](https://github.com/thrash888/terraform-mcp-server) 📇 ☁️ - Terraform Registry MCP Server for interacting with Terraform registries.
 - [westonplatter/mcp-terraform-python](https://github.com/westonplatter/mcp-terraform-python) 🐍 🏠 - MCP server to run terraform operations locally.
 - [stakpak/mcp](https://github.com/stakpak/mcp) 🦀 - MCP Server for interacting, editing and generating code for Terraform, Kubernetes, GithubActions and Dockerfile.
