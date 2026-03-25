@@ -286,6 +286,7 @@ Tools for managing projects, issues, and workflows.
 ### 🧠 Memory & Context
 Tools for persistent memory, context management, and knowledge retention for AI agents.
 
+- [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. Free and MIT licensed.
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
 
 ## Frameworks
