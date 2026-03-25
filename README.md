@@ -140,6 +140,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [luckyPipewrench/pipelock](https://github.com/luckyPipewrench/pipelock) 🏎️ 🏠 - Firewall for AI agents that wraps MCP servers with bidirectional scanning for credential leaks, prompt injection, and tool poisoning detection. Also provides an HTTP fetch proxy with a 9-layer scanner pipeline.
 - [elliotllliu/agent-shield](https://github.com/elliotllliu/agent-shield) 📇 🏠 - Pre-deployment security scanner for AI agent skills, MCP servers, and plugins. 30 detection rules with AST taint tracking, cross-file data flow analysis, and multi-language prompt injection detection (8 languages). CI/CD integration via GitHub Action. Zero install via npx, 100% offline.
 - [PolicyLayer/Intercept](https://github.com/PolicyLayer/Intercept) 📇 🏠 🍎 🪟 🐧 - Open-source MCP proxy that enforces YAML policies on every tool call. Rate limiting, spending caps, argument validation, and full audit logging at the transport layer. Works with any MCP server.
+- [Sentinel-Gate/Sentinelgate](https://github.com/Sentinel-Gate/Sentinelgate) 🏎️ 🏠 🍎 🪟 🐧 - Open-source MCP proxy for AI agent access control. Intercepts every tool call with CEL policies, RBAC, full audit trail, content scanning, and Admin UI. Single binary, zero dependencies.
 
 ## CI/CD & DevOps Pipelines
 
