@@ -174,6 +174,7 @@ Tools for testing, fault injection, and resilience validation.
 
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
+- [thomwseo/mcp-validate-action](https://github.com/thomwseo/mcp-validate-action) 📇 ☁️ - GitHub Action that validates MCP server tool definitions in CI. Scores 0-100 on names, descriptions, schemas, annotations, and destructive tool detection. Runs locally in the runner with no API dependency.
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
