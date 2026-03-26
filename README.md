@@ -160,6 +160,7 @@ Tools for providing visibility across the entire DevOps lifecycle.
 - [SBDI/mcp-devps-hub](https://github.com/SBDI/mcp-devps-hub) 🐍 🏠 - MCP server for end-to-end development visibility (Jira, GitHub, CI/CD, etc.).
 - [Acid-base/FastMCP-Proper](https://github.com/Acid-base/FastMCP-Proper) 🐍 🏠 - Python MCP server with CI/CD tooling and testability built-in.
 - [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).
+- [clarvia-project/scanner](https://github.com/clarvia-project/scanner) 📇 ☁️ - MCP server for AI Engine Optimization (AEO) — score any API or service for agent-readiness, discover 15,400+ indexed tools, and gate-check tools before using them in agentic workflows. Available via `npx clarvia-mcp-server`.
 
 ### 👨‍💻 Code Execution
 Code execution servers. Allow LLMs to execute code in a secure environment.
