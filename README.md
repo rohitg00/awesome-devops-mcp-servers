@@ -245,6 +245,9 @@ Web content access and automation capabilities. Enables searching, scraping, and
 Tools for analyzing and managing project dependencies across build systems.
 
 - [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) ☕ ☁️ 🏠 🍎 🪟 🐧 - Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Provides version lookups, dependency health checks, age analysis, release patterns, and upgrade guidance with Context7 integration.
+- [lunacompsia-oss/mcp-server-changelog](https://github.com/lunacompsia-oss/mcp-server-changelog) 📇 ☁️ 🏠 🍎 🪟 🐧 - Fetch and parse changelogs, release notes, and breaking changes from npm, PyPI, crates.io, and GitHub repositories.
+- [lunacompsia-oss/mcp-server-deps](https://github.com/lunacompsia-oss/mcp-server-deps) 📇 ☁️ 🏠 🍎 🪟 🐧 - Analyze dependency trees, check for vulnerabilities via OSV.dev, and audit outdated packages across npm, PyPI, and crates.io.
+- [lunacompsia-oss/mcp-server-license](https://github.com/lunacompsia-oss/mcp-server-license) 📇 ☁️ 🏠 🍎 🪟 🐧 - Check license types, SPDX compliance, compatibility matrices, and risk classification for open-source dependencies.
 - [tersePrompts/jarp-mcp](https://github.com/tersePrompts/jarp-mcp) 📇 ☕ 🏠 - Java Archive Reader Protocol - MCP server that gives AI agents X-ray vision into compiled Java code. Enables decompiling and analyzing Java classes directly from Maven/Gradle dependencies using bundled CFR decompiler with zero-setup installation.
 
 ## Monitoring & Observability
