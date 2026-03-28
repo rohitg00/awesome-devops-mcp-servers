@@ -227,6 +227,8 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [eyalzh/browser-control-mcp](https://github.com/eyalzh/browser-control-mcp) 📇 🏠 - An MCP server paired with a browser extension that enables LLM clients to control the user's browser (Firefox).
 - [getrupt/ashra-mcp](https://github.com/getrupt/ashra-mcp) 🐍 🏠 - Extract structured data from any website. Just prompt and get JSON.
 - [kimtth/mcp-aoai-web-browsing](https://github.com/kimtth/mcp-aoai-web-browsing) 🐍 🏠 - A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.
+- [mcpware/pagecast](https://github.com/mcpware/pagecast) 📇 🏠 - MCP server that records browser sessions as GIF/video using Playwright and ffmpeg — AI-driven QA evidence and demo recording.
+- [mcpware/ui-annotator-mcp](https://github.com/mcpware/ui-annotator-mcp) 📇 🏠 - MCP server that annotates web pages with hover labels for AI assistants — reverse proxy injects annotations, zero browser extensions needed.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility snapshots
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/server-puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
@@ -290,6 +292,7 @@ Tools for managing projects, issues, and workflows.
 ### 🧠 Memory & Context
 Tools for persistent memory, context management, and knowledge retention for AI agents.
 
+- [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) 📇 🏠 - MCP server to organize Claude Code configurations — scan, move, delete memories, skills, MCP servers, and hooks across project and user scopes.
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
 
 ## Frameworks
