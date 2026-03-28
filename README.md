@@ -65,6 +65,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [wenhuwang/mcp-k8s-eye](https://github.com/wenhuwang/mcp-k8s-eye) 🏎️ ☁️/🏠 - MCP Server for kubernetes management, and analyze your cluster, application health.
 - [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad) 🏎️ ☁️/🏠 - MCP Server for nomad management, and analyze your cluster, application health, logs and ACL.
 - [aadarshjain/kubectl-mcp-server](https://github.com/aadarshjain/kubectl-mcp-server) 🐍 🏠 - A STDIO based MCP server for Kubernetes that interacts seamlessly with your local clusters (~/.kube/config) using `kubectl` CLI commands. Uses read-only operations by default to prevent accidental modifications/deletion of K8s resources.
+- [rog0x/mcp-docker-tools](https://github.com/rog0x/mcp-docker-tools) 📇 🏠 - Container management, image analysis, Dockerfile generation, compose validation, and resource monitoring.
 
 ### ☁️ Cloud Providers
 
@@ -119,6 +120,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [oschina/mcp-gitee](https://github.com/oschina/gitee) 🏎️ ☁️ 🏠 - Gitee API integration, repository, issue, and pull request management, and more.
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
 - [zach-snell/bbkt](https://github.com/zach-snell/bbkt) 🏎️ ☁️ 🍎 🪟 🐧 - Bitbucket Cloud CLI and MCP server. Manages workspaces, repos, PRs, pipelines, issues, and source code. Token introspection hides tools the API key can't use.
+- [rog0x/mcp-git-tools](https://github.com/rog0x/mcp-git-tools) 📇 🏠 - Git log analysis, blame, diff viewer, branch management, and repository statistics.
 
 ### 🔒 Security
 MCP servers for security operations, vulnerability scanning, and threat detection.
@@ -146,6 +148,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [elliotllliu/agent-shield](https://github.com/elliotllliu/agent-shield) 📇 🏠 - Pre-deployment security scanner for AI agent skills, MCP servers, and plugins. 30 detection rules with AST taint tracking, cross-file data flow analysis, and multi-language prompt injection detection (8 languages). CI/CD integration via GitHub Action. Zero install via npx, 100% offline.
 - [PolicyLayer/Intercept](https://github.com/PolicyLayer/Intercept) 📇 🏠 🍎 🪟 🐧 - Open-source MCP proxy that enforces YAML policies on every tool call. Rate limiting, spending caps, argument validation, and full audit logging at the transport layer. Works with any MCP server.
 - [Sentinel-Gate/Sentinelgate](https://github.com/Sentinel-Gate/Sentinelgate) 🏎️ 🏠 🍎 🪟 🐧 - Open-source MCP proxy for AI agent access control. Intercepts every tool call with CEL policies, RBAC, full audit trail, content scanning, and Admin UI. Single binary, zero dependencies.
+- [prompt-security/clawsec](https://github.com/prompt-security/clawsec) 🐍 ☁️ - Security audit platform for AI agent skills and MCP servers. Five-tier detection pipeline (core rules, dynamic rules, LLM analysis, Firecracker sandbox, LLM review), continuous rule evolution, and automated vulnerability reports.
 
 ## CI/CD & DevOps Pipelines
 
@@ -181,6 +184,9 @@ Tools for testing, fault injection, and resilience validation.
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 - [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) 📇 ☁️ - AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
+- [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) 📇 🏠 - Unit test generation, coverage analysis, test planning, fixture generation, and mutation testing suggestions.
+- [rog0x/mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) 📇 🏠 - Benchmarking, profiling, memory analysis, CPU analysis, and load testing.
+- [rog0x/mcp-log-tools](https://github.com/rog0x/mcp-log-tools) 📇 🏠 - Log parsing, pattern detection, error extraction, log statistics, and anomaly detection.
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
@@ -216,9 +222,10 @@ Servers for accessing many apps and tools through a single MCP server.
 - [Strale](https://strale.dev) - 250+ quality-scored capabilities for AI agents: company data across 27 countries, compliance checks (KYB, AML, sanctions, GDPR), financial validation, web intelligence (SSL checks, DNS lookups, domain reputation), document extraction, developer tools (CVE lookup, dependency audit, code review), and data processing. Every capability independently tested with Strale Quality Score (SQS). Free tier available.
 - [sxhxliang/mcp-access-point](https://github.com/sxhxliang/mcp-access-point) 📇 ☁️ 🏠 🍎 🪟 🐧 - Turn a web service into an MCP server in one click without making any code changes.
 - [SkillFlow](https://github.com/rafsilva85/skillflow-mcp-server) 🌐📦🤖 - Open marketplace for AI agent skills. Discover 500+ MCP servers and automation tools, compare capabilities, and deploy to your AI stack. Free and open source.
-Consider moving this entry to a 'Databases' section if one exists, or creating one. Database-specific tools don't fit the 'Aggregators' category which is described as 'Servers for accessing many apps and tools through a single MCP server.'
 - [juspay/neurolink](https://github.com/juspay/neurolink) 📇 ☁️ 🏠 - TypeScript-first AI SDK that unifies 13 major AI providers and 100+ models under a single consistent API. Connects to remote MCP servers via addExternalMCPServer/addMCPServer APIs with built-in HTTP-based MCP connection, auth, retries, and rate limiting.
 - [Arch Tools](https://archtools.dev) ☁️ - 53 production-ready AI tools via MCP with x402 USDC payments. Web scraping, crypto data, AI generation, OCR, and more.
+- [pumanitro/global-chat](https://github.com/pumanitro/global-chat) 📇 ☁️ - Cross-protocol AI agent discovery MCP server. Searchable directory of 18K+ MCP servers across 6+ registries (mcp.so, Glama, Smithery, PulseMCP), with agents.txt validation and protocol-agnostic agent search.
+- [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp) 📇 ☁️ - Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. No auth required.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
@@ -305,6 +312,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 
 - [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) 📇 🏠 - MCP server to organize Claude Code configurations — scan, move, delete memories, skills, MCP servers, and hooks across project and user scopes.
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
+- [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
 
 ## Frameworks
 
