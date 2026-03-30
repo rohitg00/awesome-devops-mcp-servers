@@ -307,6 +307,11 @@ Tools for managing projects, issues, and workflows.
 
 ## AI Agent Infrastructure
 
+### 🏛️ Autonomous Infrastructure Operations
+Frameworks for building autonomous agents that run infrastructure 24/7 — self-healing, governance, fleet coordination.
+
+- [john-broadway/maude-for-claude](https://github.com/john-broadway/maude-for-claude) 🐍 🏠 🐧 - Autonomous agent framework for infrastructure operations. Governance-first — ships a constitutional framework (11 articles, 14 standards, kill switch). Sovereign Room daemons with 3-tier memory (SQLite → PostgreSQL → Qdrant), self-healing health loops, and cross-room coordination. Built on FastMCP 3.x. Production-tested across 21 services and 4 physical sites.
+
 ### 🧠 Memory & Context
 Tools for persistent memory, context management, and knowledge retention for AI agents.
 
