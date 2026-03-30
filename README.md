@@ -246,6 +246,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility snapshots
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/server-puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
+- [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) 📇 🏠 - Plugin-based MCP server that gives AI agents access to web applications through the user's authenticated browser session. Chrome extension with 100+ plugins for Slack, Discord, GitHub, Reddit, and more.
 
 ## Build Tools & Dependency Management
 
