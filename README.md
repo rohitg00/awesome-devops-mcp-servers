@@ -312,6 +312,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 
 - [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) 📇 🏠 - MCP server to organize Claude Code configurations — scan, move, delete memories, skills, MCP servers, and hooks across project and user scopes.
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
+- [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) 🐍 🏠 ☁️ - Persistent memory for AI agents with 107 tools: remember, recall, rollback, audit, knowledge graph, governed actions, eval, cortex, and Runtime v2 agent orchestration. Local SQLite (zero-config) or Novyx Cloud. Install via `uvx novyx-mcp`.
 - [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
 
 ## Frameworks
