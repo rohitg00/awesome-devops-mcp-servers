@@ -94,6 +94,11 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) 🏎️ 🏠/☁️ - Go-based MCP Server for interfacing with Nutanix Prism Central resources.
 - [arnstarn/mcp-server-spotinst](https://github.com/arnstarn/mcp-server-spotinst) 🐍 ☁️ - MCP server for Spot.io (Spotinst) API with 23 tools for managing Ocean clusters, VNGs, Elastigroups, costs, right-sizing, and logs across AWS and Azure with multi-account support.
 
+### 🗄️ Database Management
+Interact with SQL and NoSQL databases, execute queries, inspect schemas, and manage data.
+
+- [haymon-ai/database](https://github.com/haymon-ai/database) 🦀 🏠 - Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite with zero runtime dependencies.
+
 ### 🖥️ Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
