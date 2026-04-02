@@ -231,6 +231,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [Arch Tools](https://archtools.dev) ☁️ - 53 production-ready AI tools via MCP with x402 USDC payments. Web scraping, crypto data, AI generation, OCR, and more.
 - [pumanitro/global-chat](https://github.com/pumanitro/global-chat) 📇 ☁️ - Cross-protocol AI agent discovery MCP server. Searchable directory of 18K+ MCP servers across 6+ registries (mcp.so, Glama, Smithery, PulseMCP), with agents.txt validation and protocol-agnostic agent search.
 - [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp) 📇 ☁️ - Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. No auth required.
+- [COSAI-Labs/toolpipe-mcp-server](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server) 📇 ☁️ 🏠 🍎 🪟 🐧 - 230+ developer utility tools via MCP: JSON/XML/YAML processing, QR codes, hashing, UUID, DNS, WHOIS, PDF generation, code review, fake data, web scraping, SEO analysis, and more. Install: `npx @cosai-labs/toolpipe-mcp-server`. [toolpipe.dev](https://toolpipe.dev)
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
