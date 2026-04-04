@@ -209,6 +209,8 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [scrapeless/mcp-server-scrapeless](https://github.com/scrapeless-ai/scrapeless-mcp-server) 📇☁️🍎🪟🐧 - Seamlessly integrate real-time Google SERP(Google Search, Google Flight, Google Map, Google Jobs....) results into your LLM applications using the Scrapeless MCP server.
 
 ### 🔗 Aggregators
+
+- [COSAI-Labs/toolpipe-mcp-server](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/mcp-server) 📇 ☁️ - 120+ developer utility tools via MCP: code review, JSON/XML/YAML formatting, QR codes, hashing, UUID, DNS lookup, regex testing, JWT decode, SQL formatting, Docker Compose generation, GitHub Actions workflows, Nginx configs, security headers, SSL checking, WHOIS, CSV analysis, and PDF processing. Zero install: connect via remote URL or `npx @cosai-labs/toolpipe-mcp-server`.
 Servers for accessing many apps and tools through a single MCP server.
 
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) 🐍 🏠 - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
