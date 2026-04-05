@@ -130,6 +130,8 @@ Interact with Git repositories and version control platforms. Enables repository
 ### 🔒 Security
 MCP servers for security operations, vulnerability scanning, and threat detection.
 
+- [ExposureGuard/haldir](https://github.com/ExposureGuard/haldir) 🐍 ☁️ 🍎 🪟 🐧 - Guardian layer for AI agents: scoped sessions with spend limits (Gate), AES-encrypted secrets (Vault), immutable audit trail (Watch), and proxy mode that intercepts every MCP tool call for policy enforcement. Human-in-the-loop approvals, webhooks, 10 MCP tools. 98/100 on Smithery. [haldir.xyz](https://haldir.xyz)
+- [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning for AI agents. 8-check audit (SPF, DMARC, SSL, headers, DNSSEC, open ports), A-F grades, copy-paste fix snippets. 100/100 on Smithery.
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ☕ 🏠 - A Model Context Protocol server for Ghidra that enables LLMs to autonomously reverse engineer applications. Provides tools for decompiling binaries, renaming methods and data, and listing methods, classes, imports, and exports.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
 - [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) 📇 🪟 ☁️ - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.
