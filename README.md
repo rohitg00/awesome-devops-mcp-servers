@@ -154,6 +154,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [PolicyLayer/Intercept](https://github.com/PolicyLayer/Intercept) 📇 🏠 🍎 🪟 🐧 - Open-source MCP proxy that enforces YAML policies on every tool call. Rate limiting, spending caps, argument validation, and full audit logging at the transport layer. Works with any MCP server.
 - [Sentinel-Gate/Sentinelgate](https://github.com/Sentinel-Gate/Sentinelgate) 🏎️ 🏠 🍎 🪟 🐧 - Open-source MCP proxy for AI agent access control. Intercepts every tool call with CEL policies, RBAC, full audit trail, content scanning, and Admin UI. Single binary, zero dependencies.
 - [prompt-security/clawsec](https://github.com/prompt-security/clawsec) 🐍 ☁️ - Security audit platform for AI agent skills and MCP servers. Five-tier detection pipeline (core rules, dynamic rules, LLM analysis, Firecracker sandbox, LLM review), continuous rule evolution, and automated vulnerability reports.
+- [Aigen-Protocol/aigen-protocol](https://github.com/Aigen-Protocol/aigen-protocol) 🐍 ☁️ - Token safety scanner for AI agents interacting with DeFi. Analyzes ERC-20 tokens across 6 EVM chains for 27 scam patterns including honeypots (via real DEX swap simulation), hidden mints, ownership exploits, and fee manipulation. 38 MCP tools with Streamable HTTP transport.
 
 ## CI/CD & DevOps Pipelines
 
