@@ -2,6 +2,7 @@
 
 A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps tools and capabilities.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration via MCP servers. Includes DevOps, security, and infrastructure agents.
 ## What is MCP?
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on DevOps-related MCP servers that extend AI capabilities through cloud infrastructure management, CLI operations, version control, security scanning, and other DevOps-related services.
