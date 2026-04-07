@@ -277,6 +277,7 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 ### 📱 Social Media Monitoring
 Tools for monitoring social media platforms and extracting data.
 
+- [sortlist/signals-cli](https://github.com/sortlist/signals-cli) 📇 ☁️ - Intent signal monitoring CLI. Track LinkedIn engagers, keyword posters, job changers, and funding events. JSON output for agent pipelines. Install via `npm i -g signals-sortlist-cli`.
 - [Xquik](https://xquik.com) 📇 ☁️ - X/Twitter account monitoring and data extraction — MCP server, REST API, HMAC webhooks, 40+ extraction tools.
 
 ### 🔔 Alerting & Notification
@@ -303,6 +304,11 @@ Tools for managing customer support tickets and helpdesk operations.
 
 - [effytech/freshdesk-mcp](https://github.com/effytech/freshdesk_mcp) 🐍 ☁️ - MCP server that integrates with Freshdesk, enabling AI models to interact with Freshdesk modules and perform various support operations.
 - [dbsanfte/topdesk-mcp](https://github.com/dbsanfte/topdesk-mcp) 🐍 ☁️ - MCP server for the Topdesk ticketing system, allowing AI models to interact with and add comments to incident tickets.
+
+### 📧 Sales Automation
+Tools for AI-powered outbound sales and prospect management.
+
+- [sortlist/overloop-cli](https://github.com/sortlist/overloop-cli) 📇 ☁️ - AI-powered outbound engine CLI. Source prospects from 450M+ contacts, launch email + LinkedIn campaigns, manage conversations. JSON output, agent-native. Install via `npm i -g overloop-cli`.
 
 ### 📋 Project Management
 Tools for managing projects, issues, and workflows.
