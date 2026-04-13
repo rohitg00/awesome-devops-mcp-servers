@@ -11,6 +11,7 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 - [awesome](https://github.com/sindresorhus/awesome#readme) - Awesome lists about all kinds of interesting topics.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/) - A comprehensive list of all MCP servers.
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) - A list of MCP clients.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Legend
 
