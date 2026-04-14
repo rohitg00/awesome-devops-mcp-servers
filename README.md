@@ -112,6 +112,10 @@ Run commands, capture output and otherwise interact with shells and command line
 - [automateyournetwork/pyATS_MCP](https://github.com/automateyournetwork/pyATS_MCP) - Cisco pyATS server enabling structured, model-driven interaction with network devices.
 - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) 📇 🏠 🍎 🪟 🐧 - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files.
 
+### 🌐 CMS & Web Platforms
+
+- [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp) [![mvtandas/wp-cli-mcp MCP server](https://glama.ai/mcp/servers/mvtandas/wp-cli-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mvtandas/wp-cli-mcp) 📇 🏠 - Full WordPress management via WP-CLI with 57+ tools. Themes (install/edit files), plugins, posts, WooCommerce (products/orders/coupons), menus, users, database, scaffolding, maintenance mode, and PHP eval. Works locally or over SSH.
+
 ### 🔄 Version Control
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
