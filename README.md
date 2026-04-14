@@ -38,7 +38,6 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 ### 🏗️ Infrastructure as Code
 Tools for managing infrastructure through code, including Terraform, Pulumi, and other IaC platforms.
 
-- [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator with MCP server. Manages parallel AI coding agents, quality gates, and CI integration.
 - [dulltz/mcp-server-hcp-terraform](https://github.com/dulltz/mcp-server-hcp-terraform) 🐍 ☁️ - MCP server for working with HashiCorp Cloud Platform (HCP) Terraform, enabling AI assistants to interact with Terraform Cloud resources.
 - [guilhermeyoshida/mcp-terraform-assistant](https://github.com/guilhermeyoshida/mcp-terraform-assistant) 🐍 🏠 - An MCP server for managing infrastructure as code using Terraform.
 - [jashkahar/Terraform-MCP-Server](https://github.com/jashkahar/Terraform-MCP-Server) 🐍 ☁️ - This project provides an MCP server that exposes Terraform infrastructure-as-code operations through natural language.
@@ -197,6 +196,7 @@ Tools for testing, fault injection, and resilience validation.
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
 
+- [Bernstein](https://github.com/chernistry/bernstein) 🐍 🏠 - Multi-agent orchestrator with MCP server mode. Spawns parallel AI coding agents in git worktrees, routes to optimal models, verifies via quality gates. 21 CLI adapters, deterministic scheduling.
 - [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) ☁️ 📇 🍎 🪟 🐧 - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub ecosystem
 - [oraios/serena](https://github.com/oraios/serena) 🐍🏠 - A fully-featured coding agent that relies on symbolic code operations by using language servers.
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - Coding agent with basic read, write and command line tools.
