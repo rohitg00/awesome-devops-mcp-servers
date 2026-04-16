@@ -316,6 +316,10 @@ Tools for managing projects, issues, and workflows.
 MCP servers for discovering tools, APIs, and services for AI agents.
 
 - [unitedideas/nothumansearch](https://github.com/unitedideas/nothumansearch) 🏎️ ☁️ - MCP server for discovering agent-first tools. Indexes 1,400+ sites with agentic readiness scores. Tools: search_agents, get_site_details, verify_mcp.
+
+### 💼 Job & Career Search
+MCP servers for searching job listings and career opportunities.
+
 - [unitedideas/aidevboard-mcp](https://github.com/unitedideas/aidevboard-mcp) 📇 ☁️ - MCP server for AI/ML job search across 5,000+ curated roles. Tools: search_jobs, get_job, list_companies, match_jobs.
 
 ## AI Agent Infrastructure
