@@ -310,6 +310,14 @@ Tools for managing projects, issues, and workflows.
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
 
+## Search & Discovery
+
+### 🔍 Tool & Service Discovery
+MCP servers for discovering tools, APIs, and services for AI agents.
+
+- [unitedideas/nothumansearch](https://github.com/unitedideas/nothumansearch) 🏎️ ☁️ - MCP server for discovering agent-first tools. Indexes 1,400+ sites with agentic readiness scores. Tools: search_agents, get_site_details, verify_mcp.
+- [unitedideas/aidevboard-mcp](https://github.com/unitedideas/aidevboard-mcp) 📇 ☁️ - MCP server for AI/ML job search across 5,000+ curated roles. Tools: search_jobs, get_job, list_companies, match_jobs.
+
 ## AI Agent Infrastructure
 
 ### 🧠 Memory & Context
