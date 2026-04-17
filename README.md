@@ -318,6 +318,12 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) 📇 🏠 - MCP server to organize Claude Code configurations — scan, move, delete memories, skills, MCP servers, and hooks across project and user scopes.
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
 - [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
+- [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory) 🐍 📇 🏠 - Persistent agent memory with 6-channel retrieval (semantic, BM25, temporal, Hopfield, spreading activation, entity graph). Fisher-Rao geometry, zero-cloud, EU AI Act compliant. 16K+ monthly downloads. Beats Mem0 (74.8% vs 64.2% on LoCoMo). 3 arXiv papers.
+
+### 🔌 Gateways & Federation
+Universal MCP gateways that aggregate multiple MCP servers into a single endpoint.
+
+- [qualixar/slm-mcp-hub](https://github.com/qualixar/slm-mcp-hub) 🐍 📇 🏠 - Universal MCP gateway that federates 430+ tools from 37 servers through one endpoint. 75% RAM reduction, background startup, auto-retry, cost tracking. Dual Python + Node. `pip install slm-mcp-hub` or `npm install slm-mcp-hub`.
 
 ## Frameworks
 
