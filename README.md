@@ -328,6 +328,13 @@ Frameworks for building your own MCP servers.
 - [FastMCP](https://github.com/punkpeye/fastmcp) 📇 - A high-level framework for building MCP servers in TypeScript
 - [tersePrompts/fastMCP4J](https://github.com/tersePrompts/fastMCP4J) ☕ 🏠 - Lightweight Java library for building MCP servers using annotations. Annotation-driven development with only 12 dependencies, built-in tools (memory, todo, planner, file ops, bash, telemetry), multi-class modules support, and <500ms cold start.
 
+
+### 🤖 AI Coding Intelligence
+Tools for enhancing AI coding capabilities with memory, self-evolution, and skill management.
+
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain) 📇 🏠 - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge) 📇 🏠 - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
