@@ -38,6 +38,7 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 ### 🏗️ Infrastructure as Code
 Tools for managing infrastructure through code, including Terraform, Pulumi, and other IaC platforms.
 
+- [BytesAgain](https://github.com/bytesagain/ai-skills) - Search 60,000+ AI agent skills via MCP SSE or REST API. 7 languages. Free, no auth. `https://bytesagain.com/api/mcp/sse`
 - [dulltz/mcp-server-hcp-terraform](https://github.com/dulltz/mcp-server-hcp-terraform) 🐍 ☁️ - MCP server for working with HashiCorp Cloud Platform (HCP) Terraform, enabling AI assistants to interact with Terraform Cloud resources.
 - [guilhermeyoshida/mcp-terraform-assistant](https://github.com/guilhermeyoshida/mcp-terraform-assistant) 🐍 🏠 - An MCP server for managing infrastructure as code using Terraform.
 - [jashkahar/Terraform-MCP-Server](https://github.com/jashkahar/Terraform-MCP-Server) 🐍 ☁️ - This project provides an MCP server that exposes Terraform infrastructure-as-code operations through natural language.
