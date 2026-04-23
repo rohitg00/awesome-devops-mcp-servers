@@ -295,6 +295,7 @@ Tools for monitoring application performance and infrastructure health.
 - [Polar Signals Remote MCP](https://www.polarsignals.com/blog/posts/2025/07/17/the-mcp-for-performance-engineering) 🐍 ☁️ - MCP server for Polar Signals Cloud continuous profiling platform, enabling AI assistants to analyze CPU performance, memory usage, and identify optimization opportunities in production systems.
 - [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp) 🐍 ☁️ - Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services (OpenAI, Anthropic, Stripe, AWS, Postgres, Redis, Twilio, etc.). Complements monitoring tools by telling agents how to recover from errors, not just detect them.
 - [nicofains1/agentwatch](https://github.com/nicofains1/agentwatch) 📇 🏠 - Multi-agent observability for cascade failure detection, fleet-wide heartbeat monitoring, and forensic replay. Works as an npm library or MCP server.
+- [Voidly](https://github.com/voidly-ai) 📇 ☁️ - MCP server for global network/censorship intelligence and service-accessibility oracle (19.6M OONI measurements, 119 countries, real-time blocking alerts).
 
 ## Project & Service Management
 
