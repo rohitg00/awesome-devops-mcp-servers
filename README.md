@@ -160,6 +160,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 ### 🔄 Continuous Integration
 Tools for automating the integration of code changes and running tests.
 
+- [GeiserX/spinnaker-mcp](https://github.com/GeiserX/spinnaker-mcp) 🏎️ ☁️ - A Go-based MCP server that bridges any Spinnaker continuous delivery instance via the Gate API, exposing 37 tools for application management, pipeline operations, execution control, and infrastructure queries.
 - [Tiberriver256/mcp-server-github-actions](https://github.com/Tiberriver256/mcp-server-github-actions) 📇 ☁️ - MCP server for interacting with GitHub Actions workflows, enabling AI assistants to manage CI/CD pipelines.
 - [lobehub/mcp-hello-world](https://github.com/lobehub/mcp-hello-world) 📇 ☁️ - A simple Hello World MCP server for CI/CD test.
 
