@@ -154,6 +154,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [PolicyLayer/Intercept](https://github.com/PolicyLayer/Intercept) 📇 🏠 🍎 🪟 🐧 - Open-source MCP proxy that enforces YAML policies on every tool call. Rate limiting, spending caps, argument validation, and full audit logging at the transport layer. Works with any MCP server.
 - [Sentinel-Gate/Sentinelgate](https://github.com/Sentinel-Gate/Sentinelgate) 🏎️ 🏠 🍎 🪟 🐧 - Open-source MCP proxy for AI agent access control. Intercepts every tool call with CEL policies, RBAC, full audit trail, content scanning, and Admin UI. Single binary, zero dependencies.
 - [prompt-security/clawsec](https://github.com/prompt-security/clawsec) 🐍 ☁️ - Security audit platform for AI agent skills and MCP servers. Five-tier detection pipeline (core rules, dynamic rules, LLM analysis, Firecracker sandbox, LLM review), continuous rule evolution, and automated vulnerability reports.
+- [Agnuxo1/EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) 📇 🏠 🍎 🪟 🐧 - AES-256-GCM + Argon2id encrypted local vault for AI agent credentials. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts, logs, or LLM context. Dual-mode: stdio MCP server or REST API on port 3737.
 
 ## CI/CD & DevOps Pipelines
 
