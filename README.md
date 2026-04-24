@@ -129,6 +129,7 @@ Interact with Git repositories and version control platforms. Enables repository
 
 ### 🔒 Security
 MCP servers for security operations, vulnerability scanning, and threat detection.
+- [EnigmAgent MCP](https://github.com/Agnuxo1/EnigmAgent/tree/main/platforms/mcp-server) - Encrypted local vault for AI agents. Resolve {{SECRET}} placeholders in prompts without exposing real values. AES-256-GCM + Argon2id. `enigmagent-mcp`
 
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ☕ 🏠 - A Model Context Protocol server for Ghidra that enables LLMs to autonomously reverse engineer applications. Provides tools for decompiling binaries, renaming methods and data, and listing methods, classes, imports, and exports.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
