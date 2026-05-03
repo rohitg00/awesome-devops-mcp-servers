@@ -319,6 +319,11 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
 - [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
 
+### 📈 Data & Price Feeds
+Tools for real-time market data, price oracles, and financial data feeds for AI agents.
+
+- [OracleForge](https://oracle.maxiaworld.app) 🐍 ☁️ - Real-time price feed oracle for LLM agents. Multi-source aggregation (Pyth, Chainlink, Uniswap v3), token budget awareness, REST API + Python SDK + MCP server.
+
 ## Frameworks
 
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 🏠 ☁️ - AI Agents framework with 64+ built-in MCP tools for automation, including search, memory, workflows, code execution, and file operations.
