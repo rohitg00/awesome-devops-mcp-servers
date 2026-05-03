@@ -287,6 +287,7 @@ Tools for managing alerts and notifications in monitoring systems.
 ### 🔍 Application Performance Monitoring
 Tools for monitoring application performance and infrastructure health.
 
+- [AlexlaGuardia/Vigil](https://github.com/AlexlaGuardia/Vigil) 🐍 ☁️/🏠 - MCPWatch instruments any Python MCP server in one line — FastMCP and low-level Server, same API. Per-tool latency (p50/p95/p99), error rates, silent-failure detection, and call-volume tracking. REST API, CLI, alerts. MIT.
 - [alilxxey/openobserve-community-mcp](https://github.com/alilxxey/openobserve-community-mcp) 🐍 🏠 - MCP server for OpenObserve Community Edition via REST API. Read-only tools for searching logs, traces, stream schemas, and dashboards without requiring the Enterprise license.
 - [dynatrace-oss/dynatrace-mcp](https://github.com/dynatrace-oss/dynatrace-mcp) 📇 ☁️ - MCP server for Dynatrace Observability monitoring, providing AI-powered insights into application performance and infrastructure health.
 - [ingero-io/ingero](https://github.com/ingero-io/ingero) 🏎️ 🏠 - eBPF-based GPU causal observability agent with MCP server, providing AI assistants with causal chains explaining GPU latency from CUDA Runtime/Driver API tracing and host kernel event tracing.
