@@ -319,6 +319,11 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
 - [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
 
+### 💰 API Cost Management
+Tools for tracking, comparing, and optimizing LLM API costs across providers.
+
+- [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency MCP server and CLI for real-time LLM API pricing across 22 providers (OpenAI, Anthropic, Google, Mistral, and more). Tools: calculate costs, compare models, find cheapest options for a given workload. 128 models, instant offline lookup.
+
 ## Frameworks
 
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 🏠 ☁️ - AI Agents framework with 64+ built-in MCP tools for automation, including search, memory, workflows, code execution, and file operations.
