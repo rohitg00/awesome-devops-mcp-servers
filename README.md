@@ -320,6 +320,7 @@ Tools for monitoring application performance and infrastructure health.
 - [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp) 🐍 ☁️ - Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services (OpenAI, Anthropic, Stripe, AWS, Postgres, Redis, Twilio, etc.). Complements monitoring tools by telling agents how to recover from errors, not just detect them.
 - [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) 📇 ☁️ - Uptime monitoring MCP server. 10 tools for listing/creating/pausing monitors and acknowledging incidents. Remote Streamable-HTTP at `api.uptrack.app/mcp` (OAuth 2.0) or stdio via `npx @uptrack-app/mcp`.
 - [nicofains1/agentwatch](https://github.com/nicofains1/agentwatch) 📇 🏠 - Multi-agent observability for cascade failure detection, fleet-wide heartbeat monitoring, and forensic replay. Works as an npm library or MCP server.
+- [Voidly](https://github.com/voidly-ai/mcp-server) 📇 ☁️ - MCP server for global network and censorship intelligence, useful for service-accessibility monitoring and blocking diagnostics.
 
 ## Project & Service Management
 
