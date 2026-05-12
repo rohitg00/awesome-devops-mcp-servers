@@ -315,6 +315,7 @@ Tools for managing projects, issues, and workflows.
 ### 🧠 Memory & Context
 Tools for persistent memory, context management, and knowledge retention for AI agents.
 
+- [dakera-ai/dakera-mcp](https://github.com/dakera-ai/dakera-mcp) 🦀 🏠 🍎 🪟 🐧 - Self-hosted MCP-native agent memory server. 83 tools for persistent, decay-weighted episodic memory across sessions. RocksDB + HNSW, 87.8% LoCoMo benchmark. Docker Compose deployment, multi-SDK support.
 - [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) 📇 🏠 - MCP server to organize Claude Code configurations — scan, move, delete memories, skills, MCP servers, and hooks across project and user scopes.
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
 - [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
