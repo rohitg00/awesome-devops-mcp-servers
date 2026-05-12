@@ -166,6 +166,8 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [arcjet/mcp](https://docs.arcjet.com/mcp-server) ☁️ - Runtime security platform for AI applications, including budget enforcement, prompt-injection protection, bot detection, and PII controls.
 - [sidclawhq/platform](https://github.com/sidclawhq/platform) 📇 🏠 - Governance proxy for MCP servers with identity, policy evaluation, human approval, and traceability for agent actions.
 - [Scottpedia0/access](https://github.com/Scottpedia0/access) 📇 🏠 🍎 🪟 🐧 - Self-hosted credential store, API proxy, and MCP server that lets agents access services through one controlled bearer token.
+- [ExposureGuard/haldir](https://github.com/ExposureGuard/haldir) 🐍 ☁️ 🍎 🪟 🐧 - Agent security layer for scoped sessions, secrets, audit trails, and proxy-based tool-call review.
+- [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
 
 ## CI/CD & DevOps Pipelines
 
