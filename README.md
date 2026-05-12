@@ -341,6 +341,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 🏠 ☁️ - Long-term memory for AI agents with semantic search, auto-capture, and framework integrations.
 - [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) 🐍 🏠 ☁️ - Persistent memory and governance for AI agents with local core memory and optional cloud-backed policy, approval, and audit workflows.
+- [eidetic-works/nucleus-mcp](https://github.com/eidetic-works/nucleus-mcp) 🐍 🏠 - Persistent memory and execution context MCP server for AI IDEs, with local-first project memory and governance tools.
 
 ## Frameworks
 
