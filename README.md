@@ -38,7 +38,6 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 ### 🏗️ Infrastructure as Code
 Tools for managing infrastructure through code, including Terraform, Pulumi, and other IaC platforms.
 
-- [BytesAgain](https://github.com/bytesagain/ai-skills) - Search 60,000+ AI agent skills via MCP SSE or REST API. 7 languages. Free, no auth. `https://bytesagain.com/api/mcp/sse`
 - [dulltz/mcp-server-hcp-terraform](https://github.com/dulltz/mcp-server-hcp-terraform) 🐍 ☁️ - MCP server for working with HashiCorp Cloud Platform (HCP) Terraform, enabling AI assistants to interact with Terraform Cloud resources.
 - [guilhermeyoshida/mcp-terraform-assistant](https://github.com/guilhermeyoshida/mcp-terraform-assistant) 🐍 🏠 - An MCP server for managing infrastructure as code using Terraform.
 - [jashkahar/Terraform-MCP-Server](https://github.com/jashkahar/Terraform-MCP-Server) 🐍 ☁️ - This project provides an MCP server that exposes Terraform infrastructure-as-code operations through natural language.
@@ -252,6 +251,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [pumanitro/global-chat](https://github.com/pumanitro/global-chat) 📇 ☁️ - Cross-protocol AI agent discovery MCP server. Searchable directory of 18K+ MCP servers across 6+ registries (mcp.so, Glama, Smithery, PulseMCP), with agents.txt validation and protocol-agnostic agent search.
 - [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp) 📇 ☁️ - Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. No auth required.
 - [supertrained/rhumb](https://github.com/supertrained/rhumb) 📇 ☁️ 🏠 - API discovery and scoring for AI agents, with service scoring and governed capability routing for external APIs.
+- [BytesAgain](https://github.com/bytesagain/ai-skills) - Searchable AI-agent skill catalog exposed through MCP SSE and REST APIs.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
