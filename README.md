@@ -251,6 +251,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [pumanitro/global-chat](https://github.com/pumanitro/global-chat) 📇 ☁️ - Cross-protocol AI agent discovery MCP server. Searchable directory of 18K+ MCP servers across 6+ registries (mcp.so, Glama, Smithery, PulseMCP), with agents.txt validation and protocol-agnostic agent search.
 - [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp) 📇 ☁️ - Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. No auth required.
 - [supertrained/rhumb](https://github.com/supertrained/rhumb) 📇 ☁️ 🏠 - API discovery and scoring for AI agents, with service scoring and governed capability routing for external APIs.
+- [BytesAgain](https://github.com/bytesagain/ai-skills) - Searchable AI-agent skill catalog exposed through MCP SSE and REST APIs.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
