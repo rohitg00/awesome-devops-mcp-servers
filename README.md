@@ -162,6 +162,7 @@ Tools for automating the integration of code changes and running tests.
 
 - [Tiberriver256/mcp-server-github-actions](https://github.com/Tiberriver256/mcp-server-github-actions) 📇 ☁️ - MCP server for interacting with GitHub Actions workflows, enabling AI assistants to manage CI/CD pipelines.
 - [lobehub/mcp-hello-world](https://github.com/lobehub/mcp-hello-world) 📇 ☁️ - A simple Hello World MCP server for CI/CD test.
+- [ratamaha-git/n8n-mcp](https://github.com/ratamaha-git/n8n-mcp) 📇 🏠 - MCP server for authoring n8n workflows: scaffolds custom node TypeScript skeletons, generates valid workflow JSON from natural-language descriptions, and lints workflows for deprecated node types, missing `typeVersion`, and broken connections. Ships with a Claude Code skill.
 
 ### 📱 Mobile CI/CD
 Tools specifically designed for mobile application CI/CD pipelines.
