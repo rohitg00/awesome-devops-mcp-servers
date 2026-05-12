@@ -336,9 +336,9 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [dakera-ai/dakera-mcp](https://github.com/dakera-ai/dakera-mcp) 🦀 🏠 🍎 🪟 🐧 - Self-hosted MCP-native agent memory server. 83 tools for persistent, decay-weighted episodic memory across sessions. RocksDB + HNSW, 87.8% LoCoMo benchmark. Docker Compose deployment, multi-SDK support.
 - [mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer) 📇 🏠 - MCP server to organize Claude Code configurations — scan, move, delete memories, skills, MCP servers, and hooks across project and user scopes.
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
-- [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) 🐍 🏠 ☁️ - Persistent memory for AI agents with 107 tools: remember, recall, rollback, audit, knowledge graph, governed actions, eval, cortex, and Runtime v2 agent orchestration. Local SQLite (zero-config) or Novyx Cloud. Install via `uvx novyx-mcp`.
 - [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 🏠 ☁️ - Long-term memory for AI agents with semantic search, auto-capture, and framework integrations.
+- [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) 🐍 🏠 ☁️ - Persistent memory and governance for AI agents with local core memory and optional cloud-backed policy, approval, and audit workflows.
 
 ## Frameworks
 
