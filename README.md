@@ -346,6 +346,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 🏠 ☁️ - Long-term memory for AI agents with semantic search, auto-capture, and framework integrations.
 - [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) 🐍 🏠 ☁️ - Persistent memory and governance for AI agents with local core memory and optional cloud-backed policy, approval, and audit workflows.
 - [eidetic-works/nucleus-mcp](https://github.com/eidetic-works/nucleus-mcp) 🐍 🏠 - Persistent memory and execution context MCP server for AI IDEs, with local-first project memory and governance tools.
+- [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory) 🐍 📇 🏠 - Local-first persistent agent memory with hybrid retrieval across semantic, lexical, temporal, and graph signals.
 
 ## Frameworks
 
