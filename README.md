@@ -255,6 +255,8 @@ Servers for accessing many apps and tools through a single MCP server.
 - [uAI-solana/useful-ai-mcp](https://github.com/uAI-solana/useful-ai-mcp) 📇 ☁️ - Fully dynamic MCP server exposing 200+ shared utility tools for AI agents. Tool list updates automatically based on real usage data. No auth required.
 - [supertrained/rhumb](https://github.com/supertrained/rhumb) 📇 ☁️ 🏠 - API discovery and scoring for AI agents, with service scoring and governed capability routing for external APIs.
 - [BytesAgain](https://github.com/bytesagain/ai-skills) - Searchable AI-agent skill catalog exposed through MCP SSE and REST APIs.
+- [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) - Unified MCP server exposing developer utilities such as QR generation, IP geolocation, AI cost helpers, LLM routing, and privacy tooling.
+- [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) - Korea-focused MCP utilities for privacy compliance, KRW/BOK rates, business registration lookup, geocoding, and NLP.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
@@ -284,8 +286,6 @@ Web content access and automation capabilities. Enables searching, scraping, and
 Tools for analyzing and managing project dependencies across build systems.
 
 - [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) ☕ ☁️ 🏠 🍎 🪟 🐧 - Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Provides version lookups, dependency health checks, age analysis, release patterns, and upgrade guidance with Context7 integration.
-- [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
-- [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) — Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`
 - [lunacompsia-oss/mcp-server-changelog](https://github.com/lunacompsia-oss/mcp-server-changelog) 📇 ☁️ 🏠 🍎 🪟 🐧 - Fetch and parse changelogs, release notes, and breaking changes from npm, PyPI, crates.io, and GitHub repositories.
 - [lunacompsia-oss/mcp-server-deps](https://github.com/lunacompsia-oss/mcp-server-deps) 📇 ☁️ 🏠 🍎 🪟 🐧 - Analyze dependency trees, check for vulnerabilities via OSV.dev, and audit outdated packages across npm, PyPI, and crates.io.
 - [lunacompsia-oss/mcp-server-license](https://github.com/lunacompsia-oss/mcp-server-license) 📇 ☁️ 🏠 🍎 🪟 🐧 - Check license types, SPDX compliance, compatibility matrices, and risk classification for open-source dependencies.
