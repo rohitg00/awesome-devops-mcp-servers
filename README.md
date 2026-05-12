@@ -164,6 +164,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [aak204/MCP-Trust-Kit](https://github.com/aak204/MCP-Trust-Kit) 🐍 🏠 - Deterministic CI scanner and surface-risk scoring for MCP servers.
 - [artvepa80/Agents-Hefesto](https://github.com/artvepa80/Agents-Hefesto) 🐍 ☁️ 🏠 - Code quality and security review MCP server for AI-generated code, including semantic drift, complexity, and vulnerability analysis.
 - [arcjet/mcp](https://docs.arcjet.com/mcp-server) ☁️ - Runtime security platform for AI applications, including budget enforcement, prompt-injection protection, bot detection, and PII controls.
+- [sidclawhq/platform](https://github.com/sidclawhq/platform) 📇 🏠 - Governance proxy for MCP servers with identity, policy evaluation, human approval, and traceability for agent actions.
 
 ## CI/CD & DevOps Pipelines
 
