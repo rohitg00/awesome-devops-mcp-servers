@@ -117,10 +117,6 @@ Run commands, capture output and otherwise interact with shells and command line
 - [YawLabs/tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) 📇 ☁️ — Manage Tailscale tailnets with 52 tools for devices, ACL policies, DNS, auth keys, users, webhooks, and audit logs.
 - [nylas/cli](https://github.com/nylas/cli) 🏎️ ☁️ 🍎 🪟 🐧 - Email, calendar, contacts, webhook, timezone, and OTP command-line tool with built-in MCP server support.
 
-### 🌐 CMS & Web Platforms
-
-- [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp) [![mvtandas/wp-cli-mcp MCP server](https://glama.ai/mcp/servers/mvtandas/wp-cli-mcp/badges/score.svg)](https://glama.ai/mcp/servers/mvtandas/wp-cli-mcp) 📇 🏠 - Full WordPress management via WP-CLI with 57+ tools. Themes (install/edit files), plugins, posts, WooCommerce (products/orders/coupons), menus, users, database, scaffolding, maintenance mode, and PHP eval. Works locally or over SSH.
-
 ### 🔄 Version Control
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
@@ -346,6 +342,9 @@ Tools for managing projects, issues, and workflows.
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
 - [Pangu-Immortal/qflow](https://github.com/Pangu-Immortal/qflow) 🐍 🏠 - AI project-management MCP server for task tracking, spec-driven development, multi-agent collaboration, quality gates, and workflow automation.
+### 🌐 CMS & Web Platforms
+Tools for managing web publishing platforms and CMS-backed services.
+- [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp) 📇 🏠 - WordPress management MCP server built on WP-CLI for themes, plugins, posts, menus, users, database operations, and scaffolding.
 
 ## AI Agent Infrastructure
 
