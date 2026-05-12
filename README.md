@@ -160,6 +160,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [Sentinel-Gate/Sentinelgate](https://github.com/Sentinel-Gate/Sentinelgate) 🏎️ 🏠 🍎 🪟 🐧 - Open-source MCP proxy for AI agent access control. Intercepts every tool call with CEL policies, RBAC, full audit trail, content scanning, and Admin UI. Single binary, zero dependencies.
 - [prompt-security/clawsec](https://github.com/prompt-security/clawsec) 🐍 ☁️ - Security audit platform for AI agent skills and MCP servers. Five-tier detection pipeline (core rules, dynamic rules, LLM analysis, Firecracker sandbox, LLM review), continuous rule evolution, and automated vulnerability reports.
 - [JoeyBrar/agentseal-mcp](https://github.com/JoeyBrar/agentseal-mcp) 📇 🏠 - Action logs for AI agents. Records every action in a SHA-256 hash chain, for verifiable audit trails. Install via `npx agentseal-mcp`.
+- [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server) ☕ 🏠 🍎 🪟 🐧 - Security scanning MCP server for websites, GitHub repositories, and MCP/OpenClaw skills from AI assistants.
 
 ## CI/CD & DevOps Pipelines
 
