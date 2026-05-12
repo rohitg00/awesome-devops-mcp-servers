@@ -162,6 +162,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [Sentinel-Gate/Sentinelgate](https://github.com/Sentinel-Gate/Sentinelgate) 🏎️ 🏠 🍎 🪟 🐧 - Open-source MCP proxy for AI agent access control. Intercepts every tool call with CEL policies, RBAC, full audit trail, content scanning, and Admin UI. Single binary, zero dependencies.
 - [prompt-security/clawsec](https://github.com/prompt-security/clawsec) 🐍 ☁️ - Security audit platform for AI agent skills and MCP servers. Five-tier detection pipeline (core rules, dynamic rules, LLM analysis, Firecracker sandbox, LLM review), continuous rule evolution, and automated vulnerability reports.
 - [JoeyBrar/agentseal-mcp](https://github.com/JoeyBrar/agentseal-mcp) 📇 🏠 - Action logs for AI agents. Records every action in a SHA-256 hash chain, for verifiable audit trails. Install via `npx agentseal-mcp`.
+- [brainAI-bot/agentfolio-mcp-server](https://github.com/brainAI-bot/agentfolio-mcp-server) 📇 🏠 - Agent identity and trust-verification MCP server for AI-agent discovery and DevOps workflow governance.
 - [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server) ☕ 🏠 🍎 🪟 🐧 - Security scanning MCP server for websites, GitHub repositories, and MCP/OpenClaw skills from AI assistants.
 - [aak204/MCP-Trust-Kit](https://github.com/aak204/MCP-Trust-Kit) 🐍 🏠 - Deterministic CI scanner and surface-risk scoring for MCP servers.
 - [artvepa80/Agents-Hefesto](https://github.com/artvepa80/Agents-Hefesto) 🐍 ☁️ 🏠 - Code quality and security review MCP server for AI-generated code, including semantic drift, complexity, and vulnerability analysis.
@@ -229,6 +230,7 @@ Full coding agents that enable LLMs to read, edit, and execute code and solve ge
 - [scrapeless/mcp-server-scrapeless](https://github.com/scrapeless-ai/scrapeless-mcp-server) 📇☁️🍎🪟🐧 - Seamlessly integrate real-time Google SERP(Google Search, Google Flight, Google Map, Google Jobs....) results into your LLM applications using the Scrapeless MCP server.
 - [blackwell-systems/agent-lsp](https://github.com/blackwell-systems/agent-lsp) 🏎️ 🏠 🍎 🪟 🐧 - MCP server providing language server intelligence for code analysis, navigation, and refactoring across 30 languages. Includes speculative execution (simulate edits before applying), blast-radius analysis, and three-layer verification. 56 tools, single Go binary.
 - [cafeTechne/antigravity-link-extension](https://github.com/cafeTechne/antigravity-link-extension) 📇 🏠 🍎 🪟 🐧 - Mobile companion and MCP/OpenAPI bridge for Google's Antigravity IDE, enabling remote session viewing and control.
+- [williamzujkowski/nexus-agents](https://github.com/williamzujkowski/nexus-agents) 🐍 🏠 - Multi-CLI AI coding-agent orchestration with consensus review, governance rules, telemetry, and development-pipeline workflows.
 - [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein) 🐍 🏠 - Multi-agent CLI coding orchestrator with worktree isolation, model routing, quality gates, and audit logging.
 
 ### 🔗 Aggregators
@@ -279,6 +281,8 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility snapshots
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/server-puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
+- [kc23go/anybrowse](https://github.com/kc23go/anybrowse) 📇 ☁️ - Web scraping MCP server for AI agents using managed Chrome, with npm package and hosted service options.
+- [plasmate-labs/plasmate-mcp](https://github.com/plasmate-labs/plasmate-mcp) 📇 ☁️ - MCP server for Plasmate web-content capture and processing workflows in AI coding assistants.
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation for AI agents on macOS, including navigation, interaction, screenshots, network inspection, and accessibility snapshots.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) 📇 🏠 - Plugin-based MCP server for giving AI agents structured access to web applications through the user's browser session.
 
@@ -328,6 +332,8 @@ Tools for monitoring application performance and infrastructure health.
 - [unitedideas/resolve-mcp](https://github.com/unitedideas/resolve-mcp) 🐍 ☁️ - Structured error recovery for AI agents. Returns resolution playbooks with backoff schedules, retry strategies, and recovery steps for 20+ services (OpenAI, Anthropic, Stripe, AWS, Postgres, Redis, Twilio, etc.). Complements monitoring tools by telling agents how to recover from errors, not just detect them.
 - [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) 📇 ☁️ - Uptime monitoring MCP server. 10 tools for listing/creating/pausing monitors and acknowledging incidents. Remote Streamable-HTTP at `api.uptrack.app/mcp` (OAuth 2.0) or stdio via `npx @uptrack-app/mcp`.
 - [nicofains1/agentwatch](https://github.com/nicofains1/agentwatch) 📇 🏠 - Multi-agent observability for cascade failure detection, fleet-wide heartbeat monitoring, and forensic replay. Works as an npm library or MCP server.
+- [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics) 📇 ☁️ - Website and server diagnostics MCP server for DNS, SSL, HTTP headers, security audits, WHOIS, and tech-stack detection.
+- [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp) 🐍 ☁️ - URL audit MCP server for SEO, performance, accessibility, and security checks.
 - [Voidly](https://github.com/voidly-ai/mcp-server) 📇 ☁️ - MCP server for global network and censorship intelligence, useful for service-accessibility monitoring and blocking diagnostics.
 
 ## Project & Service Management
