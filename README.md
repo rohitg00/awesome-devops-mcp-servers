@@ -257,6 +257,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [BytesAgain](https://github.com/bytesagain/ai-skills) - Searchable AI-agent skill catalog exposed through MCP SSE and REST APIs.
 - [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) - Unified MCP server exposing developer utilities such as QR generation, IP geolocation, AI cost helpers, LLM routing, and privacy tooling.
 - [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) - Korea-focused MCP utilities for privacy compliance, KRW/BOK rates, business registration lookup, geocoding, and NLP.
+- [unitedideas/nothumansearch](https://github.com/unitedideas/nothumansearch) 🏎️ ☁️ - MCP server for discovering agent-first tools and checking agentic readiness signals across indexed sites.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
@@ -345,18 +346,6 @@ Tools for managing projects, issues, and workflows.
 ### 🌐 CMS & Web Platforms
 Tools for managing web publishing platforms and CMS-backed services.
 - [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp) 📇 🏠 - WordPress management MCP server built on WP-CLI for themes, plugins, posts, menus, users, database operations, and scaffolding.
-
-## Search & Discovery
-
-### 🔍 Tool & Service Discovery
-MCP servers for discovering tools, APIs, and services for AI agents.
-
-- [unitedideas/nothumansearch](https://github.com/unitedideas/nothumansearch) 🏎️ ☁️ - MCP server for discovering agent-first tools. Indexes 1,400+ sites with agentic readiness scores. Tools: search_agents, get_site_details, verify_mcp.
-
-### 💼 Job & Career Search
-MCP servers for searching job listings and career opportunities.
-
-- [unitedideas/aidevboard-mcp](https://github.com/unitedideas/aidevboard-mcp) 📇 ☁️ - MCP server for AI/ML job search across 5,000+ curated roles. Tools: search_jobs, get_job, list_companies, match_jobs.
 
 ## AI Agent Infrastructure
 
