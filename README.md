@@ -338,6 +338,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [omega-memory/omega-memory](https://github.com/omega-memory/omega-memory) 🐍 🏠 - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark.
 - [SKULLFIRE07/cortex-memory](https://github.com/SKULLFIRE07/cortex-memory) 📇 🏠 - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context across sessions. VSCode extension + CLI + MCP server. MIT licensed.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) 🐍 🏠 ☁️ - Long-term memory for AI agents with semantic search, auto-capture, and framework integrations.
+- [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) 🐍 🏠 ☁️ - Persistent memory and governance for AI agents with local core memory and optional cloud-backed policy, approval, and audit workflows.
 
 ## Frameworks
 
