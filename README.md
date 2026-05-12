@@ -108,6 +108,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Run any command with `run_command` and `run_script` tools.
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - Safe Python interpreter based on HF Smolagents `LocalPythonExecutor`
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - Command line interface with secure execution and customizable security policies
+- [muchiny/mcp-ssh-bridge](https://github.com/muchiny/mcp-ssh-bridge) 🦀 🏠 ☁️ 🐧 🪟 - Secure SSH bridge for AI-powered remote server management. 338 tools across 74 groups for Linux, Windows, Docker, Kubernetes, and more. 13 protocol adapters (SSH, WinRM, Telnet, K8s Exec, AWS SSM, Azure, GCP), server-side output filtering, and 6,300+ tests.
 - [claw-army/claude-node](https://github.com/claw-army/claude-node) 🐍 - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - [OthmaneBlial/term_mcp_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) 🐍 🏠 - A DeepSeek MCP-like Server for Terminal
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
