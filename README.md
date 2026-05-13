@@ -207,6 +207,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment.
 ### 🧪 Testing & Chaos Engineering
 Tools for testing, fault injection, and resilience validation.
 
+- [Certvo](https://certvo.com/docs/mcp) ☁️ 📇 - Accessibility testing MCP server: WCAG 2.1 A/AA/AAA scanning via Playwright + axe-core, AI-generated code fixes, alt text, and VPAT 2.4 reports. Free tier. `claude mcp add --transport http certvo https://certvo.com/api/mcp/`
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 - [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) 📇 ☁️ - AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
