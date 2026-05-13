@@ -387,3 +387,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Testing & Chaos Engineering
+- [Certvo](https://certvo.com/docs/mcp) ☁️ 📇 - Accessibility testing MCP server: WCAG 2.1 A/AA/AAA scanning via Playwright + axe-core, AI-generated code fixes, alt text, and VPAT 2.4 reports. Free tier. `claude mcp add --transport http certvo https://certvo.com/api/mcp/`
+
