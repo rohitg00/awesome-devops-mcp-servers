@@ -33,6 +33,8 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 
 ## Server Implementations
 
+- **[MEOK Governance Suite](https://github.com/CSOAI-ORG)** - 38 AI compliance MCPs covering EU AI Act, DORA, NIS2, CRA, MDR, FDA SaMD, MiCA, AML, Basel III, MiFID II, COPPA/FERPA, watermarking + C2PA, AI-BOM, bias detection, prompt-injection firewall, CISA KEV, MITRE ATT&CK/ATLAS, SLSA, Sigstore. HMAC-signed attestations. `npx meok-setup --pack governance`.
+
 ## Cloud Infrastructure
 
 ### 🏗️ Infrastructure as Code
