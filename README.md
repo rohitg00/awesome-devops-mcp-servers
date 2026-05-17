@@ -46,6 +46,8 @@ Tools for managing infrastructure through code, including Terraform, Pulumi, and
 - [severity1/terraform-cloud-mcp](https://github.com/severity1/terraform-cloud-mcp) 🐍 ☁️ - A Model Context Protocol server that integrates AI assistants with the Terraform Cloud API, allowing you to manage your infrastructure.
 - [thrash888/terraform-mcp-server](https://github.com/thrash888/terraform-mcp-server) 📇 ☁️ - Terraform Registry MCP Server for interacting with Terraform registries.
 - [westonplatter/mcp-terraform-python](https://github.com/westonplatter/mcp-terraform-python) 🐍 🏠 - MCP server to run terraform operations locally.
+- [Coding-Dev-Tools/deploydiff](https://github.com/Coding-Dev-Tools/deploydiff) 🐍 🏠 - Preview infrastructure changes with human-readable diffs, cost impact estimation, and rollback commands before deploy. Supports Terraform, CloudFormation, and Pulumi.
+- [Coding-Dev-Tools/configdrift](https://github.com/Coding-Dev-Tools/configdrift) 🐍 🏠 - Detect configuration drift across environments (dev/staging/prod) before it causes incidents. Supports YAML, JSON, TOML, .env and runs in CI.
 - [stakpak/mcp](https://github.com/stakpak/mcp) 🦀 - MCP Server for interacting, editing and generating code for Terraform, Kubernetes, GithubActions and Dockerfile.
 
 ### 🐳 Container Orchestration
@@ -110,6 +112,7 @@ Run commands, capture output and otherwise interact with shells and command line
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - Safe Python interpreter based on HF Smolagents `LocalPythonExecutor`
 - [MladenSU/cli-mcp-server](https://github.com/MladenSU/cli-mcp-server) 🐍 🏠 - Command line interface with secure execution and customizable security policies
 - [muchiny/mcp-ssh-bridge](https://github.com/muchiny/mcp-ssh-bridge) 🦀 🏠 ☁️ 🐧 🪟 - Secure SSH bridge for AI-powered remote server management. 338 tools across 74 groups for Linux, Windows, Docker, Kubernetes, and more. 13 protocol adapters (SSH, WinRM, Telnet, K8s Exec, AWS SSM, Azure, GCP), server-side output filtering, and 6,300+ tests.
+- [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) 🐍 🏠 - Auto-wrap any Python Click/typer CLI as an MCP server with zero code changes. Turn existing CLI tools into AI-accessible MCP servers instantly.
 - [claw-army/claude-node](https://github.com/claw-army/claude-node) 🐍 - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - [OthmaneBlial/term_mcp_deepseek](https://github.com/OthmaneBlial/term_mcp_deepseek) 🐍 🏠 - A DeepSeek MCP-like Server for Terminal
 - [tumf/mcp-shell-server](https://github.com/tumf/mcp-shell-server) - A secure shell command execution server implementing the Model Context Protocol (MCP)
