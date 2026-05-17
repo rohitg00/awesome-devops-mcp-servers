@@ -105,6 +105,7 @@ Interact with databases, execute queries, inspect schemas, and manage data.
 ### 🖥️ Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
+- [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) 🐍 🏠 ☁️ 🍎 🪟 🐧 - Converts any Python Click or Typer CLI into an MCP server automatically — zero-code transformation. Supports FastMCP, stdio, and SSE transport with automatic tool discovery.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - A Model Context Protocol server that provides access to iTerm. You can run commands and ask questions about what you see in the iTerm terminal.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Run any command with `run_command` and `run_script` tools.
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - Safe Python interpreter based on HF Smolagents `LocalPythonExecutor`
