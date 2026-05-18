@@ -105,6 +105,7 @@ Interact with databases, execute queries, inspect schemas, and manage data.
 ### 🖥️ Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
+- [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) 🐍 🏠 ☁️ 🍎 🪟 🐧 - Converts any Python Click or Typer CLI into an MCP server automatically — zero-code transformation. Supports FastMCP, stdio, and SSE transport with automatic tool discovery.
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) 🖥️ 🛠️ 💬 - A Model Context Protocol server that provides access to iTerm. You can run commands and ask questions about what you see in the iTerm terminal.
 - [g0t4/mcp-server-commands](https://github.com/g0t4/mcp-server-commands) 📇 🏠 - Run any command with `run_command` and `run_script` tools.
 - [maxim-saplin/mcp_safe_local_python_executor](https://github.com/maxim-saplin/mcp_safe_local_python_executor) - Safe Python interpreter based on HF Smolagents `LocalPythonExecutor`
@@ -141,6 +142,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) 📇 🪟 ☁️ - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.
 - [BurtTheCoder/mcp-virustotal](https://github.com/BurtTheCoder/mcp-virustotal) 📇 🪟 ☁️ - MCP server for querying the VirusTotal API. This server provides tools for scanning URLs, analyzing file hashes, and retrieving IP address reports.
 - [bottobot/defense-mcp-server](https://github.com/bottobot/defense-mcp-server) 📇 🏠 🐧 - 31 defensive security tools with 250+ actions for Linux system hardening, compliance auditing, firewall management, vulnerability scanning, and incident response. Dry-run by default.
+- [Coding-Dev-Tools/api-contract-guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian) 🐍 🏠 - MCP server for detecting API contract violations, breaking changes, and schema drift with automated security regression testing. Monitors endpoints and alerts on contract breaches.
 - [cordum-io/cordum](https://github.com/cordum-io/cordum) 🏎️ 🏠 ☁️ - Safety-first agent control plane with pre-dispatch policy evaluation (deny/escalate/allow), output scanning (PII, secrets, injection), job scheduling, and full audit trail. Native MCP server with stdio and HTTP/SSE transport.
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security) 📇 ☁️ - MCP server for querying the ORKL API. This server provides tools for fetching threat reports, analyzing threat actors, and retrieving intelligence sources.
 - [wd041216-bit/ironclaw-agent-guard](https://github.com/wd041216-bit/ironclaw-agent-guard) 📇 🏠 ☁️ - Agent-runtime security guard with stdio and Streamable HTTP MCP servers. Exposes `security_scan` and `redact_text` for risky tool payload review, prompt-injection checks, secret redaction, and JSONL audit logging.
