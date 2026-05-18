@@ -132,6 +132,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [Tiberriver256/mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops) 📇 ☁️ - Azure DevOps integration for repository management, work items, and pipelines.
 - [zach-snell/bbkt](https://github.com/zach-snell/bbkt) 🏎️ ☁️ 🍎 🪟 🐧 - Bitbucket Cloud CLI and MCP server. Manages workspaces, repos, PRs, pipelines, issues, and source code. Token introspection hides tools the API key can't use.
 - [rog0x/mcp-git-tools](https://github.com/rog0x/mcp-git-tools) 📇 🏠 - Git log analysis, blame, diff viewer, branch management, and repository statistics.
+- [crsxmd/rewindex](https://github.com/crsxmd/rewindex) ([rewindex.org](https://rewindex.org)) 🐍 🏠 🍎 🪟 🐧 - Reduces the risk of AI agents breaking your code. Auto-snapshots every file change locally. Rewind sessions, audit code, and inspect diffs from your AI chat or the built-in dashboard. Free, safe, and no coding required.
 
 ### 🔒 Security
 MCP servers for security operations, vulnerability scanning, and threat detection.
