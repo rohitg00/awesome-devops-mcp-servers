@@ -188,6 +188,7 @@ Tools for automating the integration of code changes and running tests.
 Tools specifically designed for mobile application CI/CD pipelines.
 
 - [stefanoamorelli/codemagic-mcp](https://github.com/stefanoamorelli/codemagic-mcp) 🐍 ☁️ - Codemagic CI/CD MCP Server for mobile app CI/CD pipeline management.
+- [PGYER/pgyer-mcp-server](https://github.com/PGYER/pgyer-mcp-server) 🎖️ 📇 ☁️ - Official MCP server for [PGYER (蒲公英)](https://www.pgyer.com), China's leading mobile app beta-distribution platform (since 2014). Upload iOS / Android / HarmonyOS builds (`.ipa` / `.apk` / `.hap`), list apps, fetch install links and QR codes from CI/CD pipelines.
 
 ### 🔄 DevOps Visibility
 Tools for providing visibility across the entire DevOps lifecycle.
