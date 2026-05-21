@@ -335,6 +335,7 @@ Tools for monitoring application performance and infrastructure health.
 - [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics) 📇 ☁️ - Website and server diagnostics MCP server for DNS, SSL, HTTP headers, security audits, WHOIS, and tech-stack detection.
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp) 🐍 ☁️ - URL audit MCP server for SEO, performance, accessibility, and security checks.
 - [Voidly](https://github.com/voidly-ai/mcp-server) 📇 ☁️ - MCP server for global network and censorship intelligence, useful for service-accessibility monitoring and blocking diagnostics.
+- [mttrly-hq/mttrly-mcp](https://github.com/mttrly-hq/mttrly-mcp) ☁️ - AI-powered incident management and server monitoring via MCP. Remote Streamable HTTP + OAuth for server health, diagnostics, playbooks, approvals, and audit history.
 
 ## Project & Service Management
 
