@@ -173,6 +173,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) 🐍 ☁️/🏠 - Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels (Gentle/Balanced/Strict/Paranoid).
 
 ## CI/CD & DevOps Pipelines
 
