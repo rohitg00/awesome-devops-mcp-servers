@@ -370,6 +370,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
+- [bosslesss/inference-labs-mcp](https://github.com/bosslesss/inference-labs-mcp) ?? ?? - MCP server for vendor-neutral LLM routing across OpenAI/Azure, Anthropic, Google, and Bedrock, including auth-free pricing lookup and model recommendation tools.
 
 ## Frameworks
 
