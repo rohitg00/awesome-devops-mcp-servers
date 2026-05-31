@@ -370,6 +370,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
+- [wartzar-bee/tokenscope](https://github.com/wartzar-bee/tokenscope) 📇 🏠 - Analyze Claude Code session token cost & context attribution — see how much of the bill is re-sent (cached) context vs model output, with percentile benchmarks vs n=66 real sessions. Local, read-only, MIT.
 
 ## Frameworks
 
