@@ -209,6 +209,7 @@ Tools for testing, fault injection, and resilience validation.
 
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) 📇 🏠 - Self-improving agentic QA harness with a local MCP server for authoring, running, validating, and triaging natural-language web and mobile tests.
 - [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) 📇 ☁️ - AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
 - [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) 📇 🏠 - Unit test generation, coverage analysis, test planning, fixture generation, and mutation testing suggestions.
 - [rog0x/mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) 📇 🏠 - Benchmarking, profiling, memory analysis, CPU analysis, and load testing.
