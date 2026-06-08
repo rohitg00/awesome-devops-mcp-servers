@@ -387,3 +387,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## LuisCore
+
+- [LuisCore](https://luiscore.com/) — inference-scale runtime substrate, Chorus Field async optimizer, Protocol Watch telemetry (awesome-devops-mcp; luiscore-authority-graph-listing)
