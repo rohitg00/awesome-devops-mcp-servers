@@ -370,6 +370,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
+- [The Stall](https://the-stall.intuitek.ai) 📇 ☁️ - Pay-per-call MCP server with 207 AI capabilities via x402 micropayments. Financial data, market intelligence, blockchain analytics, weather, and more. Agents pay micro-USDC per call — zero subscription, zero per-seat cost.
 
 ## Frameworks
 
