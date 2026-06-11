@@ -195,6 +195,8 @@ Tools for providing visibility across the entire DevOps lifecycle.
 - [SBDI/mcp-devps-hub](https://github.com/SBDI/mcp-devps-hub) 🐍 🏠 - MCP server for end-to-end development visibility (Jira, GitHub, CI/CD, etc.).
 - [Acid-base/FastMCP-Proper](https://github.com/Acid-base/FastMCP-Proper) 🐍 🏠 - Python MCP server with CI/CD tooling and testability built-in.
 - [gofireflyio/firefly-mcp](https://github.com/gofireflyio/firefly-mcp) 🎖️ 📇 ☁️ - Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).
+- [jabbawocky/statuscraft](https://github.com/jabbawocky/statuscraft) 📇 🏠 - Live service status aggregator for 61 major services (AWS, GitHub, Stripe, OpenAI, Vercel, Cloudflare, Datadog, and more). Returns normalized operational/outage/incident status with full incident detail. Zero API key, installs via npx.
+- [jabbawocky/standupcraft](https://github.com/jabbawocky/standupcraft) 📇 🏠 - Reads local git commits and GitHub activity to generate daily standups, weekly client reports, and sprint retros inside Claude Desktop. No API key required for git activity; optional GITHUB_TOKEN for PR/review detail.
 
 ### 👨‍💻 Code Execution
 Code execution servers. Allow LLMs to execute code in a secure environment.
