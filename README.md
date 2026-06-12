@@ -309,6 +309,12 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏎️ ☁️ - The implementation of Model Context Protocol (MCP) server for VictoriaMetrics. This provides access to your VictoriaMetrics instance and seamless integration with VictoriaMetrics APIs and documentation.
 - [Middleware MCP Server](https://github.com/middleware-labs/mcp-middleware) - MCP server for interacting with Middleware observability data, enabling AI assistants to query logs, metrics, traces, and infrastructure telemetry through standardized interfaces.
 
+### 🌐 Domain & SSL Monitoring
+Tools for monitoring domain registration, SSL certificates, and DNS health.
+
+- [iPythoning/domain-monitor-mcp-server](https://github.com/iPythoning/domain-monitor-mcp-server) 📇 🏠 - MCP server for domain WHOIS and SSL certificate monitoring via RDAP and crt.sh. Single and batch domain checks with severity classification. Zero API keys.
+- [firesh/sslmon-mcp](https://github.com/firesh/sslmon-mcp) - Domain/HTTPS/SSL domain registration information and SSL certificate monitoring.
+
 ### 📱 Social Media Monitoring
 Tools for monitoring social media platforms and extracting data.
 
