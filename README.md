@@ -335,6 +335,7 @@ Tools for monitoring application performance and infrastructure health.
 - [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics) 📇 ☁️ - Website and server diagnostics MCP server for DNS, SSL, HTTP headers, security audits, WHOIS, and tech-stack detection.
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp) 🐍 ☁️ - URL audit MCP server for SEO, performance, accessibility, and security checks.
 - [Voidly](https://github.com/voidly-ai/mcp-server) 📇 ☁️ - MCP server for global network and censorship intelligence, useful for service-accessibility monitoring and blocking diagnostics.
+- [Prismix](https://prismix.dev/mcp-server) 📇 ☁️ - Real-time status monitoring of 75+ AI services (OpenAI, Anthropic, Cursor, Groq, DeepSeek, Google Gemini, Perplexity, Mistral, and more) via Streamable HTTP MCP server. Ask Claude "Is OpenAI down?" and get live answers from the free endpoint at prismix.dev/api/v1/mcp.
 
 ## Project & Service Management
 
