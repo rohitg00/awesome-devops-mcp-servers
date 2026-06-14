@@ -101,6 +101,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 Interact with databases, execute queries, inspect schemas, and manage data.
 
 - [haymon-ai/database](https://github.com/haymon-ai/database) 🦀 🏠 - Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite with zero runtime dependencies.
+- [LVTD-LLC/pgsandbox-mcp](https://github.com/LVTD-LLC/pgsandbox-mcp) 📇 🏠 - Local-first MCP server for disposable PostgreSQL sandboxes with scoped roles, TTL cleanup, schema inspection, and bounded SQL tools for migration testing and database bug reproduction.
 
 ### 🖥️ Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
