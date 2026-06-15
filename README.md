@@ -125,6 +125,7 @@ Interact with Git repositories and version control platforms. Enables repository
 - [ddukbg/github-enterprise-mcp](https://github.com/ddukbg/github-enterprise-mcp) 📇 ☁️ 🏠 - MCP server for GitHub Enterprise API integration
 - [gitea/gitea-mcp](https://gitea.com/gitea/gitea-mcp) 🎖️ 🏎️ ☁️ 🏠 🍎 🪟 🐧 - Interactive with Gitea instances with MCP.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) 📇 ☁️ - Official GitHub server for integration with repository management, PRs, issues, and more.
+- [go165/bounty-radar](https://github.com/go165/bounty-radar) 📇 🏠 - Static GitHub bounty radar for finding paid issues and bounty signals across GitHub repositories, including USDC, Base, x402, and payout-address clues.
 - [kopfrechner/gitlab-mr-mcp](https://github.com/kopfrechner/gitlab-mr-mcp) 📇 ☁️ - Interact seamlessly with issues and merge requests of your GitLab projects.
 - [modelcontextprotocol/server-git](https://github.com/modelcontextprotocol/servers/tree/main/server-git) 🐍 🏠 - Direct Git repository operations including reading, searching, and analyzing local repositories
 - [modelcontextprotocol/server-gitlab](https://github.com/modelcontextprotocol/servers/tree/main/server-gitlab) 📇 ☁️ 🏠 - GitLab platform integration for project management and CI/CD operations
