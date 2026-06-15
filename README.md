@@ -313,6 +313,7 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 Tools for monitoring social media platforms and extracting data.
 
 - [Xquik](https://xquik.com) 📇 ☁️ - X/Twitter account monitoring and data extraction — MCP server, REST API, HMAC webhooks, 40+ extraction tools.
+- [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) 📇 ☁️ - News and market monitoring with multi-dimensional media bias scoring, ticker data, and options pricing. Remote MCP at `heliumtrades.com/mcp` plus REST endpoints — setup for both is on the [docs page](https://heliumtrades.com/mcp-page/). [Demo](https://connerlambden.github.io/helium-news-explorer/).
 
 ### 🔔 Alerting & Notification
 Tools for managing alerts and notifications in monitoring systems.
