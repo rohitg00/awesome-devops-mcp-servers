@@ -312,7 +312,7 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 ### 📱 Social Media Monitoring
 Tools for monitoring social media platforms and extracting data.
 
-- [Xquik](https://xquik.com) 📇 ☁️ - X/Twitter account monitoring and data extraction — MCP server, REST API, HMAC webhooks, 40+ extraction tools.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) 📇 ☁️ - X/Twitter account monitoring and data extraction with 100+ REST endpoints, 23 extraction types, HMAC webhooks, and MCP support.
 
 ### 🔔 Alerting & Notification
 Tools for managing alerts and notifications in monitoring systems.
