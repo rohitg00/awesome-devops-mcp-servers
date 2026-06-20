@@ -370,6 +370,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
+- [Necmttn/ax](https://github.com/Necmttn/ax) 📇 🏠 - Local telemetry graph for AI coding agents with MCP queries for session, tool, skill, and cost analytics.
 
 ## Frameworks
 
