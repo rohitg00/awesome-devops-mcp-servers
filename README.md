@@ -308,6 +308,7 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - A Model Context Protocol server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏎️ ☁️ - The implementation of Model Context Protocol (MCP) server for VictoriaMetrics. This provides access to your VictoriaMetrics instance and seamless integration with VictoriaMetrics APIs and documentation.
 - [Middleware MCP Server](https://github.com/middleware-labs/mcp-middleware) - MCP server for interacting with Middleware observability data, enabling AI assistants to query logs, metrics, traces, and infrastructure telemetry through standardized interfaces.
+- [uptimemonitoring/examples](https://github.com/uptimemonitoring/examples) ☁️ - Agent-native uptime monitoring via a remote MCP (streamable-HTTP, OAuth 2.1 / API key, no install): create, inspect, and assert monitor health, list incidents, and manage HTTP/keyword/port monitors. Free 50-monitor tier.
 
 ### 📱 Social Media Monitoring
 Tools for monitoring social media platforms and extracting data.
