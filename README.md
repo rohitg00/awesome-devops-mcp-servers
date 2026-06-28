@@ -333,6 +333,7 @@ Tools for monitoring application performance and infrastructure health.
 - [Uptrack-App/uptrack-mcp](https://github.com/Uptrack-App/uptrack-mcp) 📇 ☁️ - Uptime monitoring MCP server. 10 tools for listing/creating/pausing monitors and acknowledging incidents. Remote Streamable-HTTP at `api.uptrack.app/mcp` (OAuth 2.0) or stdio via `npx @uptrack-app/mcp`.
 - [nicofains1/agentwatch](https://github.com/nicofains1/agentwatch) 📇 🏠 - Multi-agent observability for cascade failure detection, fleet-wide heartbeat monitoring, and forensic replay. Works as an npm library or MCP server.
 - [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics) 📇 ☁️ - Website and server diagnostics MCP server for DNS, SSL, HTTP headers, security audits, WHOIS, and tech-stack detection.
+- [DomScan](https://domscan.net) ☁️ - Domain intelligence MCP server for DNS, WHOIS/RDAP, SSL, subdomain discovery, valuation, availability and brand protection.
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp) 🐍 ☁️ - URL audit MCP server for SEO, performance, accessibility, and security checks.
 - [Voidly](https://github.com/voidly-ai/mcp-server) 📇 ☁️ - MCP server for global network and censorship intelligence, useful for service-accessibility monitoring and blocking diagnostics.
 
