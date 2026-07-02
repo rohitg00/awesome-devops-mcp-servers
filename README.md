@@ -11,6 +11,7 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 - [awesome](https://github.com/sindresorhus/awesome#readme) - Awesome lists about all kinds of interesting topics.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/) - A comprehensive list of all MCP servers.
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) - A list of MCP clients.
+- [Skill Hub](https://skill.442595.xyz/) - AI Agent Skills Navigator with 5,000+ skills across 22 categories. Search and discover agent skills, MCP tools, system prompts, and more for Claude, Codex, Hermes, and other AI coding agents. [GitHub](https://github.com/rdone4425/skill)
 
 ## Legend
 
