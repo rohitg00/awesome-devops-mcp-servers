@@ -9,6 +9,7 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 ## Related Resources
 
 - [awesome](https://github.com/sindresorhus/awesome#readme) - Awesome lists about all kinds of interesting topics.
+- [context-kit](https://github.com/JDDavenport/context-kit) - MCP resource server exposing Personal Context Artifacts (PCA files: wiki, mental-models, voice, protocols) to Claude Desktop and any MCP client. Zero dependencies (stdlib only), one-command install.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/) - A comprehensive list of all MCP servers.
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) - A list of MCP clients.
 
