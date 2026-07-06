@@ -213,6 +213,7 @@ Tools for testing, fault injection, and resilience validation.
 - [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) 📇 🏠 - Unit test generation, coverage analysis, test planning, fixture generation, and mutation testing suggestions.
 - [rog0x/mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) 📇 🏠 - Benchmarking, profiling, memory analysis, CPU analysis, and load testing.
 - [rog0x/mcp-log-tools](https://github.com/rog0x/mcp-log-tools) 📇 🏠 - Log parsing, pattern detection, error extraction, log statistics, and anomaly detection.
+- [aleksUIX/rtblint](https://github.com/aleksUIX/rtblint) 🦀 🏠 - MCP server that validates OpenRTB bid requests against the IAB Tech Lab spec (2.0 through 3.0), flagging malformed JSON, missing fields, and type mismatches. Ad-tech spec compliance rather than core DevOps, useful for CI pipelines that need to validate bid-request fixtures.
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
