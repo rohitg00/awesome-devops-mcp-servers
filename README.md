@@ -213,6 +213,7 @@ Tools for testing, fault injection, and resilience validation.
 - [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) 📇 🏠 - Unit test generation, coverage analysis, test planning, fixture generation, and mutation testing suggestions.
 - [rog0x/mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) 📇 🏠 - Benchmarking, profiling, memory analysis, CPU analysis, and load testing.
 - [rog0x/mcp-log-tools](https://github.com/rog0x/mcp-log-tools) 📇 🏠 - Log parsing, pattern detection, error extraction, log statistics, and anomaly detection.
+- [snayyar00/webability-mcp](https://github.com/snayyar00/webability-mcp) 📇 ☁️ 🏠 - Accessibility QA gate for CI/CD: scans any URL/HTML for WCAG 2.2 AA / ADA / Section 508 / EAA / AODA issues with 3 engines, proposes framework-aware fixes, verifies them, and produces auditor-ready reports. Install: `npx -y -p @webability/mcp webability-mcp`; hosted HTTP at `https://mcp.webability.io/mcp`.
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
