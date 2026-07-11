@@ -67,6 +67,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [kocierik/mcp-nomad](https://github.com/kocierik/mcp-nomad) 🏎️ ☁️/🏠 - MCP Server for nomad management, and analyze your cluster, application health, logs and ACL.
 - [aadarshjain/kubectl-mcp-server](https://github.com/aadarshjain/kubectl-mcp-server) 🐍 🏠 - A STDIO based MCP server for Kubernetes that interacts seamlessly with your local clusters (~/.kube/config) using `kubectl` CLI commands. Uses read-only operations by default to prevent accidental modifications/deletion of K8s resources.
 - [rog0x/mcp-docker-tools](https://github.com/rog0x/mcp-docker-tools) 📇 🏠 - Container management, image analysis, Dockerfile generation, compose validation, and resource monitoring.
+- [solomon2773/nora](https://github.com/solomon2773/nora/tree/master/mcp-server) 🎖️ 📇 ☁️/🏠 - Official MCP server for deploying, monitoring, and operating OpenClaw and Hermes AI agents on Docker or Kubernetes through the Nora control plane.
 
 ### ☁️ Cloud Providers
 
