@@ -166,6 +166,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [shadoprizm/cyberlens-mcp-server](https://github.com/shadoprizm/cyberlens-mcp-server) ☕ 🏠 🍎 🪟 🐧 - Security scanning MCP server for websites, GitHub repositories, and MCP/OpenClaw skills from AI assistants.
 - [aak204/MCP-Trust-Kit](https://github.com/aak204/MCP-Trust-Kit) 🐍 🏠 - Deterministic CI scanner and surface-risk scoring for MCP servers.
 - [artvepa80/Agents-Hefesto](https://github.com/artvepa80/Agents-Hefesto) 🐍 ☁️ 🏠 - Code quality and security review MCP server for AI-generated code, including semantic drift, complexity, and vulnerability analysis.
+- [bleak-ai/gcontext](https://github.com/bleak-ai/gcontext) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Secure agent execution: structure syncs to the cloud, secret values and script execution never leave your machine. Typed workspace (tasks, integrations, scripts) with secrets split. Install with `uvx gcontext-mcp`, free, self-hostable.
 - [arcjet/mcp](https://docs.arcjet.com/mcp-server) ☁️ - Runtime security platform for AI applications, including budget enforcement, prompt-injection protection, bot detection, and PII controls.
 - [sidclawhq/platform](https://github.com/sidclawhq/platform) 📇 🏠 - Governance proxy for MCP servers with identity, policy evaluation, human approval, and traceability for agent actions.
 - [Scottpedia0/access](https://github.com/Scottpedia0/access) 📇 🏠 🍎 🪟 🐧 - Self-hosted credential store, API proxy, and MCP server that lets agents access services through one controlled bearer token.
