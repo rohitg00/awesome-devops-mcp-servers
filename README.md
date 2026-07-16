@@ -90,6 +90,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [eniayomi/gcp-mcp](https://github.com/eniayomi/gcp-mcp) 📇 ☁️ - A Model Context Protocol server for Google Cloud Platform, enabling AI assistants to interact with GCP resources.
 
 #### Other Cloud Platforms
+- [appwrite/mcp](https://github.com/appwrite/mcp) 🎖️ 🐍 ☁️ - Official Appwrite MCP server. Manage Appwrite Cloud or self-hosted backends (databases, auth, functions, storage, messaging) via hosted OAuth at `https://mcp.appwrite.io/` or a project API key.
 - [bright8192/esxi-mcp-server](https://github.com/bright8192/esxi-mcp-server) 🐍 ☁️ - A VMware ESXi/vCenter management server based on MCP (Model Control Protocol), providing simple REST API interfaces for virtual machine management.
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) 🎖️ 📇 ☁️ - Integration with Cloudflare services including Workers, KV, R2, and D1.
 - [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) 🏎️ 🏠/☁️ - Go-based MCP Server for interfacing with Nutanix Prism Central resources.
