@@ -370,6 +370,9 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
+### 💸 Agent Payment Infrastructure
+Paid API platforms and payment protocols for autonomous agent transactions.
+- [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) 📇 ☁️ - Production x402-paid data API platform for AI agents. 54 services, 97 endpoints, 37 MCP tools covering crypto prices, market data, analytics, and web services. Per-call micropayments via x402 protocol on Base mainnet (USDC). Live at [agentservices.to](https://agentservices.to).
 
 ## Frameworks
 
