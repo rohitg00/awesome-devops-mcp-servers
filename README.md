@@ -173,6 +173,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
+- [aristiun/aribot-mcp](https://github.com/aristiun/aribot-mcp) - Remote MCP server for security work: STRIDE/LINDDUN threat modeling from a design or repo, code, CI/CD and cloud scanning, shadow-AI and API discovery, and compliance checks against NIST, ISO 27001 and SOC 2 - each finding mapped to a control and a remediation. Scoped by OAuth 2.1, RBAC, tenant and licence.
 
 ## CI/CD & DevOps Pipelines
 
