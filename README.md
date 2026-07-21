@@ -9,6 +9,7 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 ## Related Resources
 
 - [awesome](https://github.com/sindresorhus/awesome#readme) - Awesome lists about all kinds of interesting topics.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI pentesting platform (GPL-3.0) covering web, AD and Kubernetes, where the LLM never sees real IPs or credentials (local privacy gateway).
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/) - A comprehensive list of all MCP servers.
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) - A list of MCP clients.
 
