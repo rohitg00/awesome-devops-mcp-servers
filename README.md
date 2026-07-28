@@ -298,6 +298,7 @@ Tools for analyzing and managing project dependencies across build systems.
 - [tersePrompts/jarp-mcp](https://github.com/tersePrompts/jarp-mcp) 📇 ☕ 🏠 - Java Archive Reader Protocol - MCP server that gives AI agents X-ray vision into compiled Java code. Enables decompiling and analyzing Java classes directly from Maven/Gradle dependencies using bundled CFR decompiler with zero-setup installation.
 
 ## Monitoring & Observability
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Trend analytics MCP/API including npm downloads, GitHub trending, app rankings, and web traffic signals.
 
 ### 📊 Metrics & Monitoring
 Tools for collecting, querying, and analyzing metrics in DevOps environments.
