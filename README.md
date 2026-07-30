@@ -356,6 +356,11 @@ Tools for managing web publishing platforms and CMS-backed services.
 
 ## AI Agent Infrastructure
 
+### 🚦 Gateways & Governance
+Tools for routing, governing, and observing AI-agent execution through shared infrastructure.
+
+- [happy520ai/unified-ai-system](https://github.com/happy520ai/unified-ai-system) 📇 🏠 - Terminal-first, self-hosted AI gateway with eight MCP tools for health, readiness, credential-free fake-provider chat, knowledge, workflows, and workforce status. Ships anonymously pullable multi-architecture Docker images.
+
 ### 🧠 Memory & Context
 Tools for persistent memory, context management, and knowledge retention for AI agents.
 
