@@ -302,6 +302,7 @@ Tools for analyzing and managing project dependencies across build systems.
 ### 📊 Metrics & Monitoring
 Tools for collecting, querying, and analyzing metrics in DevOps environments.
 
+- [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) 📇 ☁️ - Live infrastructure telemetry for data-center and power-grid operations: real-time grid metrics across 49 regions, interconnection-queue depth, capacity headroom, and configurable market/site alerts for AI-assisted capacity planning. Remote MCP at https://dchub.cloud/mcp with a keyless free tier.
 - [CaesarYangs/prometheus_mcp_server](https://github.com/CaesarYangs/prometheus_mcp_server) 🐍 ☁️ - A Model Context Protocol server enabling LLMs to query, analyze, and interact with Prometheus databases through predefined routes.
 - [etruong42/prometheus-mcp](https://github.com/etruong42/prometheus-mcp) 🐍 ☁️ - MCP server to connect LLMs with Prometheus HTTP API for metrics querying and analysis.
 - [loginmqv/mcp-server-prometheus](https://github.com/loginmqv/mcp-server-prometheus) 📇 ☁️ - MCP server for interacting with Prometheus, enabling AI assistants to query and analyze metrics data.
