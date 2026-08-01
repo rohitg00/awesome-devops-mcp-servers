@@ -136,6 +136,7 @@ Interact with Git repositories and version control platforms. Enables repository
 ### 🔒 Security
 MCP servers for security operations, vulnerability scanning, and threat detection.
 
+- [stcmain/whats-inherited-mcp](https://github.com/stcmain/whats-inherited-mcp) 📇 🏠 🍎 🪟 🐧 - Shows what a checkout tells your agent to do before you run it: instruction files (`CLAUDE.md`/`AGENTS.md` plus their imports), commands wired to auto-run via hooks or settings, MCP servers the repo declares, and skills/commands/subagents shipped under `.claude/` or `.agents/`. Quoted repo strings are returned labelled as data, not instructions. Read-only — no child processes, no network, no writes. `npx -y whats-inherited-mcp`
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ☕ 🏠 - A Model Context Protocol server for Ghidra that enables LLMs to autonomously reverse engineer applications. Provides tools for decompiling binaries, renaming methods and data, and listing methods, classes, imports, and exports.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
 - [BurtTheCoder/mcp-shodan](https://github.com/BurtTheCoder/mcp-shodan) 📇 🪟 ☁️ - MCP server for querying the Shodan API and Shodan CVEDB. This server provides tools for IP lookups, device searches, DNS lookups, vulnerability queries, CPE lookups, and more.
