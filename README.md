@@ -370,6 +370,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
+- [pich/ai-economics-mcp](https://github.com/pich/ai-economics-mcp) 📇 ☁️ - 12 calculators for AI budget decisions: token cost across vendors, context-window sizing, agent-hour cost (compute + human review), model-routing savings, LLM energy and CO2, joules per verified task, org-wide token burn, humanoid energy budgets, Proof-Adjusted Autonomy, revocation exposure, verification bottleneck and proof debt. Keyless free API, stateless. By Michał Piszczek — https://piszczek.pl/tools. `npx -y @michalpiszczek/ai-economics-mcp`
 
 ## Frameworks
 
