@@ -282,6 +282,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/server-puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
 - [kc23go/anybrowse](https://github.com/kc23go/anybrowse) 📇 ☁️ - Web scraping MCP server for AI agents using managed Chrome, with npm package and hosted service options.
+- [Parallel Search MCP](https://github.com/parallel-web/parallel-llms-txt/blob/main/public/docs/integrations/mcp/search-mcp.md) ☁️ - Hosted web search and page retrieval for technical documentation and incident research in engineering workflows. Connect over Streamable HTTP at `https://search.parallel.ai/mcp`.
 - [plasmate-labs/plasmate-mcp](https://github.com/plasmate-labs/plasmate-mcp) 📇 ☁️ - MCP server for Plasmate web-content capture and processing workflows in AI coding assistants.
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation for AI agents on macOS, including navigation, interaction, screenshots, network inspection, and accessibility snapshots.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) 📇 🏠 - Plugin-based MCP server for giving AI agents structured access to web applications through the user's browser session.
