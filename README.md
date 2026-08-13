@@ -353,6 +353,7 @@ Tools for managing projects, issues, and workflows.
 ### 🌐 CMS & Web Platforms
 Tools for managing web publishing platforms and CMS-backed services.
 - [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp) 📇 🏠 - WordPress management MCP server built on WP-CLI for themes, plugins, posts, menus, users, database operations, and scaffolding.
+- [harvis-io/harvis-dev-mcp](https://github.com/harvis-io/harvis-dev-mcp) ☁️ - Deploy static sites from AI agents via harvis.dev: a remote MCP server whose deploy_site tool publishes a folder of files and returns a live URL in seconds, no account or API key required.
 
 ## AI Agent Infrastructure
 
