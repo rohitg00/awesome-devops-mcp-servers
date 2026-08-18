@@ -183,6 +183,7 @@ Tools for automating the integration of code changes and running tests.
 - [Tiberriver256/mcp-server-github-actions](https://github.com/Tiberriver256/mcp-server-github-actions) 📇 ☁️ - MCP server for interacting with GitHub Actions workflows, enabling AI assistants to manage CI/CD pipelines.
 - [lobehub/mcp-hello-world](https://github.com/lobehub/mcp-hello-world) 📇 ☁️ - A simple Hello World MCP server for CI/CD test.
 - [ratamaha-git/n8n-mcp](https://github.com/ratamaha-git/n8n-mcp) 📇 🏠 - MCP server for authoring n8n workflows: scaffolds custom node TypeScript skeletons, generates valid workflow JSON from natural-language descriptions, and lints workflows for deprecated node types, missing `typeVersion`, and broken connections. Ships with a Claude Code skill.
+- [uizze/uizze](https://github.com/uizze/uizze) 📇 ☁️ - UI quality gate for AI coding agents: free anti-ui-slop Skill, no-account `check_ui_slop` preview, and GitHub Action that catches generic UI, missing states, inert controls, and token drift before frontend changes ship; the optional full workflow is grounded in 800,000+ real web and iOS screens.
 
 ### 📱 Mobile CI/CD
 Tools specifically designed for mobile application CI/CD pipelines.
