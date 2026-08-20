@@ -174,6 +174,8 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
 
+- [ezequiellich44-cmd/MandateGuard](https://github.com/ezequiellich44-cmd/MandateGuard) 🐍 💻 - Deterministic payment policy enforcement for AI agents: pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 payment mandates, zero LLM in the decision path, tamper-evident SHA-256 audit ledger. Official MCP server on the Model Context Protocol Registry.
+
 ## CI/CD & DevOps Pipelines
 
 ### 🔄 Continuous Integration
