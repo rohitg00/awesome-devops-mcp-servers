@@ -370,6 +370,8 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
+- [Das-rebel/a3m-router](https://github.com/Das-rebel/a3m-router) 📇 🏠 ☁️ 🍎 🪟 🐧 - Open-source LLM gateway with biology-inspired routing (EXP3, swarm intelligence) for AI agents. Routes queries across 80+ providers with 92% cost savings. npm: `@a3m/mcp-server`. `npx @a3m/mcp-server`
+
 
 ## Frameworks
 
