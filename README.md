@@ -3,6 +3,7 @@
 A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps tools and capabilities.
 
 ## What is MCP?
+- [Speculative-MCP](https://github.com/VoDaiLocz/speculative-mcp) - Universal high-performance speculative tool execution proxy that hides tool I/O latency in AI agent loops.
 
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on DevOps-related MCP servers that extend AI capabilities through cloud infrastructure management, CLI operations, version control, security scanning, and other DevOps-related services.
 
