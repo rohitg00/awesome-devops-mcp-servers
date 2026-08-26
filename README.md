@@ -217,6 +217,8 @@ Tools for testing, fault injection, and resilience validation.
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
 
+- [VoDaiLocz/kilo-kit-mcp](https://github.com/VoDaiLocz/kilo-kit-mcp) 📇 🏠 🍎 🪟 🐧 - All-in-one 18-tool MCP runtime and 177-skill library providing protocol-level C4 workflow gates, hard-gated command execution with security guardrails, and cognitive reasoning engines (Tree of Thoughts DAG, Red-Team Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for coding agents across Antigravity, Cursor, Windsurf, Claude Code, and Codex.
+
 - [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) ☁️ 📇 🍎 🪟 🐧 - AI-powered developer assistant that enables advanced research, analysis and discovery across GitHub ecosystem
 - [oraios/serena](https://github.com/oraios/serena) 🐍🏠 - A fully-featured coding agent that relies on symbolic code operations by using language servers.
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) 🐍🏠 - Coding agent with basic read, write and command line tools.
