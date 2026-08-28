@@ -318,6 +318,7 @@ Tools for monitoring social media platforms and extracting data.
 Tools for managing alerts and notifications in monitoring systems.
 
 - [kaznak/alertmanager-mcp](https://github.com/kaznak/alertmanager-mcp) 📇 ☁️ - A Model Context Protocol server that integrates with Prometheus Alertmanager for alert management and notification.
+- [Spike](https://docs.spike.sh/mcp) 🎖️ ☁️ - Official Spike MCP server for incident management, alerting, and on-call. Remote server at https://mcp.spike.sh/mcp.
 
 ### 🔍 Application Performance Monitoring
 Tools for monitoring application performance and infrastructure health.
