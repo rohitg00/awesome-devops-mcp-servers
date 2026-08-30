@@ -203,6 +203,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment.
 - [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js) 🎖️ 📇 ☁️ - Execute any LLM-generated code in a secure and scalable sandbox environment and create your own MCP tools using JavaScript or Python, with full support for NPM and PyPI packages
 - [ckanthony/openapi-mcp](https://github.com/ckanthony/openapi-mcp) 🏎️ ☁️ - OpenAPI-MCP: Dockerized MCP Server to allow your AI agent to access any API with existing api docs.
 - [alfonsograziano/node-code-sandbox-mcp](https://github.com/alfonsograziano/node-code-sandbox-mcp) 📇 🏠 – A Node.js MCP server that spins up isolated Docker-based sandboxes for executing JavaScript snippets with on-the-fly npm dependency installation and clean teardown
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) 📇 🏠 ☁️ - Local-first MCP bridge for governed agent sessions, approvals, credentials, audit/replay, and sandboxed execution through local, Docker, Kubernetes, or self-hosted worker backends
 
 ### 🧪 Testing & Chaos Engineering
 Tools for testing, fault injection, and resilience validation.
