@@ -318,6 +318,7 @@ Tools for monitoring social media platforms and extracting data.
 Tools for managing alerts and notifications in monitoring systems.
 
 - [kaznak/alertmanager-mcp](https://github.com/kaznak/alertmanager-mcp) 📇 ☁️ - A Model Context Protocol server that integrates with Prometheus Alertmanager for alert management and notification.
+- [SMTPfast MCP Server](https://smtpfa.st/docs/mcp) 📇 ☁️ - Transactional email from agents: send, check domain DNS and deliverability, read bounces, complaints and received mail.
 
 ### 🔍 Application Performance Monitoring
 Tools for monitoring application performance and infrastructure health.
