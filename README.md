@@ -308,6 +308,7 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 - [pab1it0/prometheus-mcp-server](https://github.com/pab1it0/prometheus-mcp-server) 🐍 ☁️ - A Model Context Protocol server that enables AI assistants to query and analyze Prometheus metrics through standardized interfaces.
 - [VictoriaMetrics-Community/mcp-victoriametrics](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics) 🏎️ ☁️ - The implementation of Model Context Protocol (MCP) server for VictoriaMetrics. This provides access to your VictoriaMetrics instance and seamless integration with VictoriaMetrics APIs and documentation.
 - [Middleware MCP Server](https://github.com/middleware-labs/mcp-middleware) - MCP server for interacting with Middleware observability data, enabling AI assistants to query logs, metrics, traces, and infrastructure telemetry through standardized interfaces.
+- [tp322d/lastping-app](https://github.com/tp322d/lastping-app) 🎖️ 🏎️ ☁️ - Dead man's switch for AI agents, cron jobs and CI/CD pipelines. An agent creates its own monitor and wires in its own pings in one conversation; LastPing alerts when a run goes silent, stalls, fails or loops. Hosted at `https://mcp.lastping.dev/mcp`, or a stdio binary via `go install`.
 
 ### 📱 Social Media Monitoring
 Tools for monitoring social media platforms and extracting data.
