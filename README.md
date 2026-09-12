@@ -173,6 +173,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
+- [zambodotdev/zambo-mcp](https://github.com/zambodotdev/zambo-mcp) ☁️ - 100+ native MCP tools behind a single zero-auth remote endpoint, including code audit (ProvibeCode), plus strategy, lead generation, onchain scoring, credit discovery, and prompt defense. Solo-built by Brennan Zambo. Free 20 calls/tool/day, no signup.
 
 ## CI/CD & DevOps Pipelines
 
