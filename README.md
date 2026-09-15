@@ -285,6 +285,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [plasmate-labs/plasmate-mcp](https://github.com/plasmate-labs/plasmate-mcp) 📇 ☁️ - MCP server for Plasmate web-content capture and processing workflows in AI coding assistants.
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation for AI agents on macOS, including navigation, interaction, screenshots, network inspection, and accessibility snapshots.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) 📇 🏠 - Plugin-based MCP server for giving AI agents structured access to web applications through the user's browser session.
+- [psicossz29-netizen/base-http402-extractor-api](https://github.com/psicossz29-netizen/base-http402-extractor-api) 📇 ☁️ 🏠 🍎 🪟 🐧 - Autonomous HTTP 402 clean web-to-markdown extractor for LLMs with on-chain micro-metering ($0.05 USDC) on Base L2.
 
 ## Build Tools & Dependency Management
 
