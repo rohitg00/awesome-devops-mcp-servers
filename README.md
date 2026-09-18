@@ -350,6 +350,8 @@ Tools for managing projects, issues, and workflows.
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
 - [Pangu-Immortal/qflow](https://github.com/Pangu-Immortal/qflow) 🐍 🏠 - AI project-management MCP server for task tracking, spec-driven development, multi-agent collaboration, quality gates, and workflow automation.
+- [theluckystrike/mcp-time-tracker](https://github.com/theluckystrike/mcp-time-tracker) 📇 🏠 - Local-first time tracking MCP server with billable rates, project budgets, timesheet and CSV export; all data in plain JSON on your machine.
+- [theluckystrike/mcp-work-order](https://github.com/theluckystrike/mcp-work-order) 📇 🏠 - Work-order and job-card MCP server: assign jobs, track status, log materials and labour hours against each order, stored in local JSON files.
 ### 🌐 CMS & Web Platforms
 Tools for managing web publishing platforms and CMS-backed services.
 - [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp) 📇 🏠 - WordPress management MCP server built on WP-CLI for themes, plugins, posts, menus, users, database operations, and scaffolding.
