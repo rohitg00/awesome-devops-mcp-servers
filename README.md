@@ -352,6 +352,7 @@ Tools for managing projects, issues, and workflows.
 - [Pangu-Immortal/qflow](https://github.com/Pangu-Immortal/qflow) 🐍 🏠 - AI project-management MCP server for task tracking, spec-driven development, multi-agent collaboration, quality gates, and workflow automation.
 ### 🌐 CMS & Web Platforms
 Tools for managing web publishing platforms and CMS-backed services.
+- [faahim/postbag](https://github.com/faahim/postbag) 📇 ☁️ 🏠 - Open-source form backend for agents and static sites (email/Telegram/webhooks); MCP via `npx -y @postbag/mcp`; https://postbag.dev
 - [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp) 📇 🏠 - WordPress management MCP server built on WP-CLI for themes, plugins, posts, menus, users, database operations, and scaffolding.
 
 ## AI Agent Infrastructure
