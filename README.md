@@ -347,6 +347,7 @@ Tools for managing customer support tickets and helpdesk operations.
 ### 📋 Project Management
 Tools for managing projects, issues, and workflows.
 
+- [Noveum/orbit](https://github.com/Noveum/orbit) 📇 ☁️ - Manage issues, projects, sprints, docs and files through the [hosted MCP endpoint](https://orbit.noveum.ai/mcp) with workspace-scoped OAuth.
 - [nguyenvanduocit/jira-mcp](https://github.com/nguyenvanduocit/jira-mcp) 🏎️ ☁️ - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool provides a seamless interface for AI models to perform common Jira operations including issue management, sprint planning, and workflow transitions.
 - [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) 🐍 ☁️ - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data Center. Provides comprehensive tools for searching, reading, creating, and managing content across Atlassian workspaces.
 - [Pangu-Immortal/qflow](https://github.com/Pangu-Immortal/qflow) 🐍 🏠 - AI project-management MCP server for task tracking, spec-driven development, multi-agent collaboration, quality gates, and workflow automation.
