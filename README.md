@@ -335,6 +335,7 @@ Tools for monitoring application performance and infrastructure health.
 - [kame6493-del/mcp-diagnostics](https://github.com/kame6493-del/mcp-diagnostics) 📇 ☁️ - Website and server diagnostics MCP server for DNS, SSL, HTTP headers, security audits, WHOIS, and tech-stack detection.
 - [vdalhambra/siteaudit-mcp](https://github.com/vdalhambra/siteaudit-mcp) 🐍 ☁️ - URL audit MCP server for SEO, performance, accessibility, and security checks.
 - [Voidly](https://github.com/voidly-ai/mcp-server) 📇 ☁️ - MCP server for global network and censorship intelligence, useful for service-accessibility monitoring and blocking diagnostics.
+- [RealUptime](https://realuptime.io/docs/mcp) ☁️ - Hosted MCP server for managing uptime monitors, heartbeat checks, incidents and status pages. Remote Streamable HTTP at `https://mcp.realuptime.io/mcp`, API key authentication.
 
 ## Project & Service Management
 
