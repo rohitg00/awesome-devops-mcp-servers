@@ -97,6 +97,8 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [Qovery/qovery-mcp-server](https://mcp.qovery.com/mcp) 🏎️ ☁️ - Enterprise Kubernetes management via MCP. Deploy and manage applications, databases, Helm charts, and Terraform modules on AWS EKS, GCP GKE, Azure AKS, and Scaleway. Query environments, troubleshoot deployments, monitor infrastructure. [Docs](https://www.qovery.com/docs/copilot/mcp-server). Also has an [AI Agent Skill](https://github.com/Qovery/qovery-skills) for deploying from Claude Code, Cursor, and 30+ tools.
 - [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) 📇 ☁️ - Hosted MCP gateway for discovering and comparing Web3 infrastructure services such as RPCs, indexing, oracles, storage, compute, and developer tools.
 
+- [Shipvela](https://github.com/stefanautomateed/shipvela-codex) 🎖️ 📇 ☁️ - Create website projects, deploy supported GitHub repositories and inspect deployment status, build logs and usage through a remote OAuth MCP server. [Setup](https://shipvela.com/integrations/codex).
+
 ### 🗄️ Database Management
 Interact with databases, execute queries, inspect schemas, and manage data.
 
