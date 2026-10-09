@@ -87,6 +87,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server) 🎖️ 🐍 ☁️ - A MCP server that enables AI assistants to operation resources on Alibaba Cloud, supporting ECS, Cloud Monitor, OOS and widely used cloud products.
 
 #### GCP
+- [LocalGCloud/localcloud-cli](https://github.com/LocalGCloud/localcloud-cli) 🐍 🏠 🍎 🐧 - Free local cloud environment for AI coding agents to build, test, and debug Google Cloud applications, with MCP service discovery, SDK configuration, resource inspection, and diagnostics. [Website](https://local.cloud/) · [MCP guide](https://local.cloud/docs/mcp/) (CLI 0.1.9+, runtime 0.1.5+, Docker).
 - [eniayomi/gcp-mcp](https://github.com/eniayomi/gcp-mcp) 📇 ☁️ - A Model Context Protocol server for Google Cloud Platform, enabling AI assistants to interact with GCP resources.
 
 #### Other Cloud Platforms
