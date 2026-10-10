@@ -261,6 +261,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) - Unified MCP server exposing developer utilities such as QR generation, IP geolocation, AI cost helpers, LLM routing, and privacy tooling.
 - [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) - Korea-focused MCP utilities for privacy compliance, KRW/BOK rates, business registration lookup, geocoding, and NLP.
 - [unitedideas/nothumansearch](https://github.com/unitedideas/nothumansearch) 🏎️ ☁️ - MCP server for discovering agent-first tools and checking agentic readiness signals across indexed sites.
+- [Omega MCP Router](https://github.com/Omega-JS-Stack/omega/tree/main/packages/mcp-router) 📇 🏠 - Local MCP router that serves many upstream MCP servers through one stdio connection, loading tool schemas from a disk cache and starting each upstream only when a call needs it.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
