@@ -207,6 +207,8 @@ Code execution servers. Allow LLMs to execute code in a secure environment.
 ### 🧪 Testing & Chaos Engineering
 Tools for testing, fault injection, and resilience validation.
 
+- [openhook-dev/openhook-inbox](https://github.com/openhook-dev/openhook-inbox) 🐍 ☁️/🏠 - Webhook inboxes for testing integrations: capture callbacks, inspect payloads through MCP, and forward events to local handlers.
+
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 - [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) 📇 ☁️ - AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
