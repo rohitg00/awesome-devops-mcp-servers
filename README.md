@@ -207,6 +207,7 @@ Code execution servers. Allow LLMs to execute code in a secure environment.
 ### 🧪 Testing & Chaos Engineering
 Tools for testing, fault injection, and resilience validation.
 
+- [masakaai/rea-captcha](https://github.com/masakaai/rea-captcha) 📇 🏠 - Local MCP server for browser-agent verification testing using official provider test modes and owned flows. Reuses a configured Playwright/CDP session and requires fresh server-validated evidence before task resumption.
 - [Typewise/mcp-chaos-rig](https://github.com/Typewise/mcp-chaos-rig) 📇 🏠 - A local MCP server that breaks on demand. Test your client against auth failures, disappearing tools, flaky responses, and token expiry, all from a web UI.
 - [ai-dashboad/flutter-skill](https://github.com/ai-dashboad/flutter-skill) - AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 - [autonomous-testing/wopee-mcp](https://www.npmjs.com/package/wopee-mcp) 📇 ☁️ - AI testing agents for web apps — dispatch test runs, analysis crawls, and AI agent tests, fetch artifacts and project status.
