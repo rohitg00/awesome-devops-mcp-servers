@@ -102,6 +102,8 @@ Interact with databases, execute queries, inspect schemas, and manage data.
 
 - [haymon-ai/database](https://github.com/haymon-ai/database) 🦀 🏠 - Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite with zero runtime dependencies.
 
+- [rowsafe/rowsafe](https://github.com/rowsafe/rowsafe) 🏎️ ☁️ - Database health, backup and recovery workflows, and managed database provisioning through MCP. The agent, CLI and MCP server are Apache-2.0, with a separate hosted service.
+
 ### 🖥️ Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
 
