@@ -302,6 +302,7 @@ Tools for analyzing and managing project dependencies across build systems.
 ### 📊 Metrics & Monitoring
 Tools for collecting, querying, and analyzing metrics in DevOps environments.
 
+- [becoolme/openuptime](https://github.com/becoolme/openuptime) 📇 ☁️ 🏠 - Manage uptime monitors, incidents and public status pages through an OAuth-protected remote MCP server, hosted or self-hosted.
 - [CaesarYangs/prometheus_mcp_server](https://github.com/CaesarYangs/prometheus_mcp_server) 🐍 ☁️ - A Model Context Protocol server enabling LLMs to query, analyze, and interact with Prometheus databases through predefined routes.
 - [etruong42/prometheus-mcp](https://github.com/etruong42/prometheus-mcp) 🐍 ☁️ - MCP server to connect LLMs with Prometheus HTTP API for metrics querying and analysis.
 - [loginmqv/mcp-server-prometheus](https://github.com/loginmqv/mcp-server-prometheus) 📇 ☁️ - MCP server for interacting with Prometheus, enabling AI assistants to query and analyze metrics data.
