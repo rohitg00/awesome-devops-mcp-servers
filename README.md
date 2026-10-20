@@ -373,6 +373,7 @@ Tools for tracking and comparing model/API pricing for AI-agent workloads.
 
 ## Frameworks
 
+- [mcp-production-kit](https://github.com/A7mdMe/mcp-production-kit) 📇 🏠 ☁️ 🐳 - Enterprise TypeScript starter kit for building production MCP servers with dual stdio/SSE transports, SSRF-guarded HTTP fetch, namespaced KV memory store, and Docker support.
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 🏠 ☁️ - AI Agents framework with 64+ built-in MCP tools for automation, including search, memory, workflows, code execution, and file operations.
 Frameworks for building your own MCP servers.
 
