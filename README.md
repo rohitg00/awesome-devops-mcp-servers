@@ -369,6 +369,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory) 🐍 📇 🏠 - Local-first persistent agent memory with hybrid retrieval across semantic, lexical, temporal, and graph signals.
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
+- [alexbuilding/modevc-radar-mcp](https://github.com/alexbuilding/modevc-radar-mcp) 📇 ☁️ - MCP server with `calc_llm_inference_cost` (monthly LLM spend, prompt-cache savings, and 8-model pricing comparison) plus 39 daily AI pricing and adoption charts. Hosted at https://modevc.com/api/mcp. [Calculator](https://modevc.com/tools/llm-inference-calculator)
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
 
 ## Frameworks
