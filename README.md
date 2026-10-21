@@ -318,6 +318,7 @@ Tools for monitoring social media platforms and extracting data.
 Tools for managing alerts and notifications in monitoring systems.
 
 - [kaznak/alertmanager-mcp](https://github.com/kaznak/alertmanager-mcp) 📇 ☁️ - A Model Context Protocol server that integrates with Prometheus Alertmanager for alert management and notification.
+- [AarsyDesign/pushnotif-mcp](https://github.com/AarsyDesign/pushnotif-mcp) 🟢 ☁️ - Official MCP server for [PushNotif](https://pushnotif.biz.id) enabling AI agents to send Web Push (VAPID), Mobile Push (Android FCM & iOS APNs), 6-Digit Email OTP & Transactional Alerts, In-App Banners, and webhook-driven deployment/payment notifications.
 
 ### 🔍 Application Performance Monitoring
 Tools for monitoring application performance and infrastructure health.
