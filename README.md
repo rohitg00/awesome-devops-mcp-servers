@@ -290,6 +290,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 
 ### 🔧 Dependency Analysis
 Tools for analyzing and managing project dependencies across build systems.
+- [toprakahmetaydogmus/TZeroAlgorithm](https://github.com/toprakahmetaydogmus/TZeroAlgorithm) - Multi-language codebase AST dependency analyzer and token reducer with 37 tools for architectural boundary enforcement and up to 95% prompt token reduction across Python, TypeScript, Rust, Go, Solidity, Java, and C++. Install: pip install tzero-mcp.
 
 - [arvindand/maven-tools-mcp](https://github.com/arvindand/maven-tools-mcp) ☕ ☁️ 🏠 🍎 🪟 🐧 - Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Provides version lookups, dependency health checks, age analysis, release patterns, and upgrade guidance with Context7 integration.
 - [lunacompsia-oss/mcp-server-changelog](https://github.com/lunacompsia-oss/mcp-server-changelog) 📇 ☁️ 🏠 🍎 🪟 🐧 - Fetch and parse changelogs, release notes, and breaking changes from npm, PyPI, crates.io, and GitHub repositories.
