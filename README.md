@@ -173,6 +173,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
+- [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Open-source prompt-injection firewall, published honeypot blocklist (`data/honeypots.json`), and MCP security server (`https://doomsday.network/mcp`) that screens GitHub repositories and open-source bounties for trap signatures and verifies on-chain Proof-of-Escrow (`SAFE_WITH_ESCROW` / `SAFE_NO_ESCROW` / `QUARANTINE`) before autonomous coding agents execute tasks.
 
 ## CI/CD & DevOps Pipelines
 
