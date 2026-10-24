@@ -297,6 +297,11 @@ Tools for analyzing and managing project dependencies across build systems.
 - [lunacompsia-oss/mcp-server-license](https://github.com/lunacompsia-oss/mcp-server-license) 📇 ☁️ 🏠 🍎 🪟 🐧 - Check license types, SPDX compliance, compatibility matrices, and risk classification for open-source dependencies.
 - [tersePrompts/jarp-mcp](https://github.com/tersePrompts/jarp-mcp) 📇 ☕ 🏠 - Java Archive Reader Protocol - MCP server that gives AI agents X-ray vision into compiled Java code. Enables decompiling and analyzing Java classes directly from Maven/Gradle dependencies using bundled CFR decompiler with zero-setup installation.
 
+### 📚 Developer Documentation
+Read current, versioned library and framework documentation from canonical sources.
+
+- [getremcp/docsy-plugin](https://github.com/getremcp/docsy-plugin) 📇 ☁️ - Hosted OAuth 2.1 MCP with five read-only tools for resolving libraries, discovering versions and retrieving source-linked technical docs. Remote endpoint: `https://docsy.remcp.site/mcp/registry`.
+
 ## Monitoring & Observability
 
 ### 📊 Metrics & Monitoring
