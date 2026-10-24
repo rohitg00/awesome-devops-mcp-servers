@@ -367,7 +367,10 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) 🐍 🏠 ☁️ - Persistent memory and governance for AI agents with local core memory and optional cloud-backed policy, approval, and audit workflows.
 - [eidetic-works/nucleus-mcp](https://github.com/eidetic-works/nucleus-mcp) 🐍 🏠 - Persistent memory and execution context MCP server for AI IDEs, with local-first project memory and governance tools.
 - [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory) 🐍 📇 🏠 - Local-first persistent agent memory with hybrid retrieval across semantic, lexical, temporal, and graph signals.
-- [lm203688/flybrain-connectome](https://github.com/lm203688/flybrain-connectome) 🐍 🏠 🍎 🪟 🐧 - Auditable agent topology generator with 36 MCP tools: derives multi-agent architectures from real Drosophila MaleCNS v1.0 connectome motifs with W3C PROV-JSON provenance. EU AI Act compliant. Exports to LangGraph, CrewAI, AutoGen. 116 functional units, 270 module profiles, 58 quality gates.
+
+### 🌐 Multi-Agent Orchestration
+Agents that coordinate multiple sub-agents, generate topologies, or route workloads across them.
+- [lm203688/flybrain-connectome](https://github.com/lm203688/flybrain-connectome) 🐍 🏠 🍎 🗺️ 🐧 - Auditable multi-agent topology generator with 36 MCP tools: derives agent architectures from real Drosophila MaleCNS v1.0 connectome motifs, with optional W3C PROV-JSON traceable provenance (via dataprov package). Exports to LangGraph, CrewAI, AutoGen. 116 functional units, 270 module profiles, 62 quality gates.
 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
