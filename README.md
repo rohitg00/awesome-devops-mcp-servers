@@ -213,6 +213,7 @@ Tools for testing, fault injection, and resilience validation.
 - [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) 📇 🏠 - Unit test generation, coverage analysis, test planning, fixture generation, and mutation testing suggestions.
 - [rog0x/mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) 📇 🏠 - Benchmarking, profiling, memory analysis, CPU analysis, and load testing.
 - [rog0x/mcp-log-tools](https://github.com/rog0x/mcp-log-tools) 📇 🏠 - Log parsing, pattern detection, error extraction, log statistics, and anomaly detection.
+- [Kerno](https://www.npmjs.com/package/@kerno/cli) 📇 🏠 - The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop and tests each change against your running app and its real databases, queues and services.
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
