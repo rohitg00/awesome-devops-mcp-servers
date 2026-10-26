@@ -261,6 +261,7 @@ Servers for accessing many apps and tools through a single MCP server.
 - [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) - Unified MCP server exposing developer utilities such as QR generation, IP geolocation, AI cost helpers, LLM routing, and privacy tooling.
 - [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) - Korea-focused MCP utilities for privacy compliance, KRW/BOK rates, business registration lookup, geocoding, and NLP.
 - [unitedideas/nothumansearch](https://github.com/unitedideas/nothumansearch) 🏎️ ☁️ - MCP server for discovering agent-first tools and checking agentic readiness signals across indexed sites.
+- [Speakeasy control plane](https://github.com/speakeasy-api/gram) 🏎️ 📇 ☁️ 🏠 - MCP gateway that gives enterprise agents one governed endpoint for their tools, with identity-based access, per-action security policies, and audit logs.
 
 ### 📂 Browser Automation
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
