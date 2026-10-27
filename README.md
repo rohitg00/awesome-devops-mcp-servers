@@ -118,6 +118,8 @@ Run commands, capture output and otherwise interact with shells and command line
 - [YawLabs/tailscale-mcp](https://github.com/YawLabs/tailscale-mcp) 📇 ☁️ — Manage Tailscale tailnets with 52 tools for devices, ACL policies, DNS, auth keys, users, webhooks, and audit logs.
 - [nylas/cli](https://github.com/nylas/cli) 🏎️ ☁️ 🍎 🪟 🐧 - Email, calendar, contacts, webhook, timezone, and OTP command-line tool with built-in MCP server support.
 
+- [getremcp/remcp](https://github.com/getremcp/remcp) 📇 ☁️ 🏠 🍎 🪟 🐧 - ReMCP bridges OAuth-authorized AI agents to computers explicitly paired by their owners for file management, terminal, browser and desktop automation. Mutating device operations are supported; remote MCP: `https://remcp.site/mcp`.
+
 ### 🔄 Version Control
 Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
