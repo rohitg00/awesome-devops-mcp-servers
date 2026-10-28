@@ -312,6 +312,7 @@ Tools for collecting, querying, and analyzing metrics in DevOps environments.
 ### 📱 Social Media Monitoring
 Tools for monitoring social media platforms and extracting data.
 
+- [PostEverywhere](https://posteverywhere.ai/agents) 🎖️ 📇 ☁️ - Schedule and publish posts to Instagram, TikTok, YouTube, LinkedIn, X and more, with media, campaigns, analytics and AI captions. Hosted remote (Streamable HTTP, OAuth 2.1) at mcp.posteverywhere.ai/mcp.
 - [Xquik](https://xquik.com) 📇 ☁️ - X/Twitter account monitoring and data extraction — MCP server, REST API, HMAC webhooks, 40+ extraction tools.
 
 ### 🔔 Alerting & Notification
