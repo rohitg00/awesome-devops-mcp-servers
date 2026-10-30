@@ -281,6 +281,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility snapshots
 - [modelcontextprotocol/server-puppeteer](https://github.com/modelcontextprotocol/servers/tree/main/server-puppeteer) 📇 🏠 - Browser automation for web scraping and interaction
 - [ndthanhdev/mcp-browser-kit](https://github.com/ndthanhdev/mcp-browser-kit) 📇 🏠 - An MCP Server for interacting with manifest v2 compatible browsers.
+- [SergiuPogor/curlshot-mcp](https://github.com/SergiuPogor/curlshot-mcp) ☁️ - Hosted MCP server for the CurlShot screenshot API: capture any URL as PNG, JPEG, WebP, PDF or scrolling video, with device emulation (`take_screenshot`, `list_devices`).
 - [kc23go/anybrowse](https://github.com/kc23go/anybrowse) 📇 ☁️ - Web scraping MCP server for AI agents using managed Chrome, with npm package and hosted service options.
 - [plasmate-labs/plasmate-mcp](https://github.com/plasmate-labs/plasmate-mcp) 📇 ☁️ - MCP server for Plasmate web-content capture and processing workflows in AI coding assistants.
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation for AI agents on macOS, including navigation, interaction, screenshots, network inspection, and accessibility snapshots.
