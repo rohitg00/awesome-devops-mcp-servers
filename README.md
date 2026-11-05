@@ -285,6 +285,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [plasmate-labs/plasmate-mcp](https://github.com/plasmate-labs/plasmate-mcp) 📇 ☁️ - MCP server for Plasmate web-content capture and processing workflows in AI coding assistants.
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation for AI agents on macOS, including navigation, interaction, screenshots, network inspection, and accessibility snapshots.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) 📇 🏠 - Plugin-based MCP server for giving AI agents structured access to web applications through the user's browser session.
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) 🎖️ 📇 ☁️/🏠 - Official MCP server for [Firecrawl](https://www.firecrawl.dev/?utm_source=awesome-devops-mcp-servers&utm_medium=integration), the context API for AI agents. Search, scrape, and interact with web pages, crawl and map sites, and monitor pages for changes, returning Markdown or structured JSON.
 
 ## Build Tools & Dependency Management
 
