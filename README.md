@@ -96,6 +96,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 - [arnstarn/mcp-server-spotinst](https://github.com/arnstarn/mcp-server-spotinst) 🐍 ☁️ - MCP server for Spot.io (Spotinst) API with 23 tools for managing Ocean clusters, VNGs, Elastigroups, costs, right-sizing, and logs across AWS and Azure with multi-account support.
 - [Qovery/qovery-mcp-server](https://mcp.qovery.com/mcp) 🏎️ ☁️ - Enterprise Kubernetes management via MCP. Deploy and manage applications, databases, Helm charts, and Terraform modules on AWS EKS, GCP GKE, Azure AKS, and Scaleway. Query environments, troubleshoot deployments, monitor infrastructure. [Docs](https://www.qovery.com/docs/copilot/mcp-server). Also has an [AI Agent Skill](https://github.com/Qovery/qovery-skills) for deploying from Claude Code, Cursor, and 30+ tools.
 - [Chain.Love MCP](https://github.com/Chain-Love/chain.love-mcp) 📇 ☁️ - Hosted MCP gateway for discovering and comparing Web3 infrastructure services such as RPCs, indexing, oracles, storage, compute, and developer tools.
+- [mrhy7176/cloudgpu-mcp](https://github.com/mrhy7176/cloudgpu-mcp) 🎖️ 📇 ☁️ - Official CloudGPU MCP server: list GPUs, quote a job, create an instance only after user approval, run commands, transfer files, read logs and stop the instance.
 
 ### 🗄️ Database Management
 Interact with databases, execute queries, inspect schemas, and manage data.
