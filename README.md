@@ -296,6 +296,7 @@ Tools for analyzing and managing project dependencies across build systems.
 - [lunacompsia-oss/mcp-server-deps](https://github.com/lunacompsia-oss/mcp-server-deps) 📇 ☁️ 🏠 🍎 🪟 🐧 - Analyze dependency trees, check for vulnerabilities via OSV.dev, and audit outdated packages across npm, PyPI, and crates.io.
 - [lunacompsia-oss/mcp-server-license](https://github.com/lunacompsia-oss/mcp-server-license) 📇 ☁️ 🏠 🍎 🪟 🐧 - Check license types, SPDX compliance, compatibility matrices, and risk classification for open-source dependencies.
 - [tersePrompts/jarp-mcp](https://github.com/tersePrompts/jarp-mcp) 📇 ☕ 🏠 - Java Archive Reader Protocol - MCP server that gives AI agents X-ray vision into compiled Java code. Enables decompiling and analyzing Java classes directly from Maven/Gradle dependencies using bundled CFR decompiler with zero-setup installation.
+- [PabloCirre/kaijuconverter-mcp](https://github.com/PabloCirre/kaijuconverter-mcp) 📇 🐍 ☁️ 🏠 🍎 🪟 🐧 - Universal file conversion and document processing MCP server with 54 tools supporting 201+ file formats, automated validation, and OCR.
 
 ## Monitoring & Observability
 
