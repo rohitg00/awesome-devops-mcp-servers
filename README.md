@@ -371,6 +371,9 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
 
+- [ronanchnlps-bit/mcp-github-gitlab-pr-security-and-compliance-reviewer](https://github.com/ronanchnlps-bit/mcp-github-gitlab-pr-security-and-compliance-reviewer) 📇 🏠 - Zero-cost deterministic GitHub & GitLab Pull Request security, OWASP, WCAG 2.2 AA, and SOC 2 compliance reviewer MCP server.
+- [LBCron/openapi-swagger-mcp-tool-generator-cli](https://github.com/LBCron/openapi-swagger-mcp-tool-generator-cli) 📇 🏠 - Zero-dependency CLI that converts any OpenAPI 3.x / Swagger spec into a runnable Model Context Protocol (MCP) server with Zod validation.
+
 ## Frameworks
 
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 🏠 ☁️ - AI Agents framework with 64+ built-in MCP tools for automation, including search, memory, workflows, code execution, and file operations.
