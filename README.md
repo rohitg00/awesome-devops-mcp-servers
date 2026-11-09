@@ -173,7 +173,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
-- [devburaq/gmpsignal-mcp-n8n-starter-kit](https://github.com/devburaq/gmpsignal-mcp-n8n-starter-kit) 📇 ☁️ 🏠 🍎 🪟 🐧 - DevSecOps & threat intelligence MCP server correlating CISA Known Exploited Vulnerabilities (KEV), FIRST.org 30-day EPSS exploitation probabilities, NVD CVSS v3 scores, domain DNS/SPF/DMARC/SSL security posture, and smart contract security audits. Install via `npx -y @gmpsignal/mcp-server`.
+- [devburaq/gmpsignal-mcp-n8n-starter-kit](https://github.com/devburaq/gmpsignal-mcp-n8n-starter-kit) 📇 ☁️ 🏠 🍎 🪟 🐧 - DevSecOps & threat intelligence MCP server correlating CISA Known Exploited Vulnerabilities (KEV), FIRST.org 30-day EPSS exploitation probabilities, NVD CVSS v3 scores, domain DNS/SPF/DMARC/SSL security posture, and smart contract security audits. Install via `npx -y @gmpsignal/mcp-server` (requires `APIFY_TOKEN` for live tool calls).
 
 ## CI/CD & DevOps Pipelines
 
