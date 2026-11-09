@@ -173,6 +173,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
+- [Hadinkof/capabilitymap-nexus-mcp](https://github.com/Hadinkof/capabilitymap-nexus-mcp) 🐍 📇 ☁️ 🏠 🍎 🪟 🐧 - Problem-first GitHub capability router (666 manifest-verified repositories, 96.4% token savings) with a 5-vector prompt-injection security firewall (`inspect_mcp_output_firewall`) and cross-ecosystem dependency vulnerability auditor (`audit_stack_dependencies`). Listed in the Official MCP Registry.
 
 ## CI/CD & DevOps Pipelines
 
