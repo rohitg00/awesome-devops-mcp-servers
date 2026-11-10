@@ -367,6 +367,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 - [novyxlabs/novyx-mcp](https://github.com/novyxlabs/novyx-mcp) 🐍 🏠 ☁️ - Persistent memory and governance for AI agents with local core memory and optional cloud-backed policy, approval, and audit workflows.
 - [eidetic-works/nucleus-mcp](https://github.com/eidetic-works/nucleus-mcp) 🐍 🏠 - Persistent memory and execution context MCP server for AI IDEs, with local-first project memory and governance tools.
 - [qualixar/superlocalmemory](https://github.com/qualixar/superlocalmemory) 🐍 📇 🏠 - Local-first persistent agent memory with hybrid retrieval across semantic, lexical, temporal, and graph signals.
+- [MeetJSON](https://meetjson.com) 🎖️ 📇 ☁️ - Ultra-low-latency (~0.04ms) Edge MCP server (`https://api.meetjson.com/mcp` & `/sse`) for AST code skeleton extraction, JSON/data pruning, persistent state (`meetjson_state`), and broken JSON stream healing, reducing LLM context token usage by 60–99%.
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
