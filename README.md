@@ -318,6 +318,7 @@ Tools for monitoring social media platforms and extracting data.
 Tools for managing alerts and notifications in monitoring systems.
 
 - [kaznak/alertmanager-mcp](https://github.com/kaznak/alertmanager-mcp) 📇 ☁️ - A Model Context Protocol server that integrates with Prometheus Alertmanager for alert management and notification.
+- [Nightingale](https://github.com/ccfos/nightingale) 🎖️ 🏎️ 🏠 - Built-in MCP server in the main Nightingale process for querying alerts, metrics, and logs, and managing alerting.
 
 ### 🔍 Application Performance Monitoring
 Tools for monitoring application performance and infrastructure health.
