@@ -213,6 +213,7 @@ Tools for testing, fault injection, and resilience validation.
 - [rog0x/mcp-testing-tools](https://github.com/rog0x/mcp-testing-tools) 📇 🏠 - Unit test generation, coverage analysis, test planning, fixture generation, and mutation testing suggestions.
 - [rog0x/mcp-perf-tools](https://github.com/rog0x/mcp-perf-tools) 📇 🏠 - Benchmarking, profiling, memory analysis, CPU analysis, and load testing.
 - [rog0x/mcp-log-tools](https://github.com/rog0x/mcp-log-tools) 📇 🏠 - Log parsing, pattern detection, error extraction, log statistics, and anomaly detection.
+- [emirmrkaljevic/behave](https://github.com/emirmrkaljevic/behave) 🏎️ 🏠 🍎 🐧 - Explores a CLI tool as a black box and records its behavior as replayable tests, then runs them against another implementation (e.g. a Rust or Go rewrite) to show where the two differ. Works as a CLI and an MCP server.
 
 ### 🤖 Coding Agents
 Full coding agents that enable LLMs to read, edit, and execute code and solve general programming tasks completely autonomously.
