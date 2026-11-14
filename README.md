@@ -188,6 +188,7 @@ Tools for automating the integration of code changes and running tests.
 Tools specifically designed for mobile application CI/CD pipelines.
 
 - [stefanoamorelli/codemagic-mcp](https://github.com/stefanoamorelli/codemagic-mcp) 🐍 ☁️ - Codemagic CI/CD MCP Server for mobile app CI/CD pipeline management.
+- [ghost-in-the-droid/android-agent](https://github.com/ghost-in-the-droid/android-agent) 🐍 🏠 🍎 🪟 🐧 - Give any LLM agent a real Android phone (iPhone is opt-in). 66 MCP tools, a Skill Hub of 117 skills for 113 apps that replay routes with no LLM, and human-in-the-loop captcha solving. `uvx --from ghost-in-the-droid android-agent-mcp`
 
 ### 🔄 DevOps Visibility
 Tools for providing visibility across the entire DevOps lifecycle.
