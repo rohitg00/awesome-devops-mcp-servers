@@ -285,6 +285,7 @@ Web content access and automation capabilities. Enables searching, scraping, and
 - [plasmate-labs/plasmate-mcp](https://github.com/plasmate-labs/plasmate-mcp) 📇 ☁️ - MCP server for Plasmate web-content capture and processing workflows in AI coding assistants.
 - [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp) 📇 🏠 🍎 - Native Safari browser automation for AI agents on macOS, including navigation, interaction, screenshots, network inspection, and accessibility snapshots.
 - [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs) 📇 🏠 - Plugin-based MCP server for giving AI agents structured access to web applications through the user's browser session.
+- [BEBOTECH-OU/scrapewise-mcp](https://github.com/BEBOTECH-OU/scrapewise-mcp) ☁️ - Remote MCP server that scrapes, cleans and matches product and price data from any website.
 
 ## Build Tools & Dependency Management
 
