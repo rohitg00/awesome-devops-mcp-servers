@@ -171,6 +171,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [Scottpedia0/access](https://github.com/Scottpedia0/access) 📇 🏠 🍎 🪟 🐧 - Self-hosted credential store, API proxy, and MCP server that lets agents access services through one controlled bearer token.
 - [ExposureGuard/haldir](https://github.com/ExposureGuard/haldir) 🐍 ☁️ 🍎 🪟 🐧 - Agent security layer for scoped sessions, secrets, audit trails, and proxy-based tool-call review.
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
+- [ElNeMeR70/smart-quota-orchestrator](https://github.com/ElNeMeR70/smart-quota-orchestrator) 🐍 🏠 - Zero-dependency engineering OS for AI coding agents with 53 MCP tools: sub-15ms stateful token firewall, Cloud FinOps bill-shock guard, OWASP SAST, and an 8-gate PR review shield.
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
 
