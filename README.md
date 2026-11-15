@@ -387,3 +387,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+- [No Stairs Please MCP](https://github.com/ratacat/nostairsplease-mcp) - Public remote MCP server (`https://nostairsplease.com/mcp`) for discovering independent live-music venues and small stages across all 50 US states, DC, and British Columbia.
