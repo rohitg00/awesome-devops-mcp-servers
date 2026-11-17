@@ -11,6 +11,7 @@ A curated list of awesome Model Context Protocol (MCP) servers focused on DevOps
 - [awesome](https://github.com/sindresorhus/awesome#readme) - Awesome lists about all kinds of interesting topics.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/) - A comprehensive list of all MCP servers.
 - [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/) - A list of MCP clients.
+- [Roopedia MCP Security Hub](https://roopedia.com/mcp) - Audited MCP server transport and permission profiles with verified pricing telemetry.
 
 ## Legend
 
