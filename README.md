@@ -173,6 +173,7 @@ MCP servers for security operations, vulnerability scanning, and threat detectio
 - [ExposureGuard/exposureguard-mcp](https://github.com/ExposureGuard/exposureguard-mcp) 🐍 ☁️ 🍎 🪟 🐧 - Domain security scanning MCP server for SPF, DMARC, SSL, headers, DNSSEC, and open-port checks with remediation guidance.
 - [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate) 📇 🏠 - Pre-action gates for AI coding agents, blocking risky or repeated mistakes before they affect code or systems.
 - [matthiastjong/shellgate](https://github.com/matthiastjong/shellgate) 📇 ☁️/🏠 - Self-hosted secure gateway for AI agents with scoped tokens, credential injection, human review, SSH execution, and audit trails.
+- [crimsondevil0929/fiduciary](https://github.com/crimsondevil0929/fiduciary) 🐍 🏠 🍎 🪟 🐧 - Drop-in MCP proxy (`fiduciary protect`) and GitHub Actions PR gate (`fiduciary ci`) for AI agents with pre-execution SQLite and directory staging, Ed25519 and WebAuthn passkey approvals, outbound secret scanning, and signed `.fidb` audit bundles.
 
 ## CI/CD & DevOps Pipelines
 
