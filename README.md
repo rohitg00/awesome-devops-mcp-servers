@@ -101,6 +101,7 @@ Tools for managing containers, Kubernetes clusters, and related orchestration pl
 Interact with databases, execute queries, inspect schemas, and manage data.
 
 - [haymon-ai/database](https://github.com/haymon-ai/database) 🦀 🏠 - Single-binary MCP server for MySQL, MariaDB, PostgreSQL & SQLite with zero runtime dependencies.
+- [VibeRaven](https://github.com/ohad6k/VibeRaven) 📇 ☁️ - Reviews supplied Supabase migration SQL for missing RLS and Data API grants over MCP.
 
 ### 🖥️ Command Line
 Run commands, capture output and otherwise interact with shells and command line tools.
