@@ -371,6 +371,10 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
 
+### ⚙️ Task Queues & Multi-Agent Orchestration
+Tools for dispatching, queuing, and orchestrating background AI coding agents.
+- [slashman413/cowork](https://github.com/slashman413/cowork) 📇 🏠 🍎 🐧 - Self-hosted MCP task queue and multi-agent background runner (v1.0.3). Exposes a native Streamable HTTP `/mcp` server, filesystem state machine, deterministic fallback chains for rate-limit resilience, and a live web dashboard. MIT licensed.
+
 ## Frameworks
 
 - [MervinPraison/praisonai-mcp](https://github.com/MervinPraison/praisonai-mcp) 🐍 🏠 ☁️ - AI Agents framework with 64+ built-in MCP tools for automation, including search, memory, workflows, code execution, and file operations.
