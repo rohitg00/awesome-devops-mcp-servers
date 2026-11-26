@@ -353,6 +353,7 @@ Tools for managing projects, issues, and workflows.
 ### 🌐 CMS & Web Platforms
 Tools for managing web publishing platforms and CMS-backed services.
 - [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp) 📇 🏠 - WordPress management MCP server built on WP-CLI for themes, plugins, posts, menus, users, database operations, and scaffolding.
+- [blockdancez/PreviewShip](https://github.com/blockdancez/PreviewShip) 📇 🏠 ☁️ - MCP server (`previewship-mcp`) for deploying browser-ready HTML, Markdown, PDF, and static frontend build output (`dist`/`build`/`out`) to fixed shareable HTTPS preview URLs.
 
 ## AI Agent Infrastructure
 
